@@ -1,0 +1,1068 @@
+artist,song,album,album_type,release_date,artist_type,duration_ms,explicit,track_number,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,pop,dance,metal,rock,hip_hop,edm,r&b,country,emo,latin,k-pop,year
+blink-182,All The Small Things,Enema Of The State,album,1999-01-01,artist,168000,False,8,0.439,0.891,0,-4.764,1,0.057,0.0122,0.0,0.547,0.695,148.599,4,1,0,0,1,0,0,0,0,0,0,0,1999
+Wheatus,Teenage Dirtbag,Wheatus,album,1999-02-15,artist,241666,True,3,0.625,0.85,4,-3.904,1,0.0495,0.346,0.000233,0.174,0.633,94.661,4,0,0,0,0,0,0,0,0,0,0,0,1999
+Splender,I Think God Can Explain,Halfway Down The Sky,album,1999-05-18,artist,236760,False,6,0.48,0.729,10,-4.398,1,0.028,0.0129,0.0,0.0862,0.509,137.232,4,1,0,0,1,0,0,0,0,0,0,0,1999
+Good Charlotte,Lifestyles of the Rich & Famous,Good Charlotte/The Young And The Hopeless,album,2000-01-01,artist,190173,False,3,0.62,0.93,1,-3.799,1,0.038,0.000437,0.0,0.0682,0.587,106.216,4,1,0,1,1,0,0,0,0,0,0,0,2000
+Good Charlotte,The Anthem,Good Charlotte/The Young And The Hopeless,album,2000-01-01,artist,175093,False,2,0.495,0.938,1,-3.267,1,0.124,0.0079,0.0,0.14,0.881,177.754,4,1,0,1,1,0,0,0,0,0,0,0,2000
+Sum 41,In Too Deep,"All Killer, No Filler",album,2001-01-01,artist,207093,False,7,0.566,0.835,9,-5.885,1,0.0504,0.000192,0.0,0.0581,0.749,116.041,4,1,0,1,1,0,0,0,0,0,0,0,2001
+Jimmy Eat World,The Middle,Bleed American (Deluxe Edition),album,2001-01-01,artist,168253,False,3,0.634,0.886,2,-3.466,1,0.0517,0.0291,0.0,0.342,0.922,161.933,4,1,0,0,1,0,0,0,0,1,0,0,2001
+Avril Lavigne,Complicated,Under My Skin/Let Go,compilation,2002-01-01,artist,244506,False,2,0.585,0.776,5,-5.898,1,0.0459,0.0572,7.74e-06,0.3,0.427,77.987,4,1,1,0,0,0,0,0,0,0,0,0,2002
+Avril Lavigne,Sk8er Boi,Under My Skin/Let Go,compilation,2002-01-01,artist,204000,False,3,0.487,0.9,0,-4.417,1,0.0482,6.79e-05,0.0,0.358,0.484,149.937,4,1,1,0,0,0,0,0,0,0,0,0,2002
+Daniel Bedingfield,If You're Not The One,Gotta Get Thru This,album,2002-01-01,artist,257026,False,4,0.688,0.538,10,-7.608,1,0.0292,0.504,0.0,0.111,0.27,119.998,4,1,1,0,0,0,0,0,0,0,0,0,2002
+Daniel Bedingfield,If You're Not The One - Acoustic Version,Gotta Get Thru This,album,2002-01-01,artist,257200,False,16,0.524,0.271,10,-8.863,1,0.0369,0.923,0.0,0.13,0.392,120.407,4,1,1,0,0,0,0,0,0,0,0,0,2002
+Avril Lavigne,I'm with You,Under My Skin/Let Go,compilation,2002-01-01,artist,223066,False,4,0.457,0.406,9,-7.462,1,0.0291,0.08,0.0,0.117,0.208,151.95,3,1,1,0,0,0,0,0,0,0,0,0,2002
+Busted,What I Go To School For,Busted,album,2002-01-01,artist,210066,False,1,0.554,0.881,9,-6.463,1,0.0292,0.000225,2.94e-05,0.114,0.507,107.023,4,1,1,0,1,0,0,0,0,0,0,0,2002
+B2K,"Bump, Bump, Bump (feat. P. Diddy)",Playlist: The Very Best Of Omarion,compilation,2002-01-01,artist,279000,False,5,0.838,0.66,1,-6.388,0,0.195,0.107,0.0,0.115,0.888,95.493,4,1,1,0,0,1,0,1,0,0,0,0,2002
+Simple Plan,Addicted,"No Pads, No Helmets...Just Balls",album,2002-03-19,artist,232066,False,7,0.522,0.751,1,-5.46,1,0.0435,0.000491,2.22e-06,0.158,0.605,139.51,3,1,0,0,1,0,0,0,0,0,0,0,2002
+Simple Plan,I'd Do Anything,"No Pads, No Helmets...Just Balls",album,2002-03-19,artist,197640,False,1,0.395,0.917,8,-6.86,1,0.133,0.00143,0.0,0.261,0.563,169.088,4,1,0,0,1,0,0,0,0,0,0,0,2002
+Simple Plan,I'm Just A Kid,"No Pads, No Helmets...Just Balls",album,2002-03-19,artist,198333,False,4,0.527,0.834,1,-5.531,1,0.0447,0.00107,0.000102,0.0993,0.422,110.065,4,1,0,0,1,0,0,0,0,0,0,0,2002
+Maroon 5,This Love,Songs About Jane,album,2002-06-25,artist,206200,False,2,0.714,0.868,5,-4.596,0,0.0363,0.0551,0.0,0.0987,0.78,95.05,4,1,0,0,1,0,0,0,0,0,0,0,2002
+Coldplay,The Scientist,A Rush of Blood to the Head,album,2002-08-08,artist,309600,False,4,0.557,0.442,5,-7.224,1,0.0243,0.731,1.46e-05,0.11,0.213,146.277,4,1,0,0,0,0,0,0,0,0,0,0,2002
+Good Charlotte,Girls & Boys,The Young and The Hopeless,album,2002-10-04,artist,183493,False,6,0.663,0.72,3,-5.497,1,0.0331,0.00212,0.0,0.358,0.608,135.342,4,1,0,1,1,0,0,0,0,0,0,0,2002
+Yellowcard,Only One,Ocean Avenue,album,2003-01-01,artist,257399,False,6,0.477,0.907,1,-4.814,0,0.0899,8e-05,7.82e-05,0.149,0.304,81.291,4,1,0,0,1,0,0,0,0,1,0,0,2003
+Rooney,Blueside,Rooney,album,2003-01-01,artist,196706,False,1,0.387,0.915,11,-2.568,1,0.0431,0.0465,4.38e-06,0.367,0.388,140.222,4,1,0,0,0,0,0,0,0,0,0,0,2003
+Evanescence,Bring Me To Life,Fallen,album,2003-01-01,artist,237293,False,2,0.322,0.947,4,-3.173,0,0.12,0.00846,3.95e-06,0.238,0.269,189.994,4,0,0,1,0,0,0,0,0,0,0,0,2003
+Outkast,Hey Ya!,The Way You Move / Hey Ya!,single,2003-01-01,artist,239240,False,3,0.715,0.97,0,-2.206,1,0.0648,0.0644,0.000156,0.205,0.963,79.504,4,0,0,0,0,1,0,0,0,0,0,0,2003
+3 Doors Down,Here Without You,Here Without You,single,2003-01-01,artist,236920,False,1,0.544,0.55,10,-6.756,0,0.0248,0.0541,0.0,0.243,0.246,144.028,4,1,0,1,1,0,0,0,0,0,0,0,2003
+Baby Bash,Suga Suga,Tha Smokin' Nephew,album,2003-01-01,artist,239026,False,1,0.662,0.748,5,-3.041,0,0.268,0.688,8.43e-06,0.0841,0.535,82.331,4,1,1,0,0,1,0,1,0,0,1,0,2003
+Evanescence,My Immortal,Fallen,album,2003-01-01,artist,273360,False,12,0.251,0.333,9,-7.828,1,0.0336,0.748,1.22e-05,0.0847,0.0691,97.195,5,0,0,1,0,0,0,0,0,0,0,0,2003
+Yellowcard,Ocean Avenue,Ocean Avenue,album,2003-01-01,artist,198266,False,3,0.486,0.904,6,-3.751,0,0.0638,3.43e-05,2.83e-05,0.0947,0.786,173.734,4,1,0,0,1,0,0,0,0,1,0,0,2003
+Five For Fighting,Superman (It's Not Easy),Smallville: The Talon Mix,album,2003-02-25,artist,221173,False,4,0.518,0.474,0,-8.34,1,0.0287,0.322,0.0,0.1,0.164,106.512,4,1,0,0,1,0,0,0,0,0,0,0,2003
+Beyoncé,Crazy In Love (feat. Jay-Z),Dangerously In Love,album,2003-03-10,artist,235933,False,1,0.664,0.758,2,-6.583,0,0.21,0.00238,0.0,0.0598,0.701,99.259,4,1,1,0,0,0,0,1,0,0,0,0,2003
+Linkin Park,Numb,Meteora (Bonus Edition),album,2003-03-24,artist,185586,False,13,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,4,0,0,1,0,1,0,0,0,0,0,0,2003
+Linkin Park,Breaking the Habit,Meteora (Bonus Edition),album,2003-03-24,artist,196906,False,9,0.579,0.849,4,-5.218,0,0.0303,0.108,0.0,0.0909,0.581,100.021,4,0,0,1,0,1,0,0,0,0,0,0,2003
+Staind,So Far Away,14 Shades of Grey,album,2003-05-13,artist,243573,False,3,0.407,0.896,6,-2.935,1,0.063,0.012,0.0,0.196,0.156,138.697,3,0,0,1,1,1,0,0,0,0,0,0,2003
+Michelle Branch,Are You Happy Now?,Hotel Paper,album,2003-06-24,artist,230760,False,2,0.484,0.827,8,-5.324,1,0.046,0.0039,0.00143,0.0876,0.717,179.566,4,1,1,0,1,0,0,0,0,0,0,0,2003
+Dido,White Flag,White Flag,single,2003-08-28,artist,240040,False,1,0.514,0.539,5,-6.821,1,0.038,0.333,4.85e-06,0.0912,0.314,170.105,4,1,1,0,1,0,0,0,0,0,0,0,2003
+Jet,Are You Gonna Be My Girl,Get Born,album,2003-09-15,artist,213800,False,2,0.613,0.953,2,-3.435,1,0.0855,0.00148,0.000582,0.152,0.537,105.046,4,0,0,0,1,0,0,0,0,0,0,0,2003
+Story Of The Year,Until the Day I Die,Page Avenue (US Non-PA Version),album,2003-09-16,artist,235200,False,2,0.597,0.931,11,-4.591,0,0.0984,0.127,0.0,0.0504,0.534,92.003,4,1,0,1,1,0,0,0,0,0,0,0,2003
+Kelly Clarkson,Miss Independent,Thankful,album,2003-09-29,artist,214773,False,2,0.656,0.615,11,-6.359,0,0.137,0.0769,0.000415,0.0706,0.592,175.943,4,1,1,0,1,0,0,0,0,0,0,0,2003
+blink-182,I Miss You,blink-182,album,2003-11-01,artist,227250,False,3,0.423,0.714,11,-8.295,1,0.045,0.00113,6.28e-06,0.0855,0.593,110.017,4,1,0,0,1,0,0,0,0,0,0,0,2003
+Howie Day,Collide - Acoustic Version,Stop All the World Now (Special Edition),album,2003-11-04,artist,277000,False,15,0.582,0.253,10,-11.43,1,0.0259,0.827,2.95e-05,0.091,0.294,90.186,4,1,0,0,1,0,0,0,0,0,0,0,2003
+Alicia Keys,If I Ain't Got You,The Diary Of Alicia Keys,album,2003-12-02,artist,228706,False,6,0.609,0.444,7,-9.129,1,0.106,0.603,6.86e-06,0.104,0.166,118.402,3,1,0,0,0,0,0,1,0,0,0,0,2003
+Kelly Clarkson,Walk Away,Breakaway,album,2004-01-01,artist,188173,False,8,0.745,0.902,0,-4.473,1,0.0422,0.0126,1.58e-06,0.128,0.943,115.998,4,1,1,0,1,0,0,0,0,0,0,0,2004
+McFly,Obviously,Room On The 3rd Floor,album,2004-01-01,artist,198880,False,2,0.642,0.856,1,-2.273,1,0.0314,0.193,0.0,0.11,0.755,130.583,4,1,1,0,0,0,0,0,0,0,0,0,2004
+Jesse McCartney,Beautiful Soul,Beautiful Soul,album,2004-01-01,artist,215160,False,2,0.654,0.663,9,-4.34,1,0.046,0.0765,0.0,0.0266,0.912,89.989,4,1,1,0,1,0,0,0,0,0,0,0,2004
+Destiny's Child,Cater 2 U,Destiny Fulfilled,album,2004-01-01,artist,245400,False,3,0.605,0.584,11,-7.043,0,0.197,0.286,0.0,0.235,0.464,125.802,4,1,1,0,0,0,0,1,0,0,0,0,2004
+McFly,Five Colours In Her Hair,Room On The 3rd Floor,album,2004-01-01,artist,177453,False,1,0.464,0.901,7,-3.421,1,0.0462,0.0264,0.0,0.233,0.636,97.978,4,1,1,0,0,0,0,0,0,0,0,0,2004
+Dashboard Confessional,Vindicated,Vindicated,single,2004-01-01,artist,201640,False,1,0.517,0.797,8,-3.392,1,0.0339,0.03,0.0,0.0826,0.336,86.016,4,1,0,0,1,0,0,0,0,1,0,0,2004
+McFly,Room On The 3rd Floor,Room On The 3rd Floor,album,2004-01-01,artist,196800,False,3,0.435,0.87,4,-2.584,1,0.0337,0.0872,0.0,0.132,0.433,179.667,4,1,1,0,0,0,0,0,0,0,0,0,2004
+Creed,One Last Breath,Greatest Hits,compilation,2004-01-01,artist,239373,False,9,0.376,0.72,2,-5.748,1,0.0351,0.0102,0.00171,0.209,0.166,130.656,4,1,0,1,1,0,0,0,0,0,0,0,2004
+Kelly Clarkson,Because of You,Breakaway,album,2004-01-01,artist,219493,False,4,0.584,0.583,5,-5.284,0,0.0313,0.248,0.0,0.124,0.15,139.93,4,1,1,0,1,0,0,0,0,0,0,0,2004
+Avril Lavigne,My Happy Ending,Under My Skin,album,2004-01-01,artist,242413,False,6,0.414,0.936,2,-2.407,1,0.0758,0.00136,0.0,0.369,0.74,170.229,4,1,1,0,0,0,0,0,0,0,0,0,2004
+Ashlee Simpson,Pieces Of Me,Autobiography (International Version),album,2004-01-01,artist,217440,False,2,0.505,0.799,2,-4.286,1,0.077,0.0572,0.0,0.11,0.772,173.999,4,1,1,0,0,0,0,0,0,0,0,0,2004
+Christina Milian,Dip It Low,Dip It Low,single,2004-01-01,artist,201000,False,1,0.754,0.718,11,-4.209,0,0.111,0.0122,0.000111,0.0923,0.576,169.116,4,1,1,0,0,1,0,1,0,0,0,0,2004
+Mario Winans,I Don't Wanna Know - Main,I Don't Wanna Know,single,2004-01-01,artist,258813,False,1,0.847,0.479,11,-6.214,0,0.0471,0.35,0.00101,0.136,0.414,97.023,4,0,0,0,0,0,0,1,0,0,0,0,2004
+McFly,That Girl,Room On The 3rd Floor,album,2004-01-01,artist,197213,False,4,0.429,0.978,8,-2.021,1,0.0675,0.0337,0.000173,0.0787,0.689,174.182,4,1,1,0,0,0,0,0,0,0,0,0,2004
+McFly,Not Alone,Room On The 3rd Floor,album,2004-01-01,artist,260440,False,11,0.231,0.739,4,-3.415,1,0.0314,0.014,3.67e-05,0.0962,0.191,180.185,4,1,1,0,0,0,0,0,0,0,0,0,2004
+Kelly Clarkson,Behind These Hazel Eyes,Breakaway,album,2004-01-01,artist,198973,False,3,0.547,0.895,9,-4.64,1,0.0407,0.00223,0.00069,0.184,0.499,90.013,4,1,1,0,1,0,0,0,0,0,0,0,2004
+Papa Roach,Scars,Getting Away With Murder,album,2004-01-01,artist,208199,False,8,0.448,0.925,11,-3.291,1,0.0506,0.0893,0.0,0.221,0.468,89.853,4,0,0,1,1,1,0,0,0,0,0,0,2004
+Hawthorne Heights,Ohio Is for Lovers,The Silence In Black and White - Re-Issue,album,2004-01-01,artist,244480,False,8,0.568,0.835,8,-6.896,0,0.0687,0.0411,0.0,0.357,0.625,170.045,4,1,0,0,1,0,0,0,0,1,0,0,2004
+Kelly Clarkson,Since U Been Gone,Breakaway,album,2004-01-01,artist,188960,False,2,0.663,0.739,9,-5.354,0,0.0322,0.00206,0.0586,0.113,0.382,130.998,4,1,1,0,1,0,0,0,0,0,0,0,2004
+Eamon,Fuck It (I Don't Want You Back),F**k It,single,2004-01-28,artist,225626,True,1,0.827,0.612,0,-6.347,0,0.0613,0.1,4.33e-06,0.0461,0.516,68.505,4,0,0,0,0,0,0,0,0,0,0,0,2004
+Usher,Yeah!,Yeah!,single,2004-02-09,artist,250066,False,1,0.895,0.795,2,-4.693,1,0.0977,0.0219,0.0,0.0403,0.574,105.004,4,1,1,0,0,1,0,1,0,0,0,0,2004
+Usher,Caught Up,Confessions,album,2004-03-23,artist,224640,False,7,0.814,0.818,6,-4.63,1,0.0556,0.0261,7.43e-06,0.126,0.768,110.075,4,1,1,0,0,1,0,1,0,0,0,0,2004
+Usher,Burn - Confession Special Edition Version,Confessions,album,2004-03-23,artist,231933,False,6,0.8,0.459,1,-7.143,1,0.115,0.319,0.0,0.117,0.707,119.944,4,1,1,0,0,1,0,1,0,0,0,0,2004
+Usher,Confessions Part II,Confessions (Expanded Edition),album,2004-03-23,artist,211200,False,5,0.845,0.467,1,-7.674,1,0.138,0.0586,0.0,0.0694,0.702,138.007,4,1,1,0,0,1,0,1,0,0,0,0,2004
+South,Paint The Silence,Music From The O.C. Mix 1,compilation,2004-03-30,artist,353800,False,1,0.548,0.735,9,-6.578,1,0.0275,0.000313,0.666,0.368,0.41,115.017,4,0,0,0,0,0,0,0,0,0,0,0,2004
+Kevin Lyttle,Turn Me On,Turn Me On (Online Music),single,2004-03-30,artist,192106,False,1,0.677,0.682,9,-6.879,1,0.0361,0.0405,0.0,0.0351,0.875,106.279,4,0,0,0,0,0,0,0,0,0,0,0,2004
+Sugarcult,Memory,Palm Trees and Power Lines,album,2004-04-13,artist,226080,False,3,0.449,0.864,1,-3.892,1,0.0352,2.04e-05,0.0,0.108,0.713,167.154,4,1,0,0,1,0,0,0,0,1,0,0,2004
+Hoobastank,The Reason,The Reason,album,2004-04-27,artist,232800,False,8,0.474,0.659,4,-4.667,1,0.0292,0.0125,0.0,0.154,0.075,82.957,4,1,0,1,1,0,0,0,0,0,0,0,2004
+Avril Lavigne,Don't Tell Me,Under My Skin,album,2004-05-13,artist,202013,False,3,0.525,0.797,4,-2.914,1,0.0375,0.0042,1.02e-06,0.358,0.44,144.128,4,1,1,0,0,0,0,0,0,0,0,0,2004
+My Chemical Romance,Helena,Three Cheers for Sweet Revenge,album,2004-06-08,artist,204733,False,1,0.356,0.96,4,-3.487,1,0.104,0.0142,0.0,0.209,0.0857,125.921,4,1,0,0,1,0,0,0,0,1,0,0,2004
+My Chemical Romance,I'm Not Okay (I Promise),Three Cheers for Sweet Revenge,album,2004-06-08,artist,186480,True,5,0.21,0.94,9,-3.427,1,0.123,0.00602,0.0,0.269,0.255,179.722,4,1,0,0,1,0,0,0,0,1,0,0,2004
+Ryan Cabrera,True,Take It All Away (U.S. Version),album,2004-06-08,artist,204173,False,3,0.598,0.4,6,-10.054,1,0.0241,0.459,0.0,0.151,0.369,96.938,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Ryan Cabrera,On the Way Down,Take It All Away (U.S. Version),album,2004-06-08,artist,213280,False,2,0.5,0.845,1,-5.015,1,0.0369,0.00184,0.0,0.106,0.539,95.199,4,1,0,0,1,0,0,0,0,0,0,0,2004
+The Killers,Mr. Brightside,Hot Fuss,album,2004-06-15,artist,222075,False,2,0.351,0.928,1,-3.71,1,0.0759,0.00113,0.0,0.0988,0.239,148.03,4,0,1,0,1,0,0,0,0,0,0,0,2004
+Daddy Yankee,Gasolina,Gasolina,single,2004-07-13,artist,192560,False,1,0.853,0.808,0,-6.494,1,0.0575,0.331,5.44e-06,0.0643,0.729,96.02,4,0,0,0,0,1,0,0,0,0,1,0,2004
+JoJo,Leave Get Out,Jojo,album,2004-07-19,artist,241866,False,8,0.686,0.575,5,-6.89,1,0.22,0.169,9.11e-05,0.0899,0.492,86.992,4,1,1,0,0,1,0,1,0,0,0,0,2004
+Gavin DeGraw,Chariot,Chariot - Stripped,album,2004-07-26,artist,239173,False,2,0.281,0.779,7,-5.104,1,0.0514,0.0437,0.0,0.37,0.344,167.172,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Gavin DeGraw,I Don't Want to Be,Chariot - Stripped,album,2004-07-26,artist,217760,False,8,0.423,0.862,0,-5.13,0,0.0695,0.00791,0.0,0.133,0.462,154.746,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Natasha Bedingfield,Unwritten,Unwritten,album,2004-09-06,artist,255000,False,3,0.752,0.794,7,-5.74,0,0.0588,0.00398,0.0,0.0513,0.76,99.966,4,1,1,0,1,1,0,0,0,0,0,0,2004
+Bowling For Soup,1985,A Hangover You Don't Deserve,album,2004-09-11,artist,193000,False,3,0.607,0.878,4,-4.422,1,0.0665,0.000246,0.0,0.337,0.853,119.955,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Mario,Let Me Love You,Let Me Love You,single,2004-09-21,artist,256733,False,1,0.656,0.578,7,-8.97,0,0.0922,0.235,0.0,0.118,0.556,94.514,4,1,1,0,0,0,0,1,0,0,0,0,2004
+Green Day,Holiday / Boulevard of Broken Dreams,American Idiot,album,2004-09-21,artist,493400,True,3,0.29,0.827,8,-3.451,1,0.0362,0.000659,2.55e-06,0.301,0.45,167.086,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Green Day,American Idiot,American Idiot,album,2004-09-21,artist,176346,True,1,0.38,0.988,1,-2.042,1,0.0639,2.64e-05,7.86e-05,0.368,0.769,186.113,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Green Day,Wake Me up When September Ends,American Idiot,album,2004-09-21,artist,285653,False,7,0.546,0.814,7,-5.146,1,0.0314,0.023,0.0,0.0972,0.146,104.98,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Good Charlotte,I Just Wanna Live,"The Chronicles of Life and Death (""LIFE"" version)",album,2004-09-28,artist,166053,False,5,0.803,0.83,10,-4.636,0,0.0356,0.0144,0.0,0.103,0.935,111.033,4,1,0,1,1,0,0,0,0,0,0,0,2004
+Usher & Alicia Keys,My Boo - Main,My Boo / Confessions Part II,single,2004-10-18,artist,224120,False,1,0.668,0.503,5,-8.265,1,0.14,0.219,0.0,0.0647,0.684,86.45,4,0,0,0,0,0,0,0,0,0,0,0,2004
+The Killers,Smile Like You Mean It,The O.C. Vol. 2,compilation,2004-10-25,artist,234693,False,3,0.365,0.983,3,-2.596,0,0.14,0.000366,0.0119,0.188,0.392,125.029,4,0,1,0,1,0,0,0,0,0,0,0,2004
+Simple Plan,Untitled (How Could This Happen to Me?),Still Not Getting Any,album,2004-10-26,artist,239813,False,11,0.208,0.342,6,-8.702,1,0.0327,0.875,3e-06,0.0908,0.135,186.162,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Simple Plan,Welcome to My Life,Still Not Getting Any,album,2004-10-26,artist,206773,False,2,0.421,0.858,1,-4.535,1,0.0963,0.0134,0.0,0.067,0.491,173.255,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Relient K,Be My Escape,Mmhmm,album,2004-11-02,artist,240453,False,2,0.554,0.864,9,-5.062,1,0.0394,0.00605,0.0,0.132,0.299,112.523,4,1,0,0,1,0,0,0,0,0,0,0,2004
+Britney Spears,Everytime,Greatest Hits: My Prerogative,compilation,2004-11-08,artist,230320,False,7,0.562,0.286,3,-12.84,1,0.0288,0.965,4.45e-05,0.115,0.116,109.561,4,1,1,0,0,0,0,0,0,0,0,0,2004
+Britney Spears,Toxic,Greatest Hits: My Prerogative,compilation,2004-11-08,artist,198813,False,2,0.774,0.839,5,-3.948,0,0.114,0.027,0.0166,0.252,0.923,142.985,4,1,1,0,0,0,0,0,0,0,0,0,2004
+The All-American Rejects,It Ends Tonight,Move Along,album,2005-01-01,artist,244826,False,4,0.454,0.631,0,-4.733,1,0.0268,0.00233,0.0,0.177,0.313,87.888,4,1,0,0,1,0,0,0,0,0,0,0,2005
+Hinder,Better Than Me,Extreme Behavior (Deluxe Edition),album,2005-01-01,artist,222133,False,6,0.444,0.681,2,-5.299,0,0.0288,0.194,0.0,0.143,0.261,139.937,4,1,0,1,1,0,0,0,0,0,0,0,2005
+Lifehouse,You And Me,Lifehouse (International Version),album,2005-01-01,artist,195493,False,2,0.458,0.428,7,-7.835,1,0.0268,0.115,0.0,0.161,0.363,139.9,3,1,0,1,1,0,0,0,0,0,0,0,2005
+Hilary Duff,So Yesterday,Most Wanted,album,2005-01-01,artist,215000,False,6,0.561,0.799,0,-4.256,1,0.0569,0.251,0.0,0.317,0.792,78.244,4,1,1,0,0,0,0,0,0,0,0,0,2005
+The All-American Rejects,Dirty Little Secret,Move Along,album,2005-01-01,artist,193653,False,1,0.469,0.955,10,-4.253,1,0.0432,0.000343,1.35e-06,0.548,0.462,143.853,4,1,0,0,1,0,0,0,0,0,0,0,2005
+Augustana,Boston,All The Stars and Boulevards,album,2005-01-01,artist,245933,False,4,0.404,0.571,0,-5.069,1,0.0303,0.182,2.08e-05,0.129,0.29,147.01,4,1,0,0,1,0,0,0,0,0,0,0,2005
+Hinder,Better Than Me,Extreme Behavior,album,2005-01-01,artist,223533,False,6,0.449,0.682,2,-5.295,0,0.029,0.205,0.0,0.175,0.254,139.924,4,1,0,1,1,0,0,0,0,0,0,0,2005
+Fall Out Boy,"Sugar, We're Goin Down",From Under The Cork Tree,album,2005-01-01,artist,229093,False,4,0.494,0.841,7,-4.784,1,0.0838,0.00579,0.0,0.122,0.567,162.013,4,1,0,0,1,0,0,0,0,1,0,0,2005
+The All-American Rejects,Move Along,Move Along,album,2005-01-01,artist,238880,False,3,0.526,0.92,3,-3.866,1,0.0472,0.000124,0.0,0.371,0.615,109.86,4,1,0,0,1,0,0,0,0,0,0,0,2005
+Rupee,Tempted To Touch,STRICTLY THE BEST VOL. 31,compilation,2005-01-01,artist,207546,False,17,0.833,0.838,2,-6.722,0,0.0494,0.174,0.0,0.112,0.96,105.978,4,1,1,0,0,0,0,0,0,0,0,0,2005
+Backstreet Boys,Incomplete,Never Gone,album,2005-01-01,artist,239586,False,1,0.446,0.604,4,-4.895,1,0.033,0.192,0.0,0.078,0.157,133.726,4,1,1,0,0,0,0,0,0,0,0,0,2005
+Thirty Seconds To Mars,The Kill (Bury Me),A Beautiful Lie,album,2005-01-01,artist,231533,False,3,0.179,0.912,4,-3.881,0,0.0791,0.0014,0.000294,0.582,0.289,182.99,3,1,0,0,1,0,0,0,0,0,0,0,2005
+Hinder,Lips Of An Angel,Extreme Behavior,album,2005-01-01,artist,261853,False,8,0.476,0.736,2,-5.38,1,0.0343,0.0217,1.08e-06,0.203,0.251,129.084,4,1,0,1,1,0,0,0,0,0,0,0,2005
+Sean Paul,Temperature,Temperature,single,2005-01-01,artist,216466,False,1,0.951,0.597,0,-4.651,0,0.0669,0.104,0.0,0.0718,0.819,125.024,4,1,1,0,0,1,0,0,0,0,0,0,2005
+McFly,Memory Lane,Wonderland (Japanese edition),album,2005-01-01,artist,278240,False,12,0.364,0.948,8,-3.14,1,0.0487,0.00233,1.85e-06,0.0517,0.46,157.922,4,1,1,0,0,0,0,0,0,0,0,0,2005
+Fall Out Boy,"Dance, Dance",From Under The Cork Tree,album,2005-01-01,artist,180266,False,3,0.62,0.961,11,-3.198,0,0.154,0.00523,0.0,0.0854,0.449,114.448,4,1,0,0,1,0,0,0,0,1,0,0,2005
+Mariah Carey,We Belong Together,We Belong Together (Int'l ECD Maxi),single,2005-01-01,artist,201440,False,1,0.841,0.472,0,-7.917,1,0.066,0.027,0.0,0.091,0.765,139.974,4,1,1,0,0,0,0,1,0,0,0,0,2005
+Hinder,Lips Of An Angel,Extreme Behavior (Deluxe Edition),album,2005-01-01,artist,260946,False,8,0.476,0.746,2,-5.37,1,0.0336,0.0229,1.22e-06,0.186,0.22,129.035,4,1,0,1,1,0,0,0,0,0,0,0,2005
+McFly,All About You,Wonderland (Japanese edition),album,2005-01-01,artist,186866,False,7,0.542,0.559,1,-5.313,1,0.0258,0.197,0.0,0.0989,0.295,129.898,4,1,1,0,0,0,0,0,0,0,0,0,2005
+McFly,Too Close For Comfort,Wonderland (Japanese edition),album,2005-01-01,artist,277280,False,6,0.218,0.798,7,-4.489,1,0.0338,0.00173,4.39e-06,0.137,0.24,183.255,3,1,1,0,0,0,0,0,0,0,0,0,2005
+McFly,I Wanna Hold You,Wonderland (Japanese edition),album,2005-01-01,artist,179333,False,5,0.357,0.913,2,-1.491,1,0.0603,0.00404,1e-05,0.17,0.708,184.359,4,1,1,0,0,0,0,0,0,0,0,0,2005
+McFly,I've Got You,Wonderland (Japanese edition),album,2005-01-01,artist,198866,False,2,0.486,0.943,4,-3.279,1,0.0492,0.00126,0.0,0.0712,0.581,154.113,4,1,1,0,0,0,0,0,0,0,0,0,2005
+McFly,I'll Be OK,Wonderland (Japanese edition),album,2005-01-01,artist,204813,False,1,0.477,0.946,2,-4.279,1,0.0454,0.00866,0.0,0.209,0.48,156.588,4,1,1,0,0,0,0,0,0,0,0,0,2005
+The Pussycat Dolls,Buttons,PCD Tour Edition (International Tour Edition),album,2005-01-01,artist,225560,False,5,0.57,0.821,2,-4.38,1,0.267,0.178,0.0,0.289,0.408,210.857,4,1,1,0,0,1,0,0,0,0,0,0,2005
+McFly,I'll Be OK - Tom and Danny Acoustic Version,Wonderland (Japanese edition),album,2005-01-01,artist,199426,False,14,0.523,0.475,7,-7.307,1,0.0372,0.28,0.0,0.0924,0.425,152.243,4,1,1,0,0,0,0,0,0,0,0,0,2005
+Mary J. Blige,Be Without You - Kendu Mix,The Breakthrough,album,2005-01-01,artist,246333,False,4,0.724,0.705,2,-5.859,0,0.112,0.067,0.0,0.262,0.662,146.589,4,1,1,0,0,1,0,1,0,0,0,0,2005
+Ciara,"1, 2 Step (feat. Missy Elliott) - Main",Goodies,album,2005-01-22,artist,202213,False,2,0.939,0.498,5,-10.94,0,0.161,0.0444,0.00128,0.0475,0.801,113.053,4,1,1,0,0,0,0,1,0,0,0,0,2005
+Keane,Everybody's Changing,Music From The WB Television Series One Tree Hill (change in 1 track bundle status),compilation,2005-01-25,artist,215266,False,11,0.512,0.818,0,-4.265,1,0.03,0.00159,0.000457,0.112,0.431,94.022,4,1,0,0,1,0,0,0,0,0,0,0,2005
+Rob Thomas,Lonely No More,Lonely No More,single,2005-02-08,artist,226346,False,1,0.622,0.899,9,-3.139,0,0.108,0.0317,0.0,0.0928,0.852,85.844,4,1,0,0,1,0,0,0,0,0,0,0,2005
+Frankie J,Obsesion (No Es Amor) (feat. Baby Bash),Obsession (No Es Amor),single,2005-03-29,artist,225293,False,3,0.649,0.51,8,-8.329,1,0.0432,0.098,0.0,0.3,0.557,75.039,4,1,1,0,0,1,0,1,0,0,0,0,2005
+Matt Pond PA,Champagne Supernova,Music From The O.C. Mix 4,compilation,2005-04-04,artist,432053,False,12,0.414,0.677,2,-6.037,1,0.0318,0.519,0.00213,0.379,0.17,150.456,4,0,0,0,0,0,0,0,0,0,0,0,2005
+Weezer,Beverly Hills,Make Believe,album,2005-05-10,artist,196093,False,1,0.693,0.823,5,-3.761,1,0.0726,0.0932,0.0,0.328,0.741,87.904,4,1,0,0,1,0,0,0,0,0,0,0,2005
+Pretty Ricky,Grind With Me,Bluestars,album,2005-05-17,artist,239386,False,3,0.667,0.523,1,-5.817,1,0.0311,0.000516,0.0,0.0978,0.181,136.547,4,1,1,0,0,1,0,1,0,0,0,0,2005
+Foo Fighters,Best of You,Best Of You,compilation,2005-05-30,artist,256600,False,1,0.37,0.944,1,-4.979,0,0.0767,0.00701,2.9e-06,0.135,0.345,130.315,4,0,0,1,1,0,0,0,0,0,0,0,2005
+Massari,Real Love,Massari,album,2005-05-31,artist,275586,False,6,0.385,0.555,9,-7.44,0,0.21,0.492,2.67e-05,0.101,0.453,78.729,4,1,1,0,0,0,0,0,0,0,0,0,2005
+The Click Five,Catch Your Wave,Greetings From Imrie House (U.S. Version),album,2005-08-08,artist,172706,False,3,0.559,0.945,2,-1.26,1,0.0488,0.000182,0.00161,0.327,0.789,134.016,4,1,0,0,1,0,0,0,0,0,0,0,2005
+The Click Five,Just the Girl,Greetings From Imrie House (U.S. Version),album,2005-08-08,artist,234146,False,2,0.571,0.89,9,-1.6,1,0.0395,0.00509,0.0,0.0769,0.751,110.958,4,1,0,0,1,0,0,0,0,0,0,0,2005
+The Click Five,Angel to You (Devil to Me),Greetings From Imrie House (U.S. Version),album,2005-08-08,artist,209880,False,6,0.536,0.893,8,-2.071,1,0.0512,0.0105,0.0,0.25,0.782,121.755,4,1,0,0,1,0,0,0,0,0,0,0,2005
+The Click Five,Good Day,Greetings From Imrie House (U.S. Version),album,2005-08-08,artist,189906,False,1,0.572,0.927,1,-2.145,1,0.0414,0.00405,0.0,0.207,0.964,150.012,4,1,0,0,1,0,0,0,0,0,0,0,2005
+The Click Five,Pop Princess,Greetings From Imrie House (U.S. Version),album,2005-08-08,artist,258293,False,8,0.493,0.935,2,-2.251,0,0.0591,9.06e-05,1.05e-05,0.314,0.869,149.006,4,1,0,0,1,0,0,0,0,0,0,0,2005
+The Fray,How to Save a Life,How To Save A Life,album,2005-09-13,artist,262533,False,3,0.64,0.743,10,-4.08,1,0.0379,0.269,0.0,0.101,0.361,122.035,4,1,0,0,1,0,0,0,0,0,0,0,2005
+Ryan Cabrera,Photo,You Stand Watching (U.S. Version),album,2005-09-20,artist,216960,False,5,0.496,0.756,1,-5.551,1,0.0273,0.0513,0.0,0.091,0.418,92.068,4,1,0,0,1,0,0,0,0,0,0,0,2005
+Nickelback,Photograph,All the Right Reasons (Walmart Exclusive Edition),album,2005-09-26,artist,258920,False,3,0.515,0.876,8,-3.756,1,0.0292,0.000932,0.000166,0.136,0.385,145.916,4,0,0,1,1,0,0,0,0,0,0,0,2005
+Panic! At The Disco,I Write Sins Not Tragedies,A Fever You Can't Sweat Out,album,2005-09-27,artist,186634,False,10,0.569,0.83,9,-4.106,0,0.14,0.0807,0.0,0.114,0.609,170.094,4,0,0,0,1,0,0,0,0,0,0,0,2005
+Youth Group,Forever Young,The O.C. Mix 5,compilation,2005-11-08,artist,238746,False,6,0.387,0.631,11,-7.21,1,0.0293,0.05,0.000877,0.12,0.35,115.374,4,0,0,0,0,0,0,0,0,0,0,0,2005
+Fort Minor,Where'd You Go (feat. Holly Brook & Jonah Matranga),The Rising Tied (Deluxe Edition),album,2005-11-21,artist,231866,True,6,0.684,0.819,1,-3.309,0,0.238,0.262,0.00197,0.113,0.25,179.999,4,0,0,0,1,1,0,0,0,0,0,0,2005
+Rascal Flatts,What Hurts The Most,Me And My Gang,album,2006-01-01,artist,214106,False,2,0.539,0.683,5,-5.157,0,0.0276,0.00962,0.0,0.284,0.331,136.032,4,0,0,0,0,0,0,0,1,0,0,0,2006
+Cascada,Every time we touch,Everytime We Touch [Premium Edition],album,2006-01-01,artist,197124,False,1,0.633,0.976,8,-5.362,1,0.0519,0.00281,1.29e-05,0.382,0.493,142.027,4,1,1,0,0,1,1,0,0,0,0,0,2006
+Plain White T's,Hey There Delilah,Hey There Delilah,single,2006-01-01,artist,233200,False,1,0.527,0.452,2,-7.844,1,0.0293,0.819,0.0,0.102,0.311,103.851,4,1,0,0,1,0,0,0,0,0,0,0,2006
+Ne-Yo,When You're Mad,In My Own Words,album,2006-01-01,artist,222000,False,4,0.66,0.548,6,-7.127,1,0.215,0.364,0.0,0.108,0.436,86.947,4,1,1,0,0,1,0,1,0,0,0,0,2006
+Snow Patrol,Chasing Cars,Chasing Cars,single,2006-01-01,artist,266346,False,1,0.556,0.595,9,-4.51,1,0.0275,0.214,8.33e-05,0.125,0.144,104.001,4,1,0,0,1,0,0,0,0,0,0,0,2006
+Evanescence,Call Me When You're Sober,The Open Door,album,2006-01-01,artist,214706,False,2,0.432,0.88,7,-4.101,1,0.0563,0.00214,0.0,0.281,0.331,93.384,4,0,0,1,0,0,0,0,0,0,0,0,2006
+Ne-Yo,So Sick,So Sick,single,2006-01-01,artist,206853,False,1,0.582,0.57,6,-9.184,1,0.273,0.167,0.0,0.229,0.595,94.83,4,1,1,0,0,1,0,1,0,0,0,0,2006
+Ray J,One Wish,NOW 21,compilation,2006-01-01,artist,237626,False,11,0.48,0.611,5,-7.807,0,0.363,0.324,0.0,0.193,0.616,85.182,5,1,0,0,0,1,0,1,0,0,0,0,2006
+The Red Jumpsuit Apparatus,Face Down,Don't You Fake It,album,2006-01-01,artist,192000,False,4,0.545,0.932,7,-2.189,0,0.0399,0.000665,0.0,0.127,0.464,92.956,4,1,0,0,1,0,0,0,0,1,0,0,2006
+Sean Paul (Featuring Keyshia Cole),(When You Gonna) Give It Up To Me - Radio Version,[When You Gonna] Give It Up To Me (94479/online),single,2006-01-01,artist,243880,False,1,0.711,0.761,8,-3.04,1,0.225,0.067,0.0,0.041,0.718,95.824,4,0,0,0,0,0,0,0,0,0,0,0,2006
+Jesse McCartney,Just So You Know,Right Where You Want Me,album,2006-01-01,artist,233760,False,2,0.567,0.828,10,-4.861,1,0.0267,0.0127,0.0,0.28,0.537,77.998,4,1,1,0,1,0,0,0,0,0,0,0,2006
+The Red Jumpsuit Apparatus,Your Guardian Angel,Don't You Fake It,album,2006-01-01,artist,229234,False,11,0.29,0.48,5,-6.583,1,0.0296,0.116,3.03e-06,0.626,0.382,112.62,4,1,0,0,1,0,0,0,0,1,0,0,2006
+FM Static,Tonight,Critically Ashamed,album,2006-01-01,artist,218586,False,6,0.598,0.547,10,-5.93,0,0.0232,0.285,0.0,0.0891,0.25,77.969,4,1,0,0,1,0,0,0,0,0,0,0,2006
+McFly,Sorry's Not Good Enough - Radio Edit,Sorry's Not Good Enough,single,2006-01-01,artist,209320,False,1,0.498,0.758,9,-3.284,1,0.031,0.00315,0.0,0.246,0.697,137.043,4,1,1,0,0,0,0,0,0,0,0,0,2006
+McFly,Transylvania,Star Girl [CD2 (Video & Interactive)],single,2006-01-01,artist,247733,False,3,0.448,0.712,11,-3.273,1,0.0327,0.0857,0.0,0.0842,0.36,124.535,4,1,1,0,0,0,0,0,0,0,0,0,2006
+JoJo,"Too Little, Too Late - Radio Version","Too Little, Too Late",single,2006-01-01,artist,221573,False,1,0.465,0.772,6,-6.281,0,0.058,0.0185,2.43e-06,0.0864,0.741,82.376,4,1,1,0,0,1,0,1,0,0,0,0,2006
+McFly,Silence Is A Scary Sound,Star Girl [CD2 (Video & Interactive)],single,2006-01-01,artist,204960,False,2,0.324,0.99,4,-2.712,1,0.0863,0.000354,9.48e-06,0.357,0.349,100.584,4,1,1,0,0,0,0,0,0,0,0,0,2006
+McFly,Star Girl,Star Girl [CD2 (Video & Interactive)],single,2006-01-01,artist,208266,False,1,0.523,0.693,3,-3.007,1,0.0295,0.00185,0.0,0.0638,0.814,78.13,4,1,1,0,0,0,0,0,0,0,0,0,2006
+Beyoncé,Check On It (feat. Slim Thug),Check On It (feat. Slim Thug),single,2006-01-14,artist,211186,False,1,0.7,0.887,7,-3.887,1,0.218,0.0805,0.0,0.376,0.883,166.104,4,1,1,0,0,0,0,1,0,0,0,0,2006
+Nick Lachey,What's Left Of Me,What's Left Of Me (Main Version),single,2006-02-21,artist,244840,False,1,0.426,0.742,7,-5.678,1,0.0362,0.142,0.0,0.139,0.297,150.067,4,1,1,0,0,0,0,0,0,0,0,0,2006
+Luny Tunes,Dale Don Dale (feat. Don Omar),LunyTunes La Trayectoria,album,2006-03-06,artist,210080,False,11,0.831,0.804,6,-8.058,0,0.0824,0.0253,0.000638,0.105,0.796,95.019,4,0,0,0,0,1,0,0,0,0,1,0,2006
+Teddy Geiger,For You I Will (Confidence),Underage Thinking,album,2006-03-21,artist,228880,False,2,0.315,0.751,1,-5.74,0,0.0517,0.0041,0.0,0.0984,0.272,119.566,4,1,0,0,0,0,0,0,0,0,0,0,2006
+Rihanna,Unfaithful,A Girl Like Me,album,2006-04-10,artist,224629,False,3,0.588,0.391,0,-8.596,0,0.0334,0.839,0.0,0.195,0.349,144.053,4,1,1,0,0,0,0,0,0,0,0,0,2006
+Taking Back Sunday,MakeDamnSure,Louder Now (U.S. Version),album,2006-04-21,artist,208280,False,3,0.553,0.837,6,-5.608,1,0.0452,0.00941,0.0,0.372,0.432,140.495,4,1,0,0,1,0,0,0,0,1,0,0,2006
+Paula DeAnda,Doing Too Much (feat. Baby Bash) - Main,Paula DeAnda,album,2006-06-01,artist,247431,False,1,0.716,0.668,2,-5.136,1,0.083,0.279,0.0,0.337,0.744,141.006,4,1,1,0,0,1,0,0,0,0,0,0,2006
+Cute Is What We Aim For,The Curse of Curves,The Same Old Blood Rush With A New Touch,album,2006-06-19,artist,203626,False,8,0.534,0.792,5,-4.512,1,0.0677,0.39,0.0,0.191,0.477,145.881,4,1,0,0,1,0,0,0,0,1,0,0,2006
+Landon Pigg,Can't Let Go,LP,album,2006-07-25,artist,236760,False,1,0.491,0.756,1,-6.234,0,0.0361,0.000851,0.0,0.182,0.393,159.952,4,1,0,0,0,0,0,0,0,0,0,0,2006
+Cassie,Me & U,Cassie (U.S. Version),album,2006-08-07,artist,192213,False,1,0.803,0.454,8,-4.802,0,0.0294,0.352,0.0,0.0655,0.739,99.99,4,1,1,0,0,1,0,1,0,0,0,0,2006
+Christina Aguilera,Beautiful,Christina Aguilera/Stripped,compilation,2006-08-28,artist,238560,False,11,0.457,0.573,5,-3.866,0,0.0275,0.578,3.05e-06,0.114,0.0992,76.193,4,1,1,0,0,1,0,0,0,0,0,0,2006
+Beyoncé,Irreplaceable,B'Day,album,2006-08-29,artist,227666,False,9,0.576,0.697,10,-4.192,1,0.326,0.0286,1.15e-06,0.167,0.501,175.906,4,1,1,0,0,0,0,1,0,0,0,0,2006
+My Chemical Romance,Famous Last Words,The Black Parade,album,2006-10-23,artist,299226,False,13,0.467,0.883,2,-3.679,0,0.106,0.000321,0.000152,0.125,0.309,122.252,4,1,0,0,1,0,0,0,0,1,0,0,2006
+My Chemical Romance,I Don't Love You,The Black Parade,album,2006-10-23,artist,238680,False,6,0.289,0.796,0,-4.22,1,0.0494,0.00837,2.61e-05,0.202,0.33,169.835,4,1,0,0,1,0,0,0,0,1,0,0,2006
+My Chemical Romance,Welcome to the Black Parade,The Black Parade,album,2006-10-23,artist,311106,False,5,0.217,0.905,2,-4.103,1,0.0752,0.000289,0.00011,0.222,0.236,96.95,4,1,0,0,1,0,0,0,0,1,0,0,2006
+My Chemical Romance,Teenagers,The Black Parade,album,2006-10-23,artist,161920,False,11,0.463,0.857,4,-3.063,1,0.0632,0.0506,0.0,0.184,0.856,111.647,4,1,0,0,1,0,0,0,0,1,0,0,2006
+Mayday Parade,"When I Get Home, You're So Dead",Tales Told By Dead Friends,single,2006-11-07,artist,210173,False,2,0.508,0.896,9,-4.359,0,0.0487,0.00104,0.0,0.321,0.703,142.976,4,1,0,0,1,0,0,0,0,1,0,0,2006
+Mayday Parade,Three Cheers For Five Years,Tales Told By Dead Friends,single,2006-11-07,artist,339960,False,5,0.488,0.893,11,-4.128,1,0.0472,0.000782,0.0,0.103,0.51,139.927,4,1,0,0,1,0,0,0,0,1,0,0,2006
+Mayday Parade,The Last Something That Meant Anything,Tales Told By Dead Friends,single,2006-11-07,artist,294066,False,6,0.479,0.725,7,-5.357,1,0.0256,0.00644,0.000794,0.208,0.307,74.987,4,1,0,0,1,0,0,0,0,1,0,0,2006
+Avril Lavigne,Keep Holding On,Keep Holding On,single,2006-11-27,artist,239453,False,1,0.274,0.808,7,-2.678,1,0.0346,0.0382,0.0,0.198,0.131,161.104,3,1,1,0,0,0,0,0,0,0,0,0,2006
+Vanessa Carlton,A Thousand Miles,True Power-Ballads / 3CD set,compilation,2007-01-01,artist,238240,False,16,0.512,0.712,11,-7.475,1,0.0322,0.375,0.0,0.142,0.352,94.888,4,1,1,0,1,0,0,0,0,0,0,0,2007
+We The Kings,"Check Yes, Juliet",We The Kings,album,2007-01-01,artist,218626,False,3,0.349,0.919,7,-4.124,1,0.0838,0.00415,0.0,0.26,0.294,166.916,4,1,0,0,1,0,0,0,0,0,0,0,2007
+Secondhand Serenade,Your Call,Awake,album,2007-01-01,artist,222320,False,4,0.591,0.239,7,-11.943,1,0.0259,0.774,0.0,0.127,0.346,88.919,4,1,0,0,1,0,0,0,0,0,0,0,2007
+Fall Out Boy,"This Ain't A Scene, It's An Arms Race",Infinity On High (Deluxe Edition),album,2007-01-01,artist,212040,False,3,0.435,0.887,9,-4.07,1,0.0636,0.000747,0.0,0.0327,0.408,199.935,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Fergie,Big Girls Don't Cry (Personal),Big Girls Don't Cry (International Version),single,2007-01-01,artist,268333,False,1,0.706,0.626,7,-4.319,1,0.033,0.21,0.0,0.0822,0.28,113.085,4,1,1,0,0,0,0,0,0,0,0,0,2007
+Jonas Brothers,Goodnight And Goodbye,Jonas Brothers,album,2007-01-01,artist,151000,False,3,0.623,0.932,0,-3.198,1,0.0727,0.0627,0.0,0.154,0.538,104.979,4,1,1,0,0,0,0,0,0,0,0,0,2007
+Timbaland,The Way I Are - Radio Edit,The Way I Are,single,2007-01-01,artist,199920,False,1,0.713,0.735,1,-7.273,1,0.0533,0.169,0.0608,0.155,0.775,114.718,4,1,1,0,0,1,0,0,0,0,0,0,2007
+Timbaland,Give It To Me,Shock Value (France Only Version),album,2007-01-01,artist,234080,True,2,0.978,0.685,8,-4.97,1,0.0689,0.191,0.00559,0.0908,0.809,110.622,4,1,1,0,0,1,0,0,0,0,0,0,2007
+Jonas Brothers,When You Look Me In The Eyes,Jonas Brothers,album,2007-01-01,artist,249693,False,9,0.383,0.772,2,-3.703,1,0.0345,0.0285,0.0,0.289,0.467,135.99,4,1,1,0,0,0,0,0,0,0,0,0,2007
+McFly,The Heart Never Lies,The Heart Never Lies,single,2007-01-01,artist,294253,False,1,0.325,0.645,7,-10.326,1,0.0333,0.0269,2.09e-06,0.321,0.304,199.791,4,1,1,0,0,0,0,0,0,0,0,0,2007
+McFly,Just My Luck,The Heart Never Lies,single,2007-01-01,artist,195600,False,4,0.604,0.949,7,-2.728,1,0.0304,0.0232,0.0,0.378,0.66,137.045,4,1,1,0,0,0,0,0,0,0,0,0,2007
+Fall Out Boy,Thnks fr th Mmrs,Infinity On High (Deluxe Edition),album,2007-01-01,artist,203506,False,7,0.459,0.891,10,-5.057,0,0.0623,0.00511,0.0,0.106,0.588,154.837,4,1,0,0,1,0,0,0,0,1,0,0,2007
+The Veronicas,Untouched,Untouched - Lost Tracks EP,single,2007-01-01,artist,254360,False,1,0.557,0.817,6,-3.721,0,0.238,0.0169,0.0215,0.139,0.508,177.001,4,1,1,0,0,0,1,0,0,0,0,0,2007
+Ne-Yo,Because Of You,Because Of You,album,2007-01-01,artist,266840,False,1,0.81,0.538,0,-5.784,0,0.0356,0.528,0.0,0.0951,0.828,109.97,4,1,1,0,0,1,0,1,0,0,0,0,2007
+Jonas Brothers,S.O.S.,Jonas Brothers,album,2007-01-01,artist,153346,False,1,0.602,0.677,7,-3.849,1,0.0628,0.000509,0.0,0.152,0.751,137.03,4,1,1,0,0,0,0,0,0,0,0,0,2007
+Good Charlotte,I Don't Wanna Be In Love (Dance Floor Anthem),Good Morning Revival,album,2007-03-16,artist,244000,False,4,0.64,0.884,6,-2.609,1,0.0428,0.0226,0.0,0.187,0.573,124.968,4,1,0,1,1,0,0,0,0,0,0,0,2007
+Elliott Yamin,Wait For You,Elliott Yamin,album,2007-03-20,artist,261320,False,2,0.764,0.487,0,-6.734,1,0.0281,0.25,0.0,0.184,0.352,116.027,4,0,0,0,0,0,0,0,0,0,0,0,2007
+Good Charlotte,The River,Good Morning Revival,album,2007-03-27,artist,195680,False,3,0.432,0.948,1,-2.231,1,0.138,0.00817,0.0,0.262,0.468,161.95,4,1,0,1,1,0,0,0,0,0,0,0,2007
+Linkin Park,What I've Done,Minutes to Midnight,album,2007-05-14,artist,205613,False,6,0.623,0.93,5,-5.285,1,0.0324,0.0141,1.64e-06,0.138,0.287,120.119,4,0,0,1,0,1,0,0,0,0,0,0,2007
+Beyoncé,Irreplaceable,B'Day Deluxe Edition,album,2007-05-29,artist,227853,False,2,0.447,0.694,7,-4.637,0,0.382,0.0293,5.46e-06,0.167,0.509,175.868,4,1,1,0,0,0,0,1,0,0,0,0,2007
+Paramore,crushcrushcrush,Riot!,album,2007-06-11,artist,189373,False,8,0.631,0.793,1,-4.086,0,0.0468,0.000218,5.65e-05,0.0976,0.648,136.96,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Paramore,Misery Business,Riot!,album,2007-06-11,artist,211520,False,4,0.517,0.906,1,-3.677,1,0.0735,0.00272,9.26e-06,0.113,0.731,172.977,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Paramore,That's What You Get,Riot!,album,2007-06-11,artist,220480,False,2,0.528,0.831,8,-3.607,1,0.0429,9.43e-05,0.0,0.141,0.632,131.094,3,1,0,0,1,0,0,0,0,1,0,0,2007
+The Click Five,Jenny,Modern Minds and Pastimes (U.S. Version),album,2007-06-26,artist,202360,False,2,0.546,0.832,1,-2.679,1,0.0247,0.000316,0.0,0.177,0.633,96.019,4,1,0,0,1,0,0,0,0,0,0,0,2007
+The Click Five,Mary Jane,Modern Minds and Pastimes (U.S. Version),album,2007-06-26,artist,230346,False,11,0.543,0.746,6,-4.12,0,0.0272,0.00145,0.0,0.321,0.395,134.023,4,1,0,0,1,0,0,0,0,0,0,0,2007
+The Click Five,Happy Birthday,Modern Minds and Pastimes (U.S. Version),album,2007-06-26,artist,209466,False,3,0.632,0.642,4,-4.677,1,0.0352,0.0925,4.42e-05,0.2,0.558,97.034,4,1,0,0,1,0,0,0,0,0,0,0,2007
+The Click Five,Empty,Modern Minds and Pastimes (U.S. Version),album,2007-06-26,artist,241253,False,12,0.459,0.418,4,-5.559,1,0.0255,0.0859,3.28e-06,0.0889,0.101,82.083,4,1,0,0,1,0,0,0,0,0,0,0,2007
+The Click Five,I'm Getting over You,Modern Minds and Pastimes (U.S. Version),album,2007-06-26,artist,201360,False,5,0.499,0.866,8,-3.542,1,0.031,0.0238,0.0,0.491,0.536,97.946,4,1,0,0,1,0,0,0,0,0,0,0,2007
+Mayday Parade,"You Be The Anchor That Keeps My Feet On The Ground, I'll Be The Wings That Keep Your Heart In The Clouds",A Lesson In Romantics,album,2007-07-10,artist,276173,False,12,0.256,0.618,7,-4.552,1,0.0326,0.0459,0.0,0.236,0.33,142.027,3,1,0,0,1,0,0,0,0,1,0,0,2007
+Mayday Parade,Jamie All Over,A Lesson In Romantics,album,2007-07-10,artist,216000,False,1,0.428,0.868,1,-3.647,1,0.0444,6.49e-05,0.0,0.0735,0.407,148.91,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Mayday Parade,Black Cat,A Lesson In Romantics,album,2007-07-10,artist,203893,False,2,0.394,0.93,11,-3.363,0,0.0654,0.000272,0.0,0.424,0.669,79.914,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Mayday Parade,Walk On Water Or Drown,A Lesson In Romantics,album,2007-07-10,artist,210000,False,7,0.441,0.893,11,-4.217,0,0.132,8.53e-05,0.0,0.155,0.665,157.028,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Mayday Parade,When I Get Home You're So Dead,A Lesson In Romantics,album,2007-07-10,artist,193693,False,3,0.474,0.803,9,-5.179,0,0.0483,2.53e-05,0.0,0.293,0.68,145.963,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Mayday Parade,Jersey,A Lesson In Romantics,album,2007-07-10,artist,209453,False,4,0.386,0.888,10,-4.345,0,0.0844,0.00025,0.0,0.523,0.344,161.957,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Mayday Parade,"If You Wanted A Song Written About You, All You Had To Do Was Ask",A Lesson In Romantics,album,2007-07-10,artist,244973,False,5,0.276,0.704,2,-3.546,1,0.037,4.46e-05,0.0,0.133,0.329,199.045,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Mayday Parade,Miserable At Best,A Lesson In Romantics,album,2007-07-10,artist,316986,False,6,0.483,0.361,2,-10.61,1,0.0297,0.604,0.0,0.111,0.421,135.262,4,1,0,0,1,0,0,0,0,1,0,0,2007
+Boys Like Girls,Hero / Heroine,Boys Like Girls,album,2007-08-31,artist,232240,False,3,0.422,0.904,0,-4.531,1,0.102,0.02,4.49e-06,0.686,0.32,163.929,4,1,0,0,1,0,0,0,0,0,0,0,2007
+Boys Like Girls,Five Minutes to Midnight,Boys Like Girls,album,2007-08-31,artist,227360,False,2,0.463,0.901,2,-4.073,1,0.087,0.00779,0.0,0.32,0.621,163.966,4,1,0,0,1,0,0,0,0,0,0,0,2007
+Boys Like Girls,The Great Escape,Boys Like Girls,album,2007-08-31,artist,206520,False,1,0.423,0.94,1,-4.012,0,0.0635,0.00166,0.0,0.178,0.505,149.934,4,1,0,0,1,0,0,0,0,0,0,0,2007
+Boys Like Girls,Thunder,Boys Like Girls,album,2007-08-31,artist,236680,False,5,0.508,0.821,2,-5.279,1,0.0395,0.223,0.0,0.316,0.463,75.057,4,1,0,0,1,0,0,0,0,0,0,0,2007
+All Time Low,Six Feet Under The Stars,"So Wrong, It's Right",album,2007-09-25,artist,216546,False,3,0.488,0.967,3,-2.701,1,0.0755,0.0147,0.0,0.109,0.341,130.926,4,1,0,0,1,0,0,0,0,0,0,0,2007
+All Time Low,"Dear Maria, Count Me In","So Wrong, It's Right",album,2007-09-25,artist,182826,False,6,0.465,0.896,2,-3.126,1,0.0795,0.00725,0.0,0.206,0.569,181.014,4,1,0,0,1,0,0,0,0,0,0,0,2007
+Britney Spears,Piece of Me,Blackout,album,2007-10-15,artist,212106,False,2,0.769,0.638,11,-5.054,1,0.216,0.0902,0.0,0.0857,0.782,115.007,4,1,1,0,0,0,0,0,0,0,0,0,2007
+McFly,All About You,McFly (Five Colours In Her Hair),single,2008-01-01,artist,185666,False,3,0.543,0.572,1,-5.207,1,0.0253,0.189,0.0,0.0865,0.276,129.906,4,1,1,0,0,0,0,0,0,0,0,0,2008
+McFly,The Heart Never Lies,McFly (Five Colours In Her Hair),single,2008-01-01,artist,294253,False,2,0.325,0.645,7,-10.326,1,0.0333,0.0269,2.09e-06,0.321,0.304,199.791,4,1,1,0,0,0,0,0,0,0,0,0,2008
+McFly,Five Colours In Her Hair,McFly (Five Colours In Her Hair),single,2008-01-01,artist,176853,False,1,0.402,0.904,7,-3.456,1,0.0518,0.0229,0.0,0.223,0.61,97.341,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Jonas Brothers,Sorry,A Little Bit Longer,album,2008-01-01,artist,192413,False,10,0.445,0.728,5,-4.084,1,0.0299,0.119,0.0,0.0849,0.454,159.887,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Beyoncé,Halo,I AM...SASHA FIERCE - Platinum Edition,album,2008-01-01,artist,261160,False,4,0.422,0.712,11,-5.907,0,0.1,0.273,0.0,0.051,0.471,78.454,4,1,1,0,0,0,0,1,0,0,0,0,2008
+Jonas Brothers,Pushin' Me Away,A Little Bit Longer,album,2008-01-01,artist,183120,False,9,0.475,0.904,7,-6.1,1,0.0632,0.0134,3.27e-06,0.165,0.48,161.96,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Beyoncé,If I Were a Boy,I AM...SASHA FIERCE - Platinum Edition,album,2008-01-01,artist,249866,False,5,0.63,0.504,6,-6.152,1,0.0334,0.0953,0.0,0.308,0.487,89.946,4,1,1,0,0,0,0,1,0,0,0,0,2008
+Beyoncé,Sweet Dreams,I AM...SASHA FIERCE - Platinum Edition,album,2008-01-01,artist,207480,False,7,0.693,0.822,1,-6.01,1,0.102,0.0995,1.73e-05,0.061,0.765,121.969,4,1,1,0,0,0,0,1,0,0,0,0,2008
+Demi Lovato,Get Back,Don't Forget,album,2008-01-01,artist,200213,False,2,0.558,0.867,0,-3.722,1,0.116,0.00327,0.0,0.0426,0.72,76.018,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Jonas Brothers,Burnin' Up,A Little Bit Longer,album,2008-01-01,artist,175093,False,2,0.668,0.951,2,-3.453,1,0.0784,0.0324,0.0,0.338,0.826,113.986,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Katy Perry,I Kissed A Girl,I Kissed A Girl,single,2008-01-01,artist,179640,False,1,0.699,0.76,5,-3.173,1,0.0677,0.00223,0.0,0.132,0.696,129.996,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Demi Lovato,Don't Forget,Don't Forget,album,2008-01-01,artist,223160,False,6,0.641,0.451,4,-7.694,1,0.0899,0.507,1.71e-06,0.629,0.612,179.967,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Enrique Iglesias,Hero,Greatest Hits,compilation,2008-01-01,artist,264213,False,3,0.569,0.624,7,-6.181,1,0.0386,0.154,3.84e-05,0.103,0.161,151.977,4,1,1,0,0,0,0,0,0,0,1,0,2008
+Jonas Brothers,Lovebug,A Little Bit Longer,album,2008-01-01,artist,220693,False,5,0.6,0.499,4,-6.102,1,0.0624,0.109,0.0,0.17,0.516,158.136,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Katy Perry,Hot N Cold,One Of The Boys,album,2008-01-01,artist,220226,False,7,0.706,0.841,7,-3.956,1,0.0418,7.95e-05,0.0,0.0688,0.861,132.032,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Miley Cyrus,7 Things - Single Version,7 Things,single,2008-01-01,artist,216493,False,1,0.602,0.9,1,-4.998,0,0.0333,0.0286,0.0,0.0642,0.509,107.014,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Ne-Yo,Mad,Year Of The Gentleman (Bonus Track Edition),album,2008-01-01,artist,254533,False,4,0.727,0.649,0,-5.356,1,0.0338,0.661,0.0,0.111,0.669,129.992,4,1,1,0,0,1,0,1,0,0,0,0,2008
+Jonas Brothers,A Little Bit Longer,A Little Bit Longer,album,2008-01-01,artist,205013,False,12,0.333,0.615,0,-4.82,1,0.0329,0.0247,0.0,0.233,0.284,155.922,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Maroon 5,Makes Me Wonder,Grammy Nominees 2008,compilation,2008-01-01,artist,211093,True,5,0.795,0.865,7,-3.038,1,0.0368,0.00593,0.0002,0.0563,0.859,114.001,4,1,0,0,1,0,0,0,0,0,0,0,2008
+Jesse McCartney,Leavin',Departure - Recharged,album,2008-01-01,artist,216880,False,1,0.687,0.71,9,-5.84,1,0.0522,0.0283,3.71e-06,0.0689,0.886,79.235,4,1,1,0,1,0,0,0,0,0,0,0,2008
+Jesse McCartney,Body Language,Departure - Recharged,album,2008-01-01,artist,219213,False,15,0.643,0.748,0,-4.467,1,0.0364,0.0309,0.0,0.154,0.538,161.435,4,1,1,0,1,0,0,0,0,0,0,0,2008
+Stiff Dylans,Ever Fallen In Love,"Angus, Thongs and Perfect Snogging",album,2008-01-01,artist,179666,False,12,0.388,0.978,1,-3.022,0,0.0965,0.0225,0.0,0.0836,0.687,175.846,4,1,0,0,1,0,0,0,0,0,0,0,2008
+Jesse McCartney,How Do You Sleep? - Radio Edit Remix,Departure - Recharged,album,2008-01-01,artist,208333,False,4,0.747,0.878,8,-3.533,1,0.0282,0.343,0.0,0.0872,0.557,106.004,4,1,1,0,1,0,0,0,0,0,0,0,2008
+Stiff Dylans,Ultraviolet,"Angus, Thongs and Perfect Snogging",album,2008-01-01,artist,226106,False,17,0.401,0.987,8,-2.225,1,0.162,0.00495,0.0,0.0906,0.413,169.959,4,1,0,0,1,0,0,0,0,0,0,0,2008
+The Pussycat Dolls,Stickwitu,Ultimate R&B Love 2008 (International Version),compilation,2008-01-01,artist,207853,False,17,0.654,0.546,9,-6.44,1,0.0419,0.305,0.0,0.0638,0.424,79.986,4,1,1,0,0,1,0,0,0,0,0,0,2008
+Panic! At The Disco,Nine in the Afternoon - Single Mix,Pretty. Odd.,album,2008-03-24,artist,191560,False,2,0.405,0.689,10,-5.75,1,0.0365,0.0843,0.0,0.207,0.397,155.189,4,0,0,0,1,0,0,0,0,0,0,0,2008
+Gavin DeGraw,In Love With a Girl,Gavin DeGraw,album,2008-05-06,artist,206000,False,1,0.438,0.906,3,-4.8,1,0.0438,0.0191,0.0,0.373,0.684,161.905,4,1,0,0,1,0,0,0,0,0,0,0,2008
+Coldplay,Viva La Vida,Viva La Vida or Death and All His Friends,album,2008-05-26,artist,242373,False,7,0.486,0.617,5,-7.115,0,0.0287,0.0954,3.23e-06,0.109,0.417,138.015,4,1,0,0,0,0,0,0,0,0,0,0,2008
+Katy Perry,Waking Up In Vegas,One Of The Boys,album,2008-06-17,artist,199186,False,3,0.524,0.878,5,-3.108,0,0.0346,0.0012,0.0,0.098,0.59,130.989,4,1,1,0,0,0,0,0,0,0,0,0,2008
+3OH!3,DONTTRUSTME,WANT,album,2008-07-07,artist,192573,True,3,0.791,0.713,5,-3.742,0,0.254,0.0163,0.0,0.189,0.514,130.012,4,1,1,0,1,1,1,0,0,0,0,0,2008
+Jason Reeves,The End.,The Magnificent Adventures Of Heartache [And Other Frightening Tales...],album,2008-07-31,artist,300746,False,15,0.552,0.43,3,-7.731,1,0.0267,0.0856,0.0,0.0969,0.331,116.939,4,1,0,0,0,0,0,0,0,0,0,0,2008
+Jonas Brothers,This Is Me,キャンプ・ロック (サウンドトラック スペシャルエディション),compilation,2008-08-06,artist,189173,False,6,0.453,0.829,1,-2.545,1,0.0358,0.00977,0.0,0.117,0.563,90.775,4,1,1,0,0,0,0,0,0,0,0,0,2008
+The Academy Is...,About a Girl,Fast Times At Barrington High,album,2008-08-15,artist,210333,False,1,0.292,0.933,9,-4.371,1,0.064,0.000221,9.86e-06,0.473,0.296,202.012,4,1,0,0,1,0,0,0,0,1,0,0,2008
+The Script,Breakeven,The Script,album,2008-09-08,artist,261426,False,5,0.627,0.699,10,-4.504,1,0.0244,0.174,0.0,0.0789,0.535,94.003,4,1,1,0,1,0,0,0,0,0,0,0,2008
+McFly,Lies,Lies,single,2008-09-14,artist,226640,False,1,0.504,0.882,2,-2.846,0,0.0334,0.0316,0.0,0.257,0.442,95.04,4,1,1,0,0,0,0,0,0,0,0,0,2008
+McFly,One For The Radio,radio:ACTIVE,album,2008-09-21,artist,185493,False,2,0.264,0.97,4,-3.31,1,0.103,0.000534,0.0,0.332,0.561,134.849,4,1,1,0,0,0,0,0,0,0,0,0,2008
+McFly,POV,radio:ACTIVE,album,2008-09-21,artist,233786,False,6,0.479,0.873,7,-4.85,1,0.0367,0.0334,0.0,0.337,0.173,140.067,4,1,1,0,0,0,0,0,0,0,0,0,2008
+Kings of Leon,Use Somebody,Only By The Night,album,2008-09-23,artist,230760,False,4,0.276,0.715,0,-5.356,1,0.0432,0.00552,0.000417,0.201,0.173,137.028,4,0,0,0,1,0,0,0,0,0,0,0,2008
+Hey Monday,Homecoming,Hold On Tight,album,2008-10-07,artist,238733,False,3,0.393,0.958,2,-2.102,1,0.0871,0.00966,0.0,0.214,0.323,150.074,4,1,0,0,1,0,0,0,0,1,0,0,2008
+Switchfoot,Meant to Live,The Best Yet,compilation,2008-10-31,artist,199813,False,2,0.395,0.904,2,-3.949,1,0.0468,0.00424,0.0,0.42,0.516,151.498,4,1,0,0,1,0,0,0,0,0,0,0,2008
+Christina Aguilera,Lady Marmalade,Keeps Gettin' Better: A Decade Of Hits,album,2008-11-07,artist,265973,False,6,0.741,0.859,5,-2.223,1,0.057,0.0148,1.84e-06,0.664,0.611,109.905,4,1,1,0,0,1,0,0,0,0,0,0,2008
+Taylor Swift,You Belong With Me,Fearless,album,2008-11-11,artist,231133,False,6,0.687,0.783,6,-4.44,1,0.0386,0.162,1.35e-05,0.114,0.443,129.964,4,1,0,0,0,0,0,0,0,0,0,0,2008
+Taylor Swift,Love Story,Fearless,album,2008-11-11,artist,235266,False,3,0.618,0.741,2,-3.95,1,0.031,0.17,0.0,0.0822,0.296,118.984,4,1,0,0,0,0,0,0,0,0,0,0,2008
+Christina Aguilera,Hurt,Keeps Gettin' Better: A Decade of Hits,compilation,2008-11-12,artist,243626,False,10,0.381,0.282,4,-7.131,0,0.03,0.795,0.0,0.102,0.107,74.072,4,1,1,0,0,1,0,0,0,0,0,0,2008
+Beyoncé,Sweet Dreams,I AM...SASHA FIERCE,album,2008-11-14,artist,208066,False,4,0.694,0.825,1,-5.986,1,0.111,0.0895,1.86e-05,0.0618,0.788,121.949,4,1,1,0,0,0,0,1,0,0,0,0,2008
+Beyoncé,If I Were a Boy,I AM...SASHA FIERCE,album,2008-11-14,artist,249146,False,1,0.632,0.518,6,-6.126,1,0.0313,0.107,0.0,0.354,0.427,90.007,4,1,1,0,0,0,0,1,0,0,0,0,2008
+Beyoncé,Halo,I AM...SASHA FIERCE,album,2008-11-17,artist,261640,False,2,0.508,0.72,11,-5.908,0,0.0628,0.272,0.0,0.0563,0.472,79.983,4,1,1,0,0,0,0,1,0,0,0,0,2008
+Katy Perry,Waking Up in Vegas - Radio Edit,Waking Up In Vegas,single,2009-01-01,artist,204893,False,1,0.498,0.937,5,-2.225,1,0.0642,0.000696,0.0,0.0999,0.56,131.03,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Black Eyed Peas,I Gotta Feeling,THE E.N.D. (THE ENERGY NEVER DIES),album,2009-01-01,artist,289133,False,5,0.743,0.766,0,-6.375,1,0.0265,0.0873,0.0,0.509,0.61,127.96,4,1,1,0,0,1,0,0,0,0,0,0,2009
+Lady Gaga,Bad Romance,The Fame Monster,album,2009-01-01,artist,294573,True,1,0.697,0.921,0,-3.75,1,0.0391,0.00305,3.65e-05,0.0831,0.721,118.99,4,1,1,0,0,0,0,0,0,0,0,0,2009
+OneRepublic,Good Life,Waking Up,album,2009-01-01,artist,253306,True,6,0.634,0.69,6,-7.804,1,0.052,0.0771,0.0,0.132,0.645,94.988,4,1,1,0,1,0,0,0,0,0,0,0,2009
+Edward Maya,Stereo Love - Radio Edit,Stereo Love,single,2009-01-01,artist,185120,False,1,0.775,0.726,9,-5.629,1,0.0369,0.0399,0.0235,0.11,0.206,126.999,4,1,0,0,0,0,1,0,0,0,0,0,2009
+Katy Perry,Thinking Of You,Thinking Of You,single,2009-01-01,artist,246410,False,1,0.431,0.803,4,-4.459,1,0.0364,0.00167,0.0,0.331,0.309,147.048,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Lady Gaga,Telephone,The Fame Monster,album,2009-01-01,artist,220626,False,6,0.827,0.821,3,-5.864,1,0.0419,0.00748,0.0015,0.115,0.684,122.017,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Lady Gaga,Alejandro,The Fame Monster (Deluxe),album,2009-01-01,artist,274213,False,2,0.632,0.789,11,-6.61,0,0.0557,0.00043,0.00144,0.356,0.35,98.986,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Colbie Caillat,Fallin' For You,Breakthrough (Deluxe Edition),album,2009-01-01,artist,215546,False,4,0.644,0.834,4,-6.473,1,0.0275,0.156,0.0,0.112,0.593,117.043,4,1,1,0,1,0,0,0,0,0,0,0,2009
+La Roux,Bulletproof,La Roux,album,2009-01-01,artist,205733,False,4,0.674,0.882,3,-2.771,0,0.0477,0.000441,6.47e-05,0.068,0.682,123.016,4,1,1,0,0,0,1,0,0,0,0,0,2009
+OneRepublic,All The Right Moves,Waking Up,album,2009-01-01,artist,238000,False,2,0.529,0.948,0,-3.527,1,0.0474,0.258,9.35e-06,0.283,0.65,146.024,4,1,1,0,1,0,0,0,0,0,0,0,2009
+Lady Gaga,Paparazzi,The Fame Monster (Deluxe),album,2009-01-01,artist,208320,False,11,0.758,0.688,5,-3.918,0,0.0478,0.12,0.0,0.0904,0.357,114.93,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Demi Lovato,Catch Me,Here We Go Again (European Version),album,2009-01-01,artist,190000,False,6,0.287,0.294,4,-11.988,1,0.0488,0.489,0.0,0.254,0.494,189.857,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Miley Cyrus,Party In The U.S.A.,The Time Of Our Lives,album,2009-01-01,artist,202066,False,2,0.652,0.698,10,-4.667,0,0.042,0.00112,0.000115,0.0886,0.47,96.021,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Demi Lovato,Every Time You Lie,Here We Go Again (European Version),album,2009-01-01,artist,228586,False,7,0.518,0.652,3,-5.837,1,0.0558,0.463,0.0,0.366,0.547,172.083,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Demi Lovato,World Of Chances,Here We Go Again (European Version),album,2009-01-01,artist,170706,False,10,0.412,0.498,10,-8.864,1,0.0316,0.0691,0.0,0.252,0.232,174.13,4,1,1,0,0,0,0,0,0,0,0,0,2009
+OneRepublic,Secrets,Waking Up,album,2009-01-01,artist,224693,False,3,0.516,0.764,2,-6.223,1,0.0366,0.0717,0.0,0.115,0.376,148.021,4,1,1,0,1,0,0,0,0,0,0,0,2009
+Demi Lovato,Don't Forget,Here We Go Again (European Version),album,2009-01-01,artist,223066,False,15,0.642,0.45,4,-7.696,1,0.0918,0.508,1.86e-06,0.629,0.608,179.999,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Demi Lovato,Gift of a Friend,Here We Go Again (European Version),album,2009-01-01,artist,205546,False,13,0.378,0.568,6,-6.198,1,0.028,0.194,0.0,0.206,0.387,153.005,3,1,1,0,0,0,0,0,0,0,0,0,2009
+Selena Gomez & The Scene,Naturally,Kiss & Tell,album,2009-01-01,artist,202586,False,6,0.605,0.902,10,-5.406,0,0.0511,0.0185,1.01e-06,0.0534,0.875,132.612,4,1,1,0,0,1,1,0,0,0,0,0,2009
+Demi Lovato,Everything You're Not,Here We Go Again (European Version),album,2009-01-01,artist,223173,False,12,0.427,0.856,5,-6.201,0,0.168,0.0037,1.22e-06,0.0913,0.498,191.953,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Timbaland,Carry Out (Featuring Justin Timberlake),Shock Value II,album,2009-01-01,artist,232466,False,2,0.531,0.574,10,-6.693,0,0.113,0.114,0.0308,0.256,0.272,115.68,5,1,1,0,0,1,0,0,0,0,0,0,2009
+Demi Lovato,Here We Go Again,Here We Go Again,single,2009-01-01,artist,225250,False,1,0.576,0.943,5,-4.144,1,0.0422,0.0032,0.0,0.178,0.641,142.043,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Owl City,Fireflies,Ocean Eyes,album,2009-01-01,artist,228346,False,9,0.512,0.662,3,-6.797,1,0.0439,0.0275,0.0,0.118,0.472,180.114,4,1,0,0,1,0,0,0,0,0,0,0,2009
+Jay Sean,Down,All Or Nothing,album,2009-01-01,artist,212106,False,3,0.657,0.695,2,-4.493,1,0.0321,0.0108,0.0,0.0822,0.683,65.997,4,1,1,0,0,1,0,0,0,0,0,0,2009
+Paramore,Decode - Acoustic Version,Decode,single,2009-01-16,artist,267466,False,2,0.467,0.421,10,-8.843,0,0.031,0.191,0.0,0.116,0.335,74.96,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Kelly Clarkson,My Life Would Suck Without You,My Life Would Suck Without You,single,2009-01-20,artist,211653,False,1,0.529,0.878,9,-3.957,1,0.0534,0.00347,0.0,0.101,0.397,144.973,4,1,1,0,1,0,0,0,0,0,0,0,2009
+The Fray,Never Say Never,The Fray,album,2009-02-02,artist,256613,False,5,0.23,0.492,8,-5.767,1,0.0317,0.568,8.18e-06,0.176,0.262,160.139,4,1,0,0,1,0,0,0,0,0,0,0,2009
+Kelly Clarkson,Already Gone,All I Ever Wanted,album,2009-03-09,artist,281560,False,6,0.209,0.872,9,-2.996,1,0.0757,0.217,0.0,0.0768,0.294,78.139,4,1,1,0,1,0,0,0,0,0,0,0,2009
+The Pussycat Dolls,I Hate This Part,NOW 30,compilation,2009-03-24,artist,217560,False,9,0.751,0.611,5,-4.206,1,0.0329,0.09,0.0,0.125,0.5,111.571,4,1,1,0,0,1,0,0,0,0,0,0,2009
+Ashley Tisdale,"It's Alright, It's OK",Guilty Pleasure,album,2009-06-12,artist,179200,False,2,0.528,0.923,1,-1.884,0,0.058,0.00536,1.46e-05,0.134,0.267,130.067,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Cobra Starship,Good Girls Go Bad (feat. Leighton Meester),Hot Mess,album,2009-07-07,artist,196413,False,3,0.594,0.874,0,-3.716,1,0.0815,0.0116,0.0,0.549,0.628,119.964,4,1,1,0,1,0,0,0,0,0,0,0,2009
+Jordin Sparks,Battlefield,Battlefield,album,2009-07-20,artist,241920,False,2,0.613,0.634,2,-3.472,1,0.0339,0.0178,0.0,0.0719,0.37,144.953,4,1,1,0,0,1,0,1,0,0,0,0,2009
+Beyoncé,Sweet Dreams,Ego/Sweet Dreams Singles & Dance Mixes,single,2009-07-21,artist,209213,False,4,0.693,0.819,1,-6.001,1,0.101,0.103,1.64e-05,0.0637,0.755,121.968,4,1,1,0,0,0,0,1,0,0,0,0,2009
+Train,"Hey, Soul Sister","Hey, Soul Sister",single,2009-08-06,artist,216666,False,1,0.675,0.885,1,-4.432,0,0.0436,0.217,0.0,0.086,0.768,97.03,4,1,1,0,1,0,0,0,0,0,0,0,2009
+Iyaz,Replay,Replay,single,2009-08-11,artist,182306,False,1,0.706,0.751,9,-6.323,1,0.0708,0.173,0.0,0.168,0.195,91.031,4,1,1,0,0,1,0,0,0,0,0,0,2009
+Boys Like Girls,Two Is Better Than One (feat. Taylor Swift),Love Drunk,album,2009-09-07,artist,242840,False,4,0.521,0.702,0,-5.189,1,0.0331,0.189,0.0,0.0962,0.25,127.976,4,1,0,0,1,0,0,0,0,0,0,0,2009
+Boys Like Girls,Love Drunk,Love Drunk,album,2009-09-07,artist,226706,False,2,0.44,0.976,10,-3.17,1,0.141,0.00177,3.39e-06,0.16,0.412,150.005,4,1,0,0,1,0,0,0,0,0,0,0,2009
+Uncle Kracker,Smile,Happy Hour,album,2009-09-11,artist,201626,False,1,0.541,0.812,4,-3.764,1,0.0336,0.203,0.0,0.42,0.607,141.056,4,1,0,0,1,0,0,0,1,0,0,0,2009
+Paramore,Ignorance,Brand New Eyes,album,2009-09-22,artist,218626,False,2,0.522,0.964,11,-2.645,0,0.095,0.00109,0.000389,0.0387,0.51,170.944,4,1,0,0,1,0,0,0,0,1,0,0,2009
+All Time Low,Damned If I Do Ya (Damned If I Don't),Damned If I Do Ya (Damned If I Don't),single,2009-09-22,artist,187000,False,1,0.554,0.902,4,-4.018,1,0.0569,0.00635,0.0,0.328,0.657,126.022,4,1,0,0,1,0,0,0,0,0,0,0,2009
+Kris Allen,Live Like We're Dying,Live Like We're Dying,single,2009-09-25,artist,212746,False,1,0.578,0.9,0,-2.501,1,0.0443,0.0267,0.0,0.287,0.934,92.011,4,1,0,0,0,0,0,0,0,0,0,0,2009
+Paramore,The Only Exception,Brand New Eyes,album,2009-09-28,artist,267653,False,6,0.452,0.563,4,-6.607,1,0.0272,0.144,0.0,0.143,0.209,137.715,3,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,The Silence,Anywhere But Here,album,2009-10-05,artist,215866,False,3,0.353,0.978,11,-3.045,0,0.329,0.000927,0.0,0.314,0.369,165.017,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Anywhere but Here,Anywhere But Here,album,2009-10-05,artist,190640,False,2,0.414,0.946,4,-3.419,1,0.0856,0.00135,0.0,0.278,0.42,165.015,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,"If You Can't Live Without Me, Why Aren't You Dead Yet?",Anywhere But Here,album,2009-10-05,artist,218133,False,6,0.397,0.974,1,-3.149,1,0.325,0.000137,0.0,0.255,0.357,164.759,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Kids in Love,Anywhere But Here,album,2009-10-05,artist,216600,False,1,0.512,0.963,3,-2.726,1,0.0583,0.000917,0.0,0.308,0.72,135.027,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Save Your Heart,Anywhere But Here,album,2009-10-05,artist,222053,False,7,0.282,0.868,3,-2.682,1,0.0451,0.0299,0.0,0.124,0.514,173.826,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,The End,Anywhere But Here,album,2009-10-05,artist,217773,False,11,0.375,0.971,6,-2.997,1,0.0899,0.000688,0.0,0.207,0.487,155.0,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,I Swear This Time I Mean It,Anywhere But Here,album,2009-10-05,artist,241106,False,10,0.423,0.548,7,-6.742,1,0.0278,0.426,0.0,0.0781,0.398,141.062,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Bruised and Scarred,Anywhere But Here,album,2009-10-05,artist,203293,False,5,0.512,0.953,2,-3.474,1,0.0889,0.00185,0.0,0.102,0.452,123.07,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Still Breathing,Anywhere But Here,album,2009-10-05,artist,232013,False,4,0.518,0.967,1,-3.685,1,0.0851,0.00326,0.0,0.0912,0.389,142.996,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Get Up,Anywhere But Here,album,2009-10-05,artist,181520,False,8,0.46,0.953,2,-2.591,1,0.0981,9.87e-05,0.0,0.343,0.771,151.162,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Center of Attention,Anywhere But Here,album,2009-10-05,artist,179173,False,9,0.462,0.982,1,-3.326,1,0.126,0.000729,0.0,0.337,0.612,160.912,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Jamie All Over - EP Version,Valdosta EP,single,2009-10-06,artist,243417,False,2,0.571,0.442,1,-4.985,1,0.0283,0.647,0.0,0.0948,0.68,135.069,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Kids in Love - EP Version,Valdosta EP,single,2009-10-06,artist,228908,False,3,0.59,0.538,3,-5.515,1,0.0268,0.651,0.0,0.268,0.555,118.007,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Mayday Parade,Bruised and Scarred - EP Version,Valdosta EP,single,2009-10-06,artist,202482,False,5,0.601,0.434,1,-5.373,1,0.0284,0.665,0.0,0.137,0.526,118.033,4,1,0,0,1,0,0,0,0,1,0,0,2009
+Michael Bublé,Haven't Met You Yet,Crazy Love,album,2009-10-06,artist,244586,False,5,0.615,0.733,8,-4.808,1,0.0335,0.152,0.0,0.109,0.796,122.58,4,1,0,0,0,0,0,0,0,0,0,0,2009
+Rihanna,Rude Boy,Rated R,album,2009-11-20,artist,222986,False,8,0.561,0.747,3,-4.471,0,0.171,0.118,0.0,0.0682,0.774,173.917,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Rihanna,Hard,Rated R,album,2009-11-20,artist,250600,True,3,0.31,0.746,1,-3.599,1,0.111,0.0121,0.0,0.649,0.163,182.032,4,1,1,0,0,0,0,0,0,0,0,0,2009
+Adam Lambert,Whataya Want from Me,For Your Entertainment,album,2009-11-23,artist,227320,False,3,0.44,0.683,11,-4.732,0,0.0489,0.00706,0.0,0.0593,0.445,185.948,4,1,1,0,0,0,1,0,0,0,0,0,2009
+Alicia Keys,Un-thinkable (I'm Ready),The Element Of Freedom,album,2009-12-15,artist,249240,False,7,0.596,0.505,7,-7.892,1,0.0619,0.732,1.97e-05,0.106,0.335,86.097,4,1,0,0,0,0,0,1,0,0,0,0,2009
+Alicia Keys,Try Sleeping with a Broken Heart,The Element Of Freedom,album,2009-12-15,artist,249013,False,4,0.496,0.821,5,-5.155,1,0.112,0.158,0.246,0.13,0.549,110.977,5,1,0,0,0,0,0,1,0,0,0,0,2009
+Mike Posner,Cooler Than Me (feat. Big Sean),Cooler Than Me EP,single,2009-12-15,artist,227840,False,2,0.837,0.515,7,-4.065,0,0.0793,0.103,0.0,0.233,0.769,129.001,4,1,1,0,0,1,0,0,0,0,0,0,2009
+Far East Movement,Rocketeer,Free Wired,album,2010-01-01,artist,211253,False,3,0.664,0.845,4,-6.115,0,0.0461,0.181,0.0,0.267,0.357,96.005,4,1,1,0,0,1,1,0,0,0,0,0,2010
+The Band Perry,If I Die Young,The Band Perry,album,2010-01-01,artist,222773,False,3,0.606,0.497,4,-6.611,1,0.0277,0.348,0.0,0.275,0.362,130.739,4,0,0,0,1,0,0,0,1,0,0,0,2010
+Nicki Minaj,Super Bass,Pink Friday,album,2010-01-01,artist,200013,True,14,0.721,0.867,11,-4.302,1,0.196,0.29,2.87e-06,0.503,0.639,127.033,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Enrique Iglesias,Tonight (I'm Lovin' You),Tonight (I'm Lovin' You),single,2010-01-01,artist,231653,False,1,0.659,0.882,5,-4.623,0,0.0465,0.0258,9.2e-06,0.144,0.314,125.985,4,1,1,0,0,0,0,0,0,0,1,0,2010
+Taio Cruz,Dynamite,Rokstarr,album,2010-01-01,artist,203866,False,1,0.754,0.804,4,-3.177,1,0.0853,0.00332,0.0,0.0329,0.818,119.968,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Maroon 5,Moves Like Jagger - Studio Recording From The Voice Performance,Hands All Over,album,2010-01-01,artist,201160,False,13,0.722,0.758,11,-4.477,0,0.0471,0.0111,0.0,0.308,0.62,128.047,4,1,0,0,1,0,0,0,0,0,0,0,2010
+Shontelle,Impossible,No Gravity,album,2010-01-01,artist,226533,False,2,0.599,0.624,8,-3.631,1,0.0343,0.385,0.0,0.125,0.539,90.034,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Gwen Stefani,Hollaback Girl,Let's Get It Started,compilation,2010-01-01,artist,200080,True,3,0.925,0.885,10,-4.023,0,0.0904,0.364,4.77e-06,0.0234,0.911,110.017,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Maroon 5,Misery,Hands All Over (Deluxe),album,2010-01-01,artist,216200,False,1,0.704,0.81,4,-4.874,0,0.0425,0.000315,0.0,0.216,0.726,102.98,4,1,0,0,1,0,0,0,0,0,0,0,2010
+Enrique Iglesias,I Like It,Euphoria (Standard US/Latin version),album,2010-01-01,artist,231786,False,5,0.646,0.94,10,-2.856,0,0.0838,0.0209,0.0,0.0691,0.704,129.011,4,1,1,0,0,0,0,0,0,0,1,0,2010
+Plain White T's,"1, 2, 3, 4",Wonders Of The Younger (International Version),album,2010-01-01,artist,198373,False,15,0.458,0.548,2,-7.1,1,0.0263,0.599,1.25e-05,0.106,0.55,90.599,4,1,0,0,1,0,0,0,0,0,0,0,2010
+Nicki Minaj,Your Love,Pink Friday,album,2010-01-01,artist,245253,True,12,0.488,0.529,11,-10.176,1,0.255,0.00249,0.00226,0.413,0.196,126.186,5,1,1,0,0,1,0,0,0,0,0,0,2010
+Orianthi,According To You,Believe (II),album,2010-01-01,artist,200346,False,1,0.619,0.917,5,-2.582,1,0.0507,0.0233,1.21e-05,0.0986,0.552,131.002,4,1,0,0,0,0,0,0,0,0,0,0,2010
+Lady A,Need You Now,Need You Now,album,2010-01-01,artist,236440,False,1,0.581,0.717,4,-4.433,1,0.0318,0.0298,0.000186,0.243,0.316,107.884,4,1,0,0,0,0,0,0,1,0,0,0,2010
+Kesha,Blah Blah Blah (feat. 3OH!3),Animal,album,2010-01-01,artist,172053,False,6,0.752,0.832,10,-3.243,1,0.0971,0.0833,0.000265,0.424,0.534,120.003,4,1,1,0,0,0,1,0,0,0,0,0,2010
+Neon Trees,Animal,Habits,album,2010-01-01,artist,212293,False,3,0.482,0.833,5,-5.611,1,0.0449,0.000346,0.0,0.365,0.74,148.039,4,1,0,0,1,0,0,0,0,0,0,0,2010
+Taio Cruz,Break Your Heart,Rokstarr,album,2010-01-01,artist,186266,False,2,0.666,0.899,8,-4.676,1,0.028,0.00155,0.0,0.0677,0.629,122.05,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Demi Lovato,Remember December,Remember December,single,2010-01-01,artist,191760,False,1,0.467,0.845,1,-6.131,1,0.0785,0.00122,0.0,0.112,0.651,179.949,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Far East Movement,Like A G6,Free Wired,album,2010-01-01,artist,216893,False,2,0.435,0.837,3,-8.126,1,0.449,0.00676,0.0,0.117,0.778,124.913,4,1,1,0,0,1,1,0,0,0,0,0,2010
+Keri Hilson,Pretty Girl Rock,No Boys Allowed,album,2010-01-01,artist,243920,False,2,0.666,0.87,11,-5.004,0,0.246,0.203,0.0,0.0851,0.9,160.014,4,1,1,0,0,0,0,1,0,0,0,0,2010
+Kesha,Your Love Is My Drug,Animal,album,2010-01-01,artist,187066,False,1,0.829,0.607,1,-3.876,1,0.0897,0.0049,0.0,0.0986,0.766,120.044,4,1,1,0,0,0,1,0,0,0,0,0,2010
+Justin Bieber,Baby,My World 2.0,album,2010-01-01,artist,214240,False,1,0.728,0.859,5,-5.237,0,0.137,0.0401,0.0,0.111,0.535,65.043,4,1,0,0,0,0,0,0,0,0,0,0,2010
+Nelly,Dilemma,Songs About Love (UMGI Version),compilation,2010-01-01,artist,289200,True,12,0.734,0.423,2,-12.9,0,0.231,0.192,9.09e-06,0.235,0.586,168.146,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Papa Roach,Scars - Acoustic Version,To Be Loved: The Best Of Papa Roach (Explicit Version),compilation,2010-01-01,artist,190973,False,14,0.574,0.402,11,-9.167,1,0.0328,0.308,0.0,0.207,0.529,86.193,4,0,0,1,1,1,0,0,0,0,0,0,2010
+Maroon 5,She Will Be Loved,Songs About Love (UMGI Version),compilation,2010-01-01,artist,256440,False,16,0.697,0.592,0,-9.667,0,0.03,0.058,0.0,0.136,0.579,102.046,4,1,0,0,1,0,0,0,0,0,0,0,2010
+Green Day,21 Guns,21 Guns EP,single,2010-01-26,artist,322040,False,2,0.26,0.719,5,-4.765,1,0.0364,0.048,0.0,0.454,0.419,159.072,4,1,0,0,1,0,0,0,0,0,0,0,2010
+Jason Derulo,In My Head,Jason Derulo (Deluxe Audio),album,2010-03-01,artist,198960,False,3,0.762,0.739,0,-4.178,0,0.0328,0.0269,0.0,0.498,0.852,110.002,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Jason Derulo,Ridin' Solo,Jason Derulo (Deluxe Audio),album,2010-03-01,artist,215746,False,2,0.442,0.83,9,-4.02,1,0.146,0.128,0.0,0.129,0.578,89.338,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Jason Derulo,Whatcha Say,Jason Derulo (Deluxe Audio),album,2010-03-01,artist,221253,False,1,0.615,0.711,11,-5.507,1,0.0779,0.0444,0.0,0.145,0.711,144.036,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Travie McCoy,Billionaire (feat. Bruno Mars),Billionaire (feat. Bruno Mars),single,2010-03-09,artist,211160,True,1,0.633,0.673,6,-6.403,0,0.258,0.297,0.0,0.206,0.659,86.776,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Usher,OMG,Raymond v Raymond,album,2010-03-30,artist,269493,False,6,0.781,0.745,4,-5.81,0,0.0332,0.198,1.14e-05,0.36,0.326,129.998,4,1,1,0,0,1,0,1,0,0,0,0,2010
+B.o.B,Airplanes (feat. Hayley Williams of Paramore),B.o.B Presents: The Adventures of Bobby Ray,album,2010-04-27,artist,180480,True,4,0.66,0.867,6,-4.285,0,0.116,0.11,0.0,0.0368,0.377,93.033,4,1,1,0,0,1,0,0,0,0,0,0,2010
+B.o.B,Nothin' on You (feat. Bruno Mars),B.o.B Presents: The Adventures of Bobby Ray,album,2010-04-27,artist,268320,False,2,0.688,0.853,10,-5.814,1,0.0493,0.386,0.0,0.0862,0.743,103.993,4,1,1,0,0,1,0,0,0,0,0,0,2010
+B.o.B,Magic (feat. Rivers Cuomo),B.o.B Presents: The Adventures of Bobby Ray,album,2010-04-27,artist,196133,False,8,0.549,0.932,8,-4.11,0,0.343,0.0127,0.0,0.347,0.787,82.439,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Eminem,Love The Way You Lie,Recovery,album,2010-06-18,artist,263373,True,15,0.749,0.925,10,-5.034,1,0.227,0.241,0.0,0.52,0.641,86.989,4,0,0,0,0,1,0,0,0,0,0,0,2010
+3OH!3,My First Kiss (feat. Ke$ha),Streets Of Gold,album,2010-06-25,artist,192440,False,3,0.682,0.889,0,-4.166,1,0.0804,0.00564,0.0,0.36,0.827,138.021,4,1,1,0,1,1,1,0,0,0,0,0,2010
+Usher,DJ Got Us Fallin' In Love,DJ Got Us Fallin' In Love,single,2010-07-13,artist,222160,False,1,0.666,0.878,7,-2.85,0,0.0973,0.03,0.0,0.0828,0.669,119.932,4,1,1,0,0,1,0,1,0,0,0,0,2010
+Mike Posner,Please Don't Go,31 Minutes to Takeoff,album,2010-08-09,artist,196813,False,2,0.699,0.882,4,-3.896,0,0.0311,0.00296,0.0544,0.13,0.657,120.016,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Katy Perry,Last Friday Night (T.G.I.F.),Teenage Dream,album,2010-08-24,artist,230733,False,2,0.652,0.812,3,-3.797,0,0.0409,0.00125,3.01e-05,0.667,0.72,126.023,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Katy Perry,E.T.,Teenage Dream,album,2010-08-24,artist,206373,False,8,0.602,0.863,5,-5.423,0,0.0773,0.0178,0.0,0.389,0.732,150.183,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Katy Perry,The One That Got Away,Teenage Dream,album,2010-08-24,artist,227333,False,7,0.691,0.795,1,-4.021,0,0.0355,0.000812,1.02e-06,0.156,0.876,133.971,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Katy Perry,Firework,Teenage Dream,album,2010-08-24,artist,227893,False,4,0.638,0.832,8,-5.039,1,0.049,0.141,0.0,0.113,0.648,124.071,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Katy Perry,Teenage Dream,Teenage Dream,album,2010-08-24,artist,227741,False,1,0.719,0.798,10,-4.582,1,0.0361,0.0162,2.34e-06,0.134,0.591,120.011,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Sara Bareilles,King of Anything,Kaleidoscope Heart,album,2010-09-07,artist,207493,False,5,0.676,0.762,1,-4.172,1,0.0351,0.461,0.0,0.0574,0.81,119.003,4,1,0,0,1,0,0,0,0,0,0,0,2010
+Bruno Mars,Grenade,Doo-Wops & Hooligans,album,2010-10-05,artist,223253,False,1,0.706,0.558,2,-7.237,0,0.0593,0.146,0.0,0.118,0.227,110.443,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Bruno Mars,The Lazy Song,Doo-Wops & Hooligans,album,2010-10-05,artist,190213,False,5,0.738,0.804,11,-3.851,1,0.0621,0.332,0.0,0.279,0.949,174.943,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Bruno Mars,Just the Way You Are,Doo-Wops & Hooligans,album,2010-10-05,artist,220733,False,2,0.637,0.843,5,-5.413,1,0.0432,0.0151,0.0,0.0876,0.434,109.012,4,1,1,0,0,0,0,0,0,0,0,0,2010
+P!nk,Raise Your Glass,Raise Your Glass,single,2010-10-06,artist,203333,True,1,0.7,0.695,7,-4.973,1,0.0897,0.00629,0.0,0.0319,0.633,122.028,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Kesha,We R Who We R,We R Who We R,single,2010-10-22,artist,204826,False,1,0.739,0.818,8,-5.062,1,0.0418,0.008,0.00504,0.164,0.713,119.982,4,1,1,0,0,0,1,0,0,0,0,0,2010
+P!nk,F**kin' Perfect,Greatest Hits...So Far!!!,compilation,2010-11-12,artist,213586,True,18,0.575,0.648,7,-4.747,1,0.0333,0.0391,0.0,0.364,0.494,91.974,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Nelly,Just A Dream,5.0,album,2010-11-12,artist,237800,False,4,0.531,0.752,1,-6.161,1,0.0305,0.0421,0.0,0.12,0.103,89.917,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Rihanna,Only Girl (In The World),Loud,album,2010-11-15,artist,235520,False,5,0.786,0.716,11,-4.253,0,0.0409,0.102,1.72e-05,0.0557,0.595,125.921,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Rihanna,S&M,Loud,album,2010-11-15,artist,243533,False,1,0.766,0.682,1,-5.02,1,0.0419,0.0113,0.00016,0.104,0.833,127.966,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Rihanna,What's My Name?,Loud,album,2010-11-16,artist,263173,False,2,0.69,0.786,2,-2.959,1,0.0692,0.229,0.0,0.0797,0.583,100.049,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Rihanna,Cheers (Drink To That),Loud,album,2010-11-16,artist,261746,False,3,0.576,0.912,9,-3.623,1,0.0403,0.0182,0.0,0.293,0.727,79.981,4,1,1,0,0,0,0,0,0,0,0,0,2010
+Kesha,TiK ToK,Animal + Cannibal (Deluxe Edition),compilation,2010-11-19,artist,199693,False,2,0.755,0.832,2,-2.741,0,0.116,0.0746,1.27e-06,0.291,0.735,120.032,4,1,1,0,0,0,1,0,0,0,0,0,2010
+Flo Rida,Club Can't Handle Me (feat. David Guetta),Only One Flo (Part 1),album,2010-11-24,artist,234560,False,7,0.616,0.869,0,-3.911,1,0.0327,0.0283,0.0,0.064,0.473,127.966,4,1,1,0,0,1,0,0,0,0,0,0,2010
+Lady Gaga,Born This Way,Born This Way (Special Edition),album,2011-01-01,artist,260253,False,2,0.587,0.828,11,-5.108,1,0.161,0.00327,0.0,0.331,0.494,123.907,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Olly Murs,Troublemaker (feat. Flo Rida),Right Place Right Time (Deluxe),album,2011-01-01,artist,185200,False,3,0.761,0.856,0,-3.65,0,0.0731,0.02,0.0,0.149,0.967,106.009,4,1,1,0,1,0,1,0,0,0,0,0,2011
+Demi Lovato,Give Your Heart a Break,Unbroken,album,2011-01-01,artist,205346,False,10,0.651,0.695,6,-3.218,1,0.0487,0.23,0.0,0.144,0.569,123.008,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Demi Lovato,Skyscraper,Unbroken,album,2011-01-01,artist,221293,False,11,0.575,0.614,7,-3.252,1,0.0292,0.16,0.0,0.13,0.198,103.933,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Hunter Hayes,Wanted,Hunter Hayes (Encore),album,2011-01-01,artist,228840,False,2,0.421,0.476,0,-7.692,1,0.0298,0.268,0.0,0.0816,0.3,169.784,4,1,0,0,1,0,0,0,1,0,0,0,2011
+Neon Trees,Everybody Talks,Everybody Talks,single,2011-01-01,artist,179386,False,1,0.476,0.918,8,-3.988,1,0.0616,0.00895,0.0,0.292,0.717,154.897,4,1,0,0,1,0,0,0,0,0,0,0,2011
+LMFAO,Party Rock Anthem,Sorry For Party Rocking,album,2011-01-01,artist,262173,False,3,0.75,0.727,5,-4.21,0,0.142,0.0189,0.0,0.266,0.359,129.993,4,1,1,0,0,1,0,0,0,0,0,0,2011
+Demi Lovato,Skyscraper,Skyscraper,single,2011-01-01,artist,222440,False,1,0.582,0.605,7,-3.264,1,0.0321,0.12,0.0,0.129,0.161,103.885,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Selena Gomez & The Scene,Love You Like A Love Song,When The Sun Goes Down,album,2011-01-01,artist,188453,False,1,0.858,0.678,1,-3.87,0,0.0469,0.0761,0.0,0.0741,0.922,117.009,4,1,1,0,0,1,1,0,0,0,0,0,2011
+Lady Gaga,The Edge Of Glory,Born This Way,album,2011-01-01,artist,320586,False,14,0.581,0.772,9,-6.544,1,0.0401,0.000343,0.0191,0.11,0.361,127.952,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Gotye,Somebody That I Used To Know,Making Mirrors,album,2011-01-01,artist,244973,False,3,0.864,0.495,0,-7.036,1,0.037,0.591,0.000133,0.0992,0.72,129.062,4,1,0,0,0,0,0,0,0,0,0,0,2011
+Jessie J,Domino,Who You Are (Platinum Edition),album,2011-01-01,artist,231693,False,14,0.757,0.547,7,-4.573,1,0.0355,0.0115,0.0,0.0445,0.793,126.977,4,1,1,0,0,1,1,0,0,0,0,0,2011
+Beyoncé,I Was Here,4,album,2011-01-01,artist,239213,False,11,0.51,0.627,7,-6.59,1,0.0336,0.431,0.0,0.0927,0.234,110.992,3,1,1,0,0,0,0,1,0,0,0,0,2011
+Beyoncé,Love On Top,4,album,2011-01-01,artist,267413,False,8,0.652,0.749,0,-5.248,1,0.0886,0.0848,0.0,0.604,0.651,94.103,4,1,1,0,0,0,0,1,0,0,0,0,2011
+Beyoncé,Best Thing I Never Had,4,album,2011-01-01,artist,253746,False,4,0.545,0.649,6,-4.062,1,0.0324,0.143,1.57e-05,0.0894,0.297,99.099,4,1,1,0,0,0,0,1,0,0,0,0,2011
+Breaking Benjamin,The Diary Of Jane,Shallow Bay: The Best Of Breaking Benjamin Deluxe Edition (Explicit),compilation,2011-01-01,artist,200226,False,7,0.395,0.954,10,-4.388,0,0.0748,6.71e-05,0.0147,0.143,0.355,167.082,4,0,0,1,0,0,0,0,0,0,0,0,2011
+Lady A,Just A Kiss,Own The Night,album,2011-01-01,artist,218840,False,2,0.593,0.639,1,-5.826,1,0.0307,0.446,0.0,0.0998,0.332,142.881,4,1,0,0,0,0,0,0,1,0,0,0,2011
+Jennifer Lopez,On The Floor - Radio Edit,On The Floor,single,2011-01-01,artist,230906,False,1,0.758,0.686,11,-6.346,1,0.0792,0.0848,0.00127,0.142,0.444,130.007,4,1,1,0,0,1,0,0,0,0,0,0,2011
+The Wanted,Glad You Came,Glad You Came,single,2011-01-01,artist,198466,False,1,0.698,0.844,7,-4.549,0,0.067,0.0577,1.69e-05,0.105,0.446,126.937,4,1,1,0,0,0,0,0,0,0,0,0,2011
+LMFAO,Sexy And I Know It,Sorry For Party Rocking (Deluxe Version),album,2011-01-01,artist,199480,False,4,0.707,0.861,7,-4.225,1,0.316,0.1,0.0,0.191,0.795,130.021,4,1,1,0,0,1,0,0,0,0,0,0,2011
+Jessie J,Price Tag,Who You Are (Platinum Edition),album,2011-01-01,artist,223053,False,1,0.638,0.831,5,-3.944,1,0.182,0.0281,3.06e-06,0.277,0.685,175.038,4,1,1,0,0,1,1,0,0,0,0,0,2011
+The Script,For the First Time,Science & Faith,album,2011-01-18,artist,252853,True,2,0.396,0.629,9,-4.78,1,0.0287,0.0328,0.0,0.183,0.358,173.794,4,1,1,0,1,0,0,0,0,0,0,0,2011
+Adele,Set Fire to the Rain,21,album,2011-01-19,artist,241693,False,5,0.61,0.683,2,-3.879,0,0.0253,0.00382,1.79e-06,0.125,0.466,108.003,4,1,0,0,0,0,0,1,0,0,0,0,2011
+Adele,Rumour Has It,21,album,2011-01-19,artist,221426,False,2,0.618,0.753,7,-5.05,0,0.0451,0.637,0.0,0.0905,0.557,120.041,4,1,0,0,0,0,0,1,0,0,0,0,2011
+Adele,Someone Like You,21,album,2011-01-19,artist,285040,False,11,0.559,0.33,9,-8.251,1,0.0285,0.892,0.0,0.0975,0.285,135.109,4,1,0,0,0,0,0,1,0,0,0,0,2011
+Adele,Rolling in the Deep,21,album,2011-01-19,artist,228293,False,1,0.729,0.756,8,-5.119,1,0.0294,0.131,0.0,0.0527,0.522,104.945,4,1,0,0,0,0,0,1,0,0,0,0,2011
+The Calling,Wherever You Will Go,The Best Of...,compilation,2011-02-04,artist,209360,False,1,0.551,0.696,2,-6.192,1,0.0265,0.0392,0.0,0.127,0.354,112.024,4,1,0,0,1,0,0,0,0,0,0,0,2011
+Avril Lavigne,What the Hell,Goodbye Lullaby,album,2011-03-04,artist,220626,False,2,0.571,0.932,6,-3.68,0,0.0576,0.00448,0.00939,0.117,0.864,150.014,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Britney Spears,Hold It Against Me,Femme Fatale (Deluxe Version),album,2011-03-28,artist,228826,False,2,0.648,0.722,0,-4.813,0,0.0427,0.0103,0.0,0.24,0.389,132.973,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Christina Perri,Jar of Hearts,lovestrong.,album,2011-05-10,artist,246587,False,5,0.349,0.348,3,-6.142,1,0.0316,0.726,0.0,0.12,0.0886,74.541,4,1,1,0,1,0,0,0,0,0,0,0,2011
+Foster The People,Pumped Up Kicks,Torches,album,2011-05-23,artist,239600,False,2,0.733,0.71,5,-5.849,0,0.0292,0.145,0.115,0.0956,0.965,127.975,4,1,0,0,1,0,0,0,0,0,0,0,2011
+Pitbull,"Give Me Everything (feat. Ne-Yo, Afrojack & Nayer)",Planet Pit (Deluxe Version),album,2011-06-17,artist,252306,False,2,0.671,0.939,8,-3.206,1,0.161,0.191,0.0,0.298,0.53,129.024,4,1,1,0,0,1,0,0,0,0,1,0,2011
+Pitbull,International Love (feat. Chris Brown),Planet Pit (Deluxe Version),album,2011-06-17,artist,227280,False,8,0.67,0.855,0,-3.035,0,0.0499,0.0124,0.0,0.335,0.648,120.05,4,1,1,0,0,1,0,0,0,0,1,0,2011
+Pitbull,Hey Baby (Drop It to the Floor) (feat. T-Pain),Planet Pit (Deluxe Version),album,2011-06-17,artist,234453,False,4,0.595,0.912,10,-3.428,0,0.0884,0.0434,0.0,0.259,0.762,128.024,4,1,1,0,0,1,0,0,0,0,1,0,2011
+Beyoncé,Best Thing I Never Had,4,album,2011-06-24,artist,253746,False,12,0.545,0.649,6,-4.062,1,0.0324,0.143,1.57e-05,0.0894,0.297,99.099,4,1,1,0,0,0,0,1,0,0,0,0,2011
+Flo Rida,Good Feeling,Good Feeling,single,2011-08-29,artist,248133,False,1,0.706,0.89,1,-4.444,0,0.0688,0.0588,0.00286,0.306,0.684,128.011,4,1,1,0,0,1,0,0,0,0,0,0,2011
+David Guetta,Titanium (feat. Sia),Nothing but the Beat,album,2011-08-31,artist,245040,False,13,0.604,0.788,0,-3.673,0,0.103,0.0678,0.153,0.127,0.301,126.06,4,1,1,0,0,0,1,0,0,0,0,0,2011
+Ed Sheeran,The A Team,+,album,2011-09-09,artist,258373,False,1,0.642,0.289,9,-9.918,1,0.0367,0.669,0.0,0.18,0.407,84.996,4,1,0,0,0,0,0,0,0,0,0,0,2011
+Boyce Avenue,Mirrors (feat. Fifth Harmony),"Cover Collaborations, Vol. 2",album,2011-09-16,artist,292566,False,10,0.563,0.658,1,-7.177,1,0.0419,0.492,0.0,0.105,0.702,77.041,4,1,0,0,0,0,0,0,0,0,0,0,2011
+Jason Derulo,Don't Wanna Go Home,Future History (Deluxe Edition),album,2011-09-16,artist,206080,False,1,0.671,0.808,2,-4.861,0,0.0652,0.02,0.0,0.134,0.637,121.956,4,1,1,0,0,1,0,0,0,0,0,0,2011
+Boyce Avenue,When I Was Your Man (feat. Fifth Harmony),"Cover Collaborations, Vol. 2",album,2011-09-16,artist,218472,False,11,0.404,0.237,7,-10.001,1,0.039,0.906,0.0,0.111,0.163,143.785,4,1,0,0,0,0,0,0,0,0,0,0,2011
+Gavin DeGraw,Not Over You,Sweeter,album,2011-09-16,artist,218520,False,2,0.63,0.894,10,-4.592,1,0.0544,0.255,0.0,0.181,0.364,142.051,4,1,0,0,1,0,0,0,0,0,0,0,2011
+Christina Perri,A Thousand Years,A Thousand Years,single,2011-10-18,artist,285120,False,1,0.421,0.407,10,-7.445,1,0.0267,0.309,0.000961,0.11,0.161,139.028,3,1,1,0,1,0,0,0,0,0,0,0,2011
+Coldplay,Paradise,Mylo Xyloto,album,2011-10-24,artist,278719,False,3,0.449,0.585,5,-6.761,1,0.0268,0.0509,8.75e-05,0.0833,0.212,139.631,4,1,0,0,0,0,0,0,0,0,0,0,2011
+Kelly Clarkson,Stronger (What Doesn't Kill You),Stronger (Deluxe Version),album,2011-10-24,artist,221946,False,2,0.562,0.939,0,-4.282,1,0.0475,0.046,0.0,0.112,0.684,116.044,4,1,1,0,1,0,0,0,0,0,0,0,2011
+Gym Class Heroes,Ass Back Home (feat. Neon Hitch),The Papercut Chronicles II,album,2011-11-11,artist,222213,True,7,0.716,0.838,10,-4.289,1,0.0513,0.134,0.0,0.148,0.646,130.034,4,1,1,0,0,1,0,0,0,0,0,0,2011
+Gym Class Heroes,Stereo Hearts (feat. Adam Levine),The Papercut Chronicles II,album,2011-11-11,artist,210960,False,4,0.646,0.795,9,-3.293,1,0.0976,0.0319,0.0,0.267,0.796,89.99,4,1,1,0,0,1,0,0,0,0,0,0,2011
+Drake,Take Care,Take Care (Deluxe),album,2011-11-15,artist,277386,True,5,0.629,0.515,0,-10.358,0,0.265,0.0267,1.22e-05,0.0888,0.299,121.845,4,1,0,0,0,1,0,0,0,0,0,0,2011
+Rihanna,You Da One,Talk That Talk,album,2011-11-19,artist,200013,True,1,0.702,0.715,5,-5.377,0,0.0425,0.503,2.44e-05,0.126,0.863,127.05,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Rihanna,Birthday Cake,Talk That Talk,album,2011-11-19,artist,78200,True,6,0.702,0.826,3,-6.498,1,0.0529,0.32,0.000227,0.355,0.329,80.014,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Rihanna,Where Have You Been,Talk That Talk,album,2011-11-19,artist,242680,False,2,0.719,0.847,0,-6.34,0,0.0916,0.00201,0.0204,0.223,0.444,127.963,4,1,1,0,0,0,0,0,0,0,0,0,2011
+Hot Chelle Rae,Honestly,Whatever,album,2011-11-25,artist,201506,False,3,0.641,0.787,0,-4.271,1,0.0375,0.0268,0.0,0.11,0.916,93.01,4,1,1,0,1,0,0,0,0,0,0,0,2011
+Hot Chelle Rae,I Like It Like That (feat. New Boyz),Whatever,album,2011-11-25,artist,188200,False,1,0.742,0.784,1,-5.458,1,0.0552,0.0308,0.0,0.354,0.65,101.002,4,1,1,0,1,0,0,0,0,0,0,0,2011
+Hot Chelle Rae,Tonight Tonight,Whatever,album,2011-11-25,artist,200466,False,2,0.686,0.783,4,-4.977,1,0.119,0.0764,0.0,0.163,0.814,99.978,4,1,1,0,1,0,0,0,0,0,0,0,2011
+Flo Rida,Wild Ones (feat. Sia),Wild Ones (feat. Sia),single,2011-12-19,artist,233688,False,1,0.624,0.889,5,-3.772,0,0.0504,0.101,0.0,0.227,0.45,127.019,4,1,1,0,0,1,0,0,0,0,0,0,2011
+McFly,No Worries,Memory Lane (The Best Of McFly) [Deluxe Edition],compilation,2012-01-01,artist,252230,False,6,0.528,0.873,10,-5.116,1,0.0337,0.0153,0.0,0.114,0.79,80.014,4,1,1,0,0,0,0,0,0,0,0,0,2012
+McFly,You've Got A Friend,Memory Lane (The Best Of McFly) [Deluxe Edition],compilation,2012-01-01,artist,271004,False,5,0.475,0.418,11,-9.922,1,0.0274,0.338,1.26e-05,0.151,0.49,183.86,4,1,1,0,0,0,0,0,0,0,0,0,2012
+McFly,The Guy Who Turned Her Down,Memory Lane (The Best Of McFly) [Deluxe Edition],compilation,2012-01-01,artist,236444,False,3,0.666,0.876,10,-3.823,1,0.0342,0.178,0.0,0.233,0.827,125.038,4,1,1,0,0,0,0,0,0,0,0,0,2012
+McFly,Memory Lane,Memory Lane (The Best Of McFly) [Deluxe Edition],compilation,2012-01-01,artist,277453,False,22,0.361,0.946,8,-3.03,1,0.0461,0.00197,0.0,0.0487,0.502,159.755,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Pitbull,Timber (feat. Ke$ha),Global Warming: Meltdown (Deluxe Version),album,2012-01-01,artist,204160,False,13,0.581,0.963,11,-4.087,1,0.0981,0.0295,0.0,0.139,0.788,129.992,4,1,1,0,0,1,0,0,0,0,1,0,2012
+Zedd,Clarity,Clarity,album,2012-01-01,artist,271426,False,5,0.509,0.781,8,-3.48,1,0.072,0.0398,0.0,0.0749,0.176,128.0,4,1,1,0,0,0,1,0,0,0,0,0,2012
+Secondhand Serenade,Fall for You (Acoustic),A Naked Twist in My Story,album,2012-01-01,artist,176946,False,2,0.433,0.307,0,-8.796,1,0.0327,0.65,0.0,0.0635,0.378,178.114,4,1,0,0,1,0,0,0,0,0,0,0,2012
+Nicki Minaj,Pound The Alarm,Pink Friday ... Roman Reloaded (Deluxe),album,2012-01-01,artist,205640,True,11,0.728,0.858,9,-3.686,1,0.0609,0.0403,4.09e-06,0.0241,0.591,125.055,4,1,1,0,0,1,0,0,0,0,0,0,2012
+Nicki Minaj,Starships,Pink Friday ... Roman Reloaded (Deluxe),album,2012-01-01,artist,210626,True,10,0.747,0.716,11,-2.457,0,0.0751,0.135,0.0,0.251,0.751,125.006,4,1,1,0,0,1,0,0,0,0,0,0,2012
+Maroon 5,Payphone,Overexposed,album,2012-01-01,artist,231386,True,2,0.739,0.756,4,-4.828,1,0.0394,0.0136,0.0,0.37,0.523,110.028,4,1,0,0,1,0,0,0,0,0,0,0,2012
+Carly Rae Jepsen,Call Me Maybe,Kiss (Deluxe),album,2012-01-01,artist,193400,False,3,0.783,0.58,7,-6.548,1,0.0408,0.0114,2.28e-06,0.108,0.66,120.021,4,1,1,0,0,0,1,0,0,0,0,0,2012
+McFly,Silence Is A Scary Sound,Memory Lane (The Best Of McFly) [Deluxe Edition],compilation,2012-01-01,artist,203617,False,7,0.31,0.986,4,-3.731,1,0.0825,0.000321,6.47e-06,0.367,0.39,100.436,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Demi Lovato,Give Your Heart a Break,Give Your Heart A Break,single,2012-01-01,artist,206026,False,1,0.649,0.696,6,-3.213,1,0.0484,0.212,0.0,0.141,0.577,123.019,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Maroon 5,Love Somebody,Overexposed (Deluxe),album,2012-01-01,artist,229826,False,6,0.675,0.79,1,-6.295,1,0.0369,0.129,0.0,0.121,0.423,120.015,4,1,0,0,1,0,0,0,0,0,0,0,2012
+Owl City,Good Time,The Midsummer Station,album,2012-01-01,artist,205933,False,7,0.56,0.872,3,-4.269,1,0.14,0.0239,6.98e-06,0.371,0.682,126.05,4,1,0,0,1,0,0,0,0,0,0,0,2012
+McFly,Don't Stop Me Now,Memory Lane (The Best Of McFly) [Deluxe Edition],compilation,2012-01-01,artist,204000,False,12,0.465,0.843,5,-3.692,1,0.0497,0.0101,0.0,0.376,0.563,156.635,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Of Monsters and Men,Little Talks,My Head Is An Animal,album,2012-01-01,artist,266600,False,6,0.445,0.757,1,-5.177,1,0.0322,0.0206,0.0,0.146,0.421,102.878,4,1,0,0,1,0,0,0,0,0,0,1,2012
+Taylor Swift,Safe & Sound - from The Hunger Games Soundtrack,The Hunger Games: Songs From District 12 And Beyond,compilation,2012-01-01,artist,240066,False,4,0.472,0.3,7,-10.807,1,0.028,0.883,1.04e-05,0.0698,0.289,144.317,4,1,0,0,0,0,0,0,0,0,0,0,2012
+Ne-Yo,Let Me Love You (Until You Learn To Love Yourself),R.E.D. (Deluxe Edition),album,2012-01-01,artist,251626,False,3,0.658,0.677,5,-6.628,1,0.0393,0.248,0.0,0.368,0.248,124.91,4,1,1,0,0,1,0,1,0,0,0,0,2012
+Emeli Sandé,Next To Me,Our Version Of Events,album,2012-01-01,artist,196866,False,11,0.674,0.81,7,-5.117,0,0.0378,0.0923,4.74e-05,0.11,0.391,94.995,4,1,1,0,0,0,0,1,0,0,0,0,2012
+Phillip Phillips,Home,Home,single,2012-01-01,artist,209226,False,1,0.592,0.792,0,-5.884,1,0.0335,0.0215,0.0,0.159,0.293,121.001,4,1,0,0,1,0,0,0,0,0,0,1,2012
+McFly,The Heart Never Lies - Radio Edit,Memory Lane (The Best Of McFly) [Deluxe Edition],compilation,2012-01-01,artist,207253,False,8,0.327,0.799,7,-5.399,1,0.039,0.0687,1.14e-05,0.278,0.446,199.752,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Justin Bieber,Boyfriend,Believe,album,2012-01-01,artist,171333,False,2,0.717,0.55,10,-6.019,0,0.0521,0.0358,0.00196,0.126,0.332,96.976,4,1,0,0,0,0,0,0,0,0,0,0,2012
+Pitbull,Feel This Moment (feat. Christina Aguilera),Global Warming: Meltdown (Deluxe Version),album,2012-01-01,artist,229506,False,3,0.673,0.758,7,-3.632,1,0.158,0.039,0.0,0.341,0.542,135.956,4,1,1,0,0,1,0,0,0,0,1,0,2012
+Maroon 5,Daylight,Overexposed (Deluxe),album,2012-01-01,artist,225400,False,3,0.662,0.67,2,-5.504,1,0.027,0.0022,0.0,0.203,0.352,119.977,4,1,0,0,1,0,0,0,0,0,0,0,2012
+McFly,Love Is Easy,Love Is Easy,single,2012-01-01,artist,221425,False,1,0.685,0.682,9,-6.925,1,0.117,0.0802,0.0,0.449,0.783,152.046,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Swedish House Mafia,Don't You Worry Child,Until Now,album,2012-01-01,artist,403493,False,7,0.632,0.88,2,-4.051,1,0.0463,0.0144,0.0021,0.118,0.338,129.007,4,1,1,0,0,0,1,0,0,0,0,0,2012
+Maroon 5,One More Night,Overexposed (Deluxe),album,2012-01-01,artist,219466,False,1,0.718,0.82,5,-3.453,0,0.0323,0.0444,0.0,0.0846,0.613,92.998,4,1,0,0,1,0,0,0,0,0,0,0,2012
+Jason Mraz,I Won't Give Up,I Won't Give Up,single,2012-01-03,artist,240165,False,1,0.585,0.303,4,-10.058,1,0.0398,0.694,0.0,0.115,0.142,136.703,3,1,0,0,1,0,0,0,0,0,0,0,2012
+Train,Drive By,Drive By,single,2012-01-10,artist,196626,False,1,0.759,0.849,1,-3.198,0,0.0317,0.000983,1.51e-05,0.0864,0.73,122.033,4,1,1,0,1,0,0,0,0,0,0,0,2012
+fun.,Some Nights,Some Nights,album,2012-02-21,artist,277040,True,2,0.672,0.738,0,-7.045,1,0.0506,0.0178,6.75e-05,0.0927,0.392,107.938,4,1,0,0,1,0,0,0,0,0,0,0,2012
+fun.,Carry On,Some Nights,album,2012-02-21,artist,278373,False,4,0.388,0.694,5,-5.769,1,0.0735,0.118,0.000293,0.082,0.365,145.434,5,1,0,0,1,0,0,0,0,0,0,0,2012
+fun.,We Are Young (feat. Janelle Monáe),Some Nights,album,2012-02-21,artist,250626,False,3,0.378,0.638,10,-5.576,1,0.075,0.02,7.66e-05,0.0849,0.735,184.086,4,1,0,0,1,0,0,0,0,0,0,0,2012
+Katy Perry,California Gurls,Katy Perry - Teenage Dream: The Complete Confection,album,2012-03-12,artist,234653,False,3,0.791,0.754,0,-3.729,1,0.0569,0.00446,0.0,0.163,0.425,125.014,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Katy Perry,Wide Awake,Katy Perry - Teenage Dream: The Complete Confection,album,2012-03-12,artist,220946,False,15,0.514,0.683,5,-5.099,1,0.0367,0.0749,2.64e-06,0.392,0.575,159.814,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Katy Perry,The One That Got Away - Acoustic,Katy Perry - Teenage Dream: The Complete Confection,album,2012-03-12,artist,259040,False,13,0.714,0.434,4,-11.542,1,0.0396,0.697,0.0,0.0919,0.352,123.942,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Katy Perry,The One That Got Away,Katy Perry - Teenage Dream: The Complete Confection,album,2012-03-12,artist,227333,False,7,0.687,0.792,1,-4.023,0,0.0353,0.000802,0.0,0.2,0.864,133.962,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Katy Perry,Teenage Dream,Katy Perry - Teenage Dream: The Complete Confection,album,2012-03-12,artist,227760,False,1,0.719,0.804,10,-4.581,1,0.0355,0.0132,3.02e-06,0.139,0.605,119.999,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Katy Perry,Firework,Katy Perry - Teenage Dream: The Complete Confection,album,2012-03-12,artist,227880,False,4,0.638,0.826,8,-4.968,1,0.0479,0.139,0.0,0.0803,0.649,124.072,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Katy Perry,E.T.,Katy Perry - Teenage Dream: The Complete Confection,album,2012-03-12,artist,206373,False,8,0.603,0.872,5,-5.404,0,0.0792,0.0213,0.0,0.366,0.691,150.104,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Katy Perry,Part Of Me,Katy Perry - Teenage Dream: The Complete Confection,album,2012-03-12,artist,216160,False,14,0.678,0.918,5,-4.63,1,0.0355,0.000417,0.0,0.0744,0.769,130.028,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Katy Perry,Last Friday Night (T.G.I.F.),Katy Perry - Teenage Dream: The Complete Confection,album,2012-03-12,artist,230746,False,2,0.649,0.815,3,-3.796,0,0.0415,0.00125,4.31e-05,0.671,0.765,126.03,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Train,50 Ways to Say Goodbye,California 37,album,2012-04-17,artist,247946,False,5,0.591,0.935,6,-2.664,1,0.0478,0.000284,0.000278,0.142,0.736,140.043,4,1,1,0,1,0,0,0,0,0,0,0,2012
+Flo Rida,Whistle,Whistle,single,2012-04-24,artist,225000,False,1,0.754,0.933,0,-5.786,1,0.0448,0.0199,0.0,0.297,0.75,103.992,4,1,1,0,0,1,0,0,0,0,0,0,2012
+B.o.B,So Good,Strange Clouds,album,2012-04-27,artist,213253,False,6,0.66,0.9,7,-5.02,1,0.14,0.0403,0.0,0.219,0.591,85.51,4,1,1,0,0,1,0,0,0,0,0,0,2012
+Karmin,Brokenhearted,Hello,album,2012-05-07,artist,227146,False,2,0.765,0.765,1,-2.732,0,0.0585,0.00765,3.82e-06,0.0527,0.886,120.001,4,1,1,0,0,0,1,0,0,0,0,0,2012
+One Direction,What Makes You Beautiful,Up All Night,album,2012-05-25,artist,198053,False,1,0.729,0.771,4,-2.451,1,0.0725,0.00761,0.0,0.087,0.873,125.011,4,1,0,0,0,0,0,0,0,0,0,0,2012
+Usher,Scream,Looking 4 Myself (Deluxe Version),album,2012-06-08,artist,234693,False,2,0.616,0.862,7,-5.18,0,0.0973,0.00117,0.0,0.179,0.569,127.992,4,1,1,0,0,1,0,1,0,0,0,0,2012
+Justin Bieber,As Long As You Love Me,Believe (Deluxe Edition),album,2012-06-15,artist,229466,False,3,0.571,0.873,0,-3.382,0,0.1,0.0811,0.0,0.361,0.613,139.691,4,1,0,0,0,0,0,0,0,0,0,0,2012
+Justin Bieber,Beauty And A Beat,Believe (Deluxe Edition),album,2012-06-15,artist,227986,False,10,0.602,0.843,0,-4.831,1,0.0593,0.000688,5.27e-05,0.0682,0.526,128.003,4,1,0,0,0,0,0,0,0,0,0,0,2012
+Icona Pop,I Love It (feat. Charli XCX) - Original Version,I Love It,single,2012-06-19,artist,155337,True,1,0.714,0.905,8,-2.663,1,0.0289,0.00855,2.55e-05,0.146,0.838,125.927,4,1,1,0,0,0,1,0,0,0,0,0,2012
+Linkin Park,BURN IT DOWN,LIVING THINGS,album,2012-06-20,artist,230253,False,3,0.585,0.972,9,-4.45,0,0.0534,0.0143,0.0,0.0707,0.585,110.006,4,0,0,1,0,1,0,0,0,0,0,0,2012
+Flo Rida,I Cry,Wild Ones,album,2012-06-22,artist,223800,False,8,0.693,0.822,4,-5.441,0,0.0439,0.00616,1.79e-06,0.315,0.763,126.035,4,1,1,0,0,1,0,0,0,0,0,0,2012
+Passenger,Let Her Go,All the Little Lights,album,2012-06-29,artist,252733,False,2,0.479,0.545,7,-7.346,1,0.0688,0.365,0.0,0.0963,0.244,74.897,4,1,0,0,1,0,0,0,0,0,0,1,2012
+The Neighbourhood,Sweater Weather,I'm Sorry...,single,2012-08-07,artist,240040,False,4,0.695,0.615,7,-5.325,0,0.042,0.15,0.000212,0.0879,0.414,124.015,4,1,0,0,1,0,0,0,0,0,0,0,2012
+Imagine Dragons,It's Time,Night Visions,album,2012-09-04,artist,237986,False,3,0.656,0.884,2,-4.748,1,0.0372,0.0162,0.0,0.145,0.86,105.009,4,1,0,0,1,0,0,0,0,0,0,0,2012
+Alicia Keys,Girl On Fire,Girl On Fire,single,2012-09-04,artist,224920,False,1,0.482,0.706,9,-5.762,1,0.0609,0.135,0.00106,0.105,0.144,92.494,4,1,0,0,0,0,0,1,0,0,0,0,2012
+Imagine Dragons,Radioactive,Night Visions,album,2012-09-04,artist,186813,False,1,0.448,0.784,9,-3.686,1,0.0627,0.106,0.000108,0.668,0.236,136.245,4,1,0,0,1,0,0,0,0,0,0,0,2012
+Imagine Dragons,Demons,Night Visions,album,2012-09-04,artist,175200,False,4,0.505,0.71,3,-3.015,1,0.0321,0.19,0.00025,0.329,0.428,89.938,4,1,0,0,1,0,0,0,0,0,0,0,2012
+The Script,Hall of Fame (feat. will.i.am),#3,album,2012-09-10,artist,202533,False,3,0.421,0.873,10,-4.343,1,0.0564,0.0654,0.0,0.123,0.629,84.786,4,1,1,0,1,0,0,0,0,0,0,0,2012
+P!nk,Just Give Me a Reason (feat. Nate Ruess),The Truth About Love,album,2012-09-14,artist,242733,False,4,0.778,0.547,2,-7.273,1,0.0489,0.346,0.000302,0.132,0.441,95.002,4,1,1,0,0,0,0,0,0,0,0,0,2012
+P!nk,Try,The Truth About Love,album,2012-09-14,artist,247906,False,3,0.673,0.629,2,-7.072,1,0.0299,0.00141,0.0,0.0944,0.551,103.998,4,1,1,0,0,0,0,0,0,0,0,0,2012
+P!nk,Blow Me (One Last Kiss),The Truth About Love,album,2012-09-17,artist,255586,True,2,0.597,0.919,7,-2.954,1,0.044,0.000145,0.0,0.282,0.73,113.987,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Cher Lloyd,Want U Back,Sticks & Stones,album,2012-10-02,artist,214573,False,1,0.694,0.891,9,-2.94,1,0.0949,0.0562,0.0,0.561,0.563,97.939,4,1,1,0,0,0,1,0,0,0,0,0,2012
+Macklemore & Ryan Lewis,White Walls (feat. ScHoolboy Q & Hollis),The Heist,album,2012-10-09,artist,219425,False,9,0.765,0.762,7,-5.878,1,0.158,0.0619,0.0,0.406,0.819,116.473,4,1,0,0,1,1,0,0,0,0,0,0,2012
+Macklemore & Ryan Lewis,Can't Hold Us - feat. Ray Dalton,The Heist,album,2012-10-09,artist,258342,False,2,0.641,0.922,2,-4.457,1,0.0786,0.0291,0.0,0.0862,0.847,146.078,4,1,0,0,1,1,0,0,0,0,0,0,2012
+Calvin Harris,Sweet Nothing (feat. Florence Welch),18 Months,album,2012-10-29,artist,212560,False,10,0.573,0.929,8,-3.942,0,0.109,0.197,0.000112,0.0567,0.582,127.934,4,1,1,0,0,0,1,0,0,0,0,0,2012
+Calvin Harris,Let's Go (feat. Ne-Yo),18 Months,album,2012-10-29,artist,232800,False,13,0.71,0.882,4,-2.932,0,0.0595,0.00777,0.00771,0.294,0.875,128.016,4,1,1,0,0,0,1,0,0,0,0,0,2012
+Calvin Harris,We Found Love (feat. Rihanna),18 Months,album,2012-10-29,artist,215520,False,4,0.738,0.776,1,-4.808,1,0.0392,0.0234,0.0018,0.0775,0.608,127.984,4,1,1,0,0,0,1,0,0,0,0,0,2012
+Calvin Harris,Feel So Close - Radio Edit,18 Months,album,2012-10-29,artist,206413,False,3,0.707,0.924,7,-2.842,1,0.031,0.000972,0.00703,0.204,0.919,127.937,4,1,1,0,0,0,1,0,0,0,0,0,2012
+Calvin Harris,I Need Your Love (feat. Ellie Goulding),18 Months,album,2012-10-29,artist,234506,False,8,0.695,0.869,8,-5.066,1,0.0483,0.41,0.0,0.237,0.58,124.989,4,1,1,0,0,0,1,0,0,0,0,0,2012
+One Direction,They Don't Know About Us,Take Me Home: Yearbook Edition,album,2012-11-09,artist,201693,False,12,0.512,0.754,0,-6.031,1,0.0549,0.135,0.0,0.0881,0.336,147.89,4,1,0,0,0,0,0,0,0,0,0,0,2012
+Kelly Clarkson,Catch My Breath,Greatest Hits - Chapter One,compilation,2012-11-19,artist,250386,False,13,0.692,0.908,9,-5.364,1,0.0677,0.0251,0.0,0.0933,0.513,124.042,4,1,1,0,1,0,0,0,0,0,0,0,2012
+Bruno Mars,When I Was Your Man,Unorthodox Jukebox,album,2012-12-07,artist,213826,False,6,0.612,0.28,0,-8.648,1,0.0434,0.932,0.0,0.088,0.387,72.795,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Bruno Mars,Locked out of Heaven,Unorthodox Jukebox,album,2012-12-07,artist,233478,False,2,0.726,0.698,5,-4.165,1,0.0431,0.049,0.0,0.309,0.867,143.994,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Bruno Mars,Treasure,Unorthodox Jukebox,album,2012-12-07,artist,178560,True,4,0.874,0.692,5,-5.28,0,0.0431,0.0412,7.24e-05,0.324,0.937,116.017,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Rihanna,Stay,Unapologetic (Deluxe),album,2012-12-11,artist,240706,False,9,0.621,0.31,9,-10.164,0,0.0283,0.945,6.12e-05,0.117,0.125,111.893,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Rihanna,Pour It Up,Unapologetic (Deluxe),album,2012-12-11,artist,161200,True,4,0.785,0.478,2,-8.735,1,0.0419,0.0254,0.0,0.0901,0.39,134.002,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Rihanna,Diamonds,Unapologetic (Deluxe),album,2012-12-11,artist,225146,False,2,0.564,0.71,11,-4.92,0,0.0461,0.00125,0.0,0.109,0.393,91.972,4,1,1,0,0,0,0,0,0,0,0,0,2012
+Ariana Grande,Almost Is Never Enough,Yours Truly,album,2013-01-01,artist,327773,False,10,0.324,0.327,2,-7.494,1,0.0409,0.825,0.0,0.101,0.334,81.328,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Ariana Grande,Right There,Yours Truly,album,2013-01-01,artist,247080,False,3,0.621,0.834,7,-3.166,1,0.105,0.127,0.0,0.0854,0.561,156.099,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Drake,"Hold On, We're Going Home",Nothing Was The Same (Deluxe),album,2013-01-01,artist,227880,False,8,0.776,0.413,6,-7.438,0,0.0952,0.00415,2.68e-05,0.0724,0.287,100.003,4,1,0,0,0,1,0,0,0,0,0,0,2013
+Ellie Goulding,Lights - Single Version,Halcyon Days,album,2013-01-01,artist,210633,False,13,0.68,0.799,8,-5.805,0,0.0347,0.0323,0.0459,0.123,0.744,120.031,4,1,1,0,0,0,1,0,0,0,0,0,2013
+Ariana Grande,Baby I,Yours Truly,album,2013-01-01,artist,197600,False,2,0.724,0.796,1,-3.686,1,0.0328,0.0152,0.0,0.354,0.542,101.975,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Ariana Grande,Honeymoon Avenue,Yours Truly,album,2013-01-01,artist,339733,False,1,0.692,0.608,8,-5.233,0,0.041,0.218,0.0,0.348,0.448,125.005,4,1,1,0,0,0,0,0,0,0,0,0,2013
+will.i.am,Scream & Shout,#willpower,album,2013-01-01,artist,283400,True,4,0.772,0.685,5,-6.849,1,0.0696,0.019,8.96e-05,0.131,0.501,130.033,4,1,1,0,0,1,0,0,0,0,0,0,2013
+Anna Kendrick,Cups (Pitch Perfect’s “When I’m Gone”) - Pop Version,Cups (Pitch Perfect’s “When I’m Gone”),single,2013-01-01,artist,126880,False,1,0.887,0.441,0,-8.98,1,0.114,0.0514,0.00667,0.0338,0.715,129.908,4,0,0,0,0,0,0,0,0,0,0,0,2013
+Ariana Grande,The Way,Yours Truly,album,2013-01-01,artist,227026,False,8,0.645,0.878,5,-3.208,0,0.113,0.294,0.0,0.076,0.862,82.324,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Lady Gaga,Applause,ARTPOP,album,2013-01-01,artist,212333,False,15,0.669,0.78,7,-4.287,0,0.053,0.0265,1.63e-06,0.143,0.738,139.945,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Jonas Brothers,First Time,First Time,single,2013-01-01,artist,228453,False,1,0.62,0.661,11,-5.441,1,0.0334,0.000804,0.00715,0.111,0.262,126.255,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fall Out Boy,My Songs Know What You Did In The Dark (Light Em Up),Save Rock And Roll,album,2013-01-01,artist,186826,False,2,0.558,0.924,9,-4.341,0,0.064,0.0271,3.32e-06,0.537,0.567,151.99,4,1,0,0,1,0,0,0,0,1,0,0,2013
+Katy Perry,Unconditionally,PRISM (Deluxe),album,2013-01-01,artist,228878,False,5,0.555,0.729,7,-4.813,1,0.0387,0.00357,0.0,0.209,0.369,129.003,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Katy Perry,Roar,Roar,single,2013-01-01,artist,222666,False,1,0.547,0.785,7,-4.331,0,0.0418,0.00801,1.34e-05,0.5,0.444,179.803,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Jonas Brothers,Pom Poms,Pom Poms,single,2013-01-01,artist,198053,False,1,0.67,0.976,1,-2.222,0,0.0928,0.066,1.82e-06,0.297,0.9,147.994,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Katy Perry,This Is How We Do,PRISM (Deluxe),album,2013-01-01,artist,204285,False,7,0.686,0.633,9,-6.073,0,0.0483,0.0231,0.0,0.0831,0.8,96.027,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Tim McGraw,Highway Don't Care,Two Lanes Of Freedom,album,2013-01-01,artist,276880,False,11,0.47,0.79,2,-5.352,1,0.039,0.0216,0.0,0.0863,0.495,158.061,4,0,0,0,0,0,0,0,1,0,0,0,2013
+Hot Chelle Rae,Hung Up,Hung Up,single,2013-01-01,artist,193733,False,1,0.668,0.875,4,-3.963,1,0.0447,0.0428,0.0,0.379,0.934,92.992,4,1,1,0,1,0,0,0,0,0,0,0,2013
+Demi Lovato,Heart Attack,Heart Attack,single,2013-01-01,artist,211533,False,1,0.506,0.765,8,-4.772,1,0.0877,0.0806,0.0,0.275,0.551,173.945,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Mariah Carey,#Beautiful,#Beautiful,single,2013-01-01,artist,202640,False,1,0.669,0.731,4,-7.347,1,0.0385,0.467,2.28e-05,0.174,0.481,107.015,4,1,1,0,0,0,0,1,0,0,0,0,2013
+Ellie Goulding,Burn,Halcyon Days,album,2013-01-01,artist,231211,False,14,0.559,0.777,1,-5.031,1,0.0432,0.31,0.0,0.105,0.329,87.016,4,1,1,0,0,0,1,0,0,0,0,0,2013
+Robin Thicke,Blurred Lines,Blurred Lines (Deluxe),album,2013-01-01,artist,263826,False,1,0.853,0.599,7,-4.756,1,0.0411,0.00334,7.93e-06,0.0759,0.843,119.993,4,1,1,0,0,0,0,1,0,0,0,0,2013
+Idina Menzel,"Let It Go - From ""Frozen""/Soundtrack Version",Frozen (Original Motion Picture Soundtrack / Deluxe Edition),album,2013-01-01,artist,223840,False,5,0.543,0.485,8,-6.85,1,0.0305,0.558,0.0,0.12,0.371,136.961,4,0,0,0,0,0,0,0,0,0,0,0,2013
+Phillip Phillips,"Gone, Gone, Gone",The World From The Side Of The Moon (Deluxe),album,2013-01-01,artist,209693,False,3,0.664,0.642,6,-5.961,1,0.038,0.129,0.0,0.114,0.501,118.002,4,1,0,0,1,0,0,0,0,0,0,1,2013
+Demi Lovato,Heart Attack,Demi,album,2013-01-01,artist,210840,False,1,0.504,0.785,8,-4.802,1,0.104,0.0738,0.0,0.239,0.502,173.968,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Selena Gomez,Come & Get It,Come & Get It,single,2013-01-01,artist,231733,False,1,0.548,0.788,7,-4.115,0,0.0495,0.00905,0.000167,0.0966,0.576,80.047,4,1,1,0,0,0,0,0,0,0,0,0,2013
+will.i.am,#thatPOWER,#thatPOWER,single,2013-01-01,artist,280040,False,1,0.789,0.604,6,-6.093,0,0.0583,0.00104,4.51e-05,0.0712,0.398,127.999,4,1,1,0,0,1,0,0,0,0,0,0,2013
+Disclosure,Latch,Settle,album,2013-01-01,artist,255631,False,3,0.503,0.727,1,-5.456,1,0.167,0.0159,9.45e-05,0.0895,0.521,121.985,4,1,1,0,0,0,1,0,0,0,0,0,2013
+Bastille,Pompeii,Bad Blood,album,2013-01-01,artist,214147,False,1,0.679,0.715,9,-6.383,1,0.0407,0.0755,0.0,0.271,0.571,127.435,4,1,0,0,1,0,1,0,0,0,0,0,2013
+Lana Del Rey,Summertime Sadness (Lana Del Rey Vs. Cedric Gervais) - Cedric Gervais Remix,Summertime Sadness [Lana Del Rey vs. Cedric Gervais] (Cedric Gervais Remix),single,2013-02-01,artist,214912,False,1,0.572,0.81,1,-5.791,0,0.0558,0.0157,6.53e-06,0.13,0.11,126.052,4,1,0,0,0,0,0,0,0,0,0,0,2013
+Paramore,Still into You,Paramore,album,2013-04-05,artist,216013,False,9,0.602,0.923,5,-3.763,1,0.044,0.0098,0.0,0.0561,0.765,136.01,4,1,0,0,1,0,0,0,0,1,0,0,2013
+Paramore,Ain't It Fun,Paramore,album,2013-04-05,artist,296520,False,6,0.61,0.893,9,-3.681,1,0.0921,0.154,4.41e-05,0.021,0.673,104.031,4,1,0,0,1,0,0,0,0,1,0,0,2013
+Daft Punk,Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit,Get Lucky (feat. Pharrell Williams & Nile Rodgers) [Radio Edit],single,2013-04-19,artist,248413,False,1,0.794,0.811,6,-8.966,0,0.038,0.0426,1.07e-06,0.101,0.862,116.047,4,0,0,0,0,0,1,0,0,0,0,0,2013
+Kodaline,All I Want,In A Perfect World (Expanded Edition),album,2013-06-17,artist,305746,False,2,0.188,0.411,0,-9.733,1,0.0484,0.174,0.153,0.0843,0.159,187.376,3,1,0,0,1,0,0,0,0,0,0,0,2013
+Pharrell Williams,Happy,Despicable Me 2 (Original Motion Picture Soundtrack),compilation,2013-06-18,artist,233305,False,4,0.652,0.757,1,-6.819,1,0.153,0.286,0.0,0.0886,0.962,159.911,4,1,0,0,0,1,0,0,0,0,0,0,2013
+Sara Bareilles,Brave,The Blessed Unrest,album,2013-07-16,artist,220573,False,1,0.551,0.836,10,-3.838,0,0.0524,0.00502,2.1e-05,0.0425,0.758,185.063,4,1,0,0,1,0,0,0,0,0,0,0,2013
+Fifth Harmony,Miss Movin' On,Miss Movin' On,single,2013-07-16,artist,193733,False,1,0.466,0.842,6,-2.937,1,0.0513,0.0332,9.12e-06,0.349,0.418,75.0,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Emblem3,Chloe (You're the One I Want),Nothing To Lose (Deluxe Version),album,2013-07-26,artist,222986,False,4,0.71,0.925,0,-3.329,1,0.0359,0.039,0.0,0.127,0.93,118.024,4,1,0,0,0,0,0,0,0,0,0,0,2013
+John Legend,All of Me,Love In The Future (Expanded Edition),album,2013-08-30,artist,269560,False,6,0.422,0.264,8,-7.064,1,0.0322,0.922,0.0,0.132,0.331,119.93,4,1,0,0,0,0,0,1,0,0,0,0,2013
+Jason Derulo,The Other Side,Talk Dirty,album,2013-09-10,artist,226986,False,8,0.561,0.836,9,-3.939,1,0.1,0.0525,0.0,0.136,0.517,127.923,4,1,1,0,0,1,0,0,0,0,0,0,2013
+Avicii,Wake Me Up,True,album,2013-09-13,artist,247426,False,1,0.532,0.783,2,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,4,1,1,0,0,0,1,0,0,0,0,0,2013
+Avicii,Hey Brother,True,album,2013-09-13,artist,255093,False,3,0.545,0.78,7,-4.867,0,0.0436,0.0309,4.64e-05,0.0828,0.458,125.014,4,1,1,0,0,0,1,0,0,0,0,0,2013
+Lorde,Team,Pure Heroine,album,2013-09-27,artist,193058,False,6,0.69,0.578,6,-7.436,1,0.0929,0.167,0.0,0.305,0.416,99.961,4,1,1,0,0,0,1,0,0,0,0,0,2013
+Lorde,Royals,Pure Heroine,album,2013-09-27,artist,190185,False,3,0.674,0.428,7,-9.504,1,0.122,0.121,0.0,0.132,0.337,84.878,4,1,1,0,0,0,1,0,0,0,0,0,2013
+Miley Cyrus,Wrecking Ball,Bangerz (Deluxe Version),album,2013-10-04,artist,221360,False,6,0.53,0.422,5,-6.262,1,0.0342,0.407,0.0,0.107,0.349,119.964,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Miley Cyrus,We Can't Stop,Bangerz (Deluxe Version),album,2013-10-04,artist,231240,False,2,0.613,0.622,1,-5.794,0,0.0334,0.00882,0.0,0.37,0.484,80.003,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Miley Cyrus,Adore You,Bangerz (Deluxe Version),album,2013-10-04,artist,278746,False,1,0.583,0.655,0,-5.407,1,0.0315,0.111,3.57e-06,0.113,0.201,119.759,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Echosmith,Cool Kids,Talking Dreams (Deluxe Edition),album,2013-10-04,artist,237626,False,3,0.719,0.671,8,-6.279,1,0.0336,0.0372,8.21e-06,0.12,0.786,130.027,4,1,1,0,1,0,0,0,0,0,0,0,2013
+Katy Perry,Roar,PRISM (Deluxe),album,2013-10-18,artist,223546,False,1,0.554,0.772,7,-4.821,0,0.0418,0.00487,6.6e-06,0.354,0.455,179.984,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Katy Perry,Dark Horse,PRISM (Deluxe),album,2013-10-18,artist,215672,False,6,0.645,0.585,6,-6.122,1,0.0513,0.00314,0.0,0.165,0.353,131.931,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Who Are You,Better Together,single,2013-10-18,artist,236613,False,4,0.63,0.295,8,-7.26,1,0.029,0.886,0.0,0.131,0.297,123.152,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Better Together,Better Together,single,2013-10-18,artist,194093,False,3,0.605,0.747,10,-3.904,1,0.214,0.0496,0.0,0.104,0.492,179.999,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Miss Movin' On,Better Together,single,2013-10-18,artist,194253,False,2,0.464,0.845,6,-2.927,1,0.0508,0.0297,6.4e-06,0.302,0.437,75.029,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Don't Wanna Dance Alone,Better Together,single,2013-10-18,artist,230173,False,1,0.777,0.789,1,-3.574,0,0.0563,0.0367,2.46e-05,0.0599,0.854,119.017,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Leave My Heart Out Of This,Better Together,single,2013-10-18,artist,230826,False,5,0.601,0.824,11,-4.889,1,0.0986,0.0936,0.0,0.0889,0.559,154.1,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Katy Perry,Birthday,PRISM (Deluxe),album,2013-10-18,artist,215042,False,3,0.719,0.674,11,-5.122,1,0.0681,0.0879,3.75e-06,0.112,0.843,125.98,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Eminem,The Monster,The Marshall Mathers LP2,album,2013-11-05,artist,250188,True,12,0.781,0.853,1,-3.68,0,0.0715,0.0525,0.0,0.12,0.624,110.049,4,0,0,0,0,1,0,0,0,0,0,0,2013
+Little Mix,Move,Salute (The Deluxe Edition),album,2013-11-11,artist,224333,False,2,0.85,0.741,6,-4.57,0,0.0918,0.00436,3.33e-06,0.549,0.765,121.17,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Little Mix,Salute,Salute (The Deluxe Edition),album,2013-11-11,artist,236013,False,1,0.641,0.732,2,-5.324,1,0.051,0.0992,0.0,0.285,0.352,82.027,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Who Are You - Acoustic,Better Together - Acoustic,single,2013-11-15,artist,233240,False,4,0.63,0.292,8,-6.974,1,0.0305,0.78,0.0,0.165,0.389,122.962,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Better Together - Acoustic,Better Together - Acoustic,single,2013-11-15,artist,196373,False,3,0.735,0.618,10,-2.603,1,0.0334,0.086,0.0,0.279,0.935,90.011,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Miss Movin' On - Acoustic,Better Together - Acoustic,single,2013-11-15,artist,194506,False,2,0.603,0.453,6,-5.669,1,0.0299,0.211,0.0,0.235,0.487,75.025,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Don't Wanna Dance Alone - Acoustic,Better Together - Acoustic,single,2013-11-15,artist,217680,False,1,0.634,0.346,1,-5.851,0,0.0408,0.67,0.0,0.108,0.374,59.407,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Fifth Harmony,Leave My Heart Out Of This - Acoustic,Better Together - Acoustic,single,2013-11-15,artist,234733,False,5,0.608,0.487,11,-7.267,1,0.0287,0.00857,0.0,0.112,0.412,77.019,4,1,1,0,0,0,0,0,0,0,0,0,2013
+Mr. Probz,Waves,Waves,single,2013-11-22,artist,174266,False,1,0.364,0.278,5,-12.262,0,0.0355,0.542,2.79e-05,0.38,0.2,173.652,4,0,0,0,0,1,1,0,0,0,0,0,2013
+McFly,Love Is On The Radio,Love Is On The Radio,single,2013-11-24,artist,245092,False,1,0.508,0.673,7,-4.581,1,0.0335,0.103,0.0,0.097,0.633,80.959,4,1,1,0,0,0,0,0,0,0,0,0,2013
+One Direction,Best Song Ever,Midnight Memories (Deluxe),album,2013-11-25,artist,200106,False,1,0.652,0.877,1,-2.986,1,0.0465,0.0227,0.0,0.0789,0.486,118.491,4,1,0,0,0,0,0,0,0,0,0,0,2013
+One Direction,Story of My Life,Midnight Memories (Deluxe),album,2013-11-25,artist,245493,False,2,0.6,0.663,3,-5.802,1,0.0477,0.225,0.0,0.119,0.286,121.07,4,1,0,0,0,0,0,0,0,0,0,0,2013
+DJ Snake,Turn Down for What,Turn Down for What,single,2013-12-18,artist,213733,False,1,0.818,0.799,1,-4.1,0,0.156,0.00107,0.128,0.057,0.0815,100.014,4,1,1,0,0,1,1,0,0,0,0,0,2013
+OneRepublic,Counting Stars,Native,album,2014-01-01,artist,257839,False,1,0.664,0.705,1,-4.972,0,0.0382,0.0654,0.0,0.115,0.477,122.017,4,1,1,0,1,0,0,0,0,0,0,0,2014
+Enrique Iglesias,Bailando - Spanish Version,SEX AND LOVE (Deluxe),album,2014-01-01,artist,243413,False,3,0.723,0.777,7,-3.503,1,0.108,0.0426,3.68e-06,0.0451,0.961,91.017,4,1,1,0,0,0,0,0,0,0,1,0,2014
+OneRepublic,Love Runs Out,Native,album,2014-01-01,artist,224226,False,2,0.719,0.935,7,-3.752,1,0.0589,0.167,0.0,0.0973,0.738,120.022,4,1,1,0,1,0,0,0,0,0,0,0,2014
+Naughty Boy,La La La,Hotel Cabana (Deluxe Version),album,2014-01-01,artist,222200,False,8,0.772,0.65,6,-5.202,0,0.0306,0.107,1.13e-06,0.0905,0.262,125.082,4,0,0,0,0,0,0,1,0,0,0,0,2014
+Zedd,Stay The Night - Featuring Hayley Williams Of Paramore,Clarity (Deluxe),album,2014-01-01,artist,217346,False,11,0.596,0.738,8,-3.109,1,0.0411,0.109,0.0,0.0947,0.461,127.961,4,1,1,0,0,0,1,0,0,0,0,0,2014
+Iggy Azalea,Black Widow,The New Classic,album,2014-01-01,artist,209423,True,10,0.743,0.72,11,-3.753,1,0.124,0.192,0.000386,0.109,0.519,163.99,4,1,1,0,0,1,0,0,0,0,0,0,2014
+MKTO,Classic,MKTO,album,2014-01-01,artist,175426,False,2,0.72,0.791,1,-4.689,1,0.124,0.0384,0.0,0.157,0.756,102.071,4,1,1,0,1,1,0,0,0,0,0,0,2014
+Sam Smith,Stay With Me,In The Lonely Hour,album,2014-01-01,artist,172723,False,3,0.479,0.419,0,-6.517,1,0.0389,0.568,0.000217,0.11,0.186,85.014,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Sam Smith,I'm Not The Only One,In The Lonely Hour,album,2014-01-01,artist,239316,False,5,0.453,0.496,5,-5.785,1,0.0453,0.554,2.65e-05,0.0772,0.501,80.994,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Demi Lovato,Really Don't Care,Really Don't Care Remixes,single,2014-01-01,artist,200520,False,1,0.703,0.719,7,-3.591,1,0.0829,0.105,0.0,0.137,0.835,121.001,4,1,1,0,0,0,0,0,0,0,0,0,2014
+The Vamps,Can We Dance,Meet The Vamps,album,2014-01-01,artist,192710,False,4,0.64,0.82,1,-4.729,0,0.0464,0.00312,0.0,0.189,0.583,130.108,4,1,1,0,0,0,0,0,0,0,0,0,2014
+The Vamps,Somebody To You,Meet The Vamps,album,2014-01-01,artist,185097,False,3,0.526,0.818,3,-5.952,1,0.0358,0.0587,0.0,0.333,0.896,171.96,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Sam Smith,Lay Me Down,In The Lonely Hour,album,2014-01-01,artist,253208,False,10,0.426,0.329,4,-9.296,1,0.0474,0.753,2.23e-05,0.11,0.177,121.351,4,1,1,0,0,0,0,0,0,0,0,0,2014
+The Vamps,Oh Cecilia (Breaking My Heart),Meet The Vamps,album,2014-01-01,artist,196684,False,7,0.746,0.844,11,-5.506,1,0.0339,0.0315,0.0,0.318,0.662,100.027,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Iggy Azalea,Fancy,The New Classic (Deluxe Version),album,2014-01-01,artist,199938,True,5,0.912,0.716,10,-4.141,0,0.0697,0.0904,0.0,0.0491,0.377,94.981,4,1,1,0,0,1,0,0,0,0,0,0,2014
+Natalie La Rose,Somebody,Somebody,single,2014-01-06,artist,189906,False,1,0.83,0.52,0,-8.714,1,0.0376,0.000792,1.25e-05,0.0656,0.735,104.99,4,0,0,0,0,0,0,0,0,0,0,0,2014
+Clean Bandit,Rather Be (feat. Jess Glynne),Rather Be (feat. Jess Glynne),single,2014-01-17,artist,227833,False,1,0.799,0.586,11,-6.735,1,0.0377,0.162,2.03e-06,0.193,0.549,120.97,4,1,1,0,0,0,1,0,0,0,0,0,2014
+A Great Big World,Say Something,Is There Anybody Out There?,album,2014-01-20,artist,229400,False,13,0.407,0.147,2,-8.822,1,0.0355,0.857,2.89e-06,0.0913,0.0765,141.284,3,1,0,0,1,0,0,0,0,0,0,0,2014
+Nico & Vinz,Am I Wrong,Am I Wrong,single,2014-01-21,artist,247520,False,1,0.725,0.68,8,-5.465,1,0.0306,0.162,2.13e-06,0.158,0.76,119.939,4,1,1,0,0,1,0,0,0,0,0,0,2014
+KONGOS,Come with Me Now,Lunatic,album,2014-01-27,artist,211960,False,2,0.654,0.726,10,-3.803,0,0.0401,0.0311,6.35e-05,0.0618,0.728,103.987,4,1,0,0,1,0,0,0,0,0,0,0,2014
+Justin Timberlake,Not a Bad Thing,Not a Bad Thing,single,2014-02-24,artist,266294,False,1,0.594,0.729,2,-5.774,1,0.0626,0.271,0.0,0.383,0.459,86.032,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Pitbull,Wild Wild Love (feat. G.R.L.),Wild Wild Love (feat. G.R.L.),single,2014-02-25,artist,202197,False,1,0.645,0.732,2,-5.874,1,0.0482,0.0136,0.0,0.513,0.336,120.06,4,1,1,0,0,1,0,0,0,0,1,0,2014
+Shakira,Can't Remember to Forget You (feat. Rihanna),Shakira. (Expanded Edition),album,2014-03-14,artist,206866,False,2,0.694,0.81,11,-3.556,0,0.0661,0.122,0.0,0.141,0.824,137.968,4,1,1,0,0,0,0,0,0,0,1,0,2014
+Becky G,Shower,Shower,single,2014-04-23,artist,206166,False,1,0.699,0.529,2,-7.548,1,0.0487,0.0317,3.59e-05,0.285,0.121,119.987,4,1,1,0,0,1,0,0,0,0,1,0,2014
+Coldplay,A Sky Full of Stars,Ghost Stories,album,2014-05-19,artist,267866,False,8,0.545,0.675,6,-6.474,1,0.0279,0.00617,0.00197,0.209,0.162,124.97,4,1,0,0,0,0,0,0,0,0,0,0,2014
+Ella Henderson,Ghost,Ghost,single,2014-06-08,artist,216106,False,1,0.682,0.836,9,-3.777,1,0.0424,0.0464,3.13e-06,0.0797,0.486,104.984,4,1,1,0,0,0,1,0,0,0,0,0,2014
+Charli XCX,Boom Clap,Boom Clap,single,2014-06-16,artist,169866,False,1,0.659,0.911,4,-2.28,1,0.0786,0.154,0.000304,0.191,0.576,91.999,4,1,1,0,0,0,1,0,0,0,0,0,2014
+Beyoncé,Pretty Hurts,Pretty Hurts,single,2014-06-17,artist,256666,False,1,0.524,0.62,11,-6.743,1,0.0509,0.00255,0.000172,0.336,0.182,129.863,4,1,1,0,0,0,0,1,0,0,0,0,2014
+Ed Sheeran,Don't,x (Deluxe Edition),album,2014-06-21,artist,219840,False,4,0.806,0.608,1,-7.008,1,0.0659,0.0113,0.0,0.635,0.849,95.049,4,1,0,0,0,0,0,0,0,0,0,0,2014
+Ed Sheeran,Photograph,x (Deluxe Edition),album,2014-06-21,artist,258986,False,6,0.614,0.379,4,-10.48,1,0.0476,0.607,0.000464,0.0986,0.201,107.989,4,1,0,0,0,0,0,0,0,0,0,0,2014
+Ed Sheeran,Sing,x (Deluxe Edition),album,2014-06-21,artist,235382,False,3,0.818,0.67,8,-4.451,0,0.0472,0.304,1.22e-06,0.0601,0.939,119.988,4,1,0,0,0,0,0,0,0,0,0,0,2014
+Ed Sheeran,Thinking out Loud,x (Deluxe Edition),album,2014-06-21,artist,281560,False,11,0.781,0.445,2,-6.061,1,0.0295,0.474,0.0,0.184,0.591,78.998,4,1,0,0,0,0,0,0,0,0,0,0,2014
+MAGIC!,Rude,Don't Kill the Magic,album,2014-06-25,artist,224840,False,1,0.773,0.758,1,-4.993,1,0.0381,0.0422,0.0,0.305,0.925,144.033,4,0,0,0,0,0,0,0,0,0,0,0,2014
+5 Seconds of Summer,She Looks So Perfect,5 Seconds Of Summer,album,2014-06-27,artist,202496,False,1,0.494,0.951,9,-4.237,1,0.132,0.000569,0.0,0.327,0.441,160.025,4,1,1,0,0,0,1,0,0,0,0,0,2014
+5 Seconds of Summer,Amnesia,5 Seconds Of Summer,album,2014-06-27,artist,237247,False,12,0.572,0.499,2,-5.237,1,0.0311,0.0283,0.0,0.213,0.108,101.593,4,1,1,0,0,0,1,0,0,0,0,0,2014
+Meghan Trainor,All About That Bass,All About That Bass,single,2014-06-30,artist,188754,True,1,0.811,0.879,9,-3.724,1,0.0514,0.0476,1.91e-06,0.109,0.962,134.064,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Sia,Chandelier,1000 Forms Of Fear,album,2014-07-04,artist,216120,False,1,0.399,0.787,1,-2.88,1,0.0499,0.0197,6.07e-05,0.0685,0.572,117.089,5,1,1,0,0,0,0,0,0,0,0,0,2014
+Sia,Elastic Heart,1000 Forms Of Fear,album,2014-07-04,artist,257200,False,8,0.421,0.791,9,-4.998,1,0.0496,0.0117,1.48e-05,0.146,0.499,130.075,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Britney Spears,3,The Essential Britney Spears,compilation,2014-07-29,artist,205533,False,12,0.701,0.72,5,-1.948,0,0.0475,0.0518,0.0,0.199,0.761,134.962,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Andy Grammer,"Honey, I'm Good.",Magazines Or Novels,album,2014-08-05,artist,199263,False,1,0.752,0.775,9,-7.289,1,0.0546,0.0324,0.0,0.351,0.595,122.014,4,1,1,0,1,0,0,0,0,0,0,0,2014
+Ariana Grande,My Everything,My Everything (Deluxe),album,2014-08-22,artist,168520,False,12,0.54,0.265,11,-5.307,1,0.0297,0.88,0.0,0.131,0.423,61.975,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Jessie J,Bang Bang,My Everything (Deluxe),album,2014-08-22,artist,199320,False,13,0.703,0.747,0,-4.446,0,0.0895,0.283,0.0,0.396,0.7,149.974,4,1,1,0,0,1,1,0,0,0,0,0,2014
+Ariana Grande,One Last Time,My Everything (Deluxe),album,2014-08-22,artist,197266,False,3,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Ariana Grande,Why Try,My Everything (Deluxe),album,2014-08-22,artist,211880,False,4,0.443,0.663,8,-5.946,0,0.0432,0.0494,0.0,0.153,0.331,159.856,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Ariana Grande,Best Mistake,My Everything (Deluxe),album,2014-08-22,artist,233733,False,6,0.654,0.578,6,-6.897,1,0.449,0.546,0.0,0.112,0.233,143.867,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Ariana Grande,Love Me Harder,My Everything (Deluxe),album,2014-08-22,artist,236133,False,9,0.472,0.714,1,-4.389,0,0.0334,0.00937,0.0,0.0764,0.24,98.992,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Ariana Grande,Intro,My Everything (Deluxe),album,2014-08-22,artist,79840,False,1,0.447,0.182,6,-12.439,1,0.0324,0.969,3.83e-05,0.327,0.096,89.814,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Ariana Grande,Problem,My Everything (Deluxe),album,2014-08-25,artist,193920,False,2,0.66,0.805,1,-5.352,0,0.153,0.0192,8.83e-06,0.159,0.625,103.008,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Ariana Grande,One Last Time,My Everything (Deluxe),album,2014-08-25,artist,197266,False,3,0.628,0.593,8,-5.036,1,0.0323,0.093,1.65e-06,0.096,0.104,125.026,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Ariana Grande,Break Free,My Everything (Deluxe),album,2014-08-25,artist,214840,False,5,0.687,0.702,7,-5.324,0,0.0455,0.0064,4.35e-05,0.204,0.284,129.956,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Adele,Rolling In The Deep,Pay Close Attention : XL Recordings,compilation,2014-08-25,artist,228141,True,18,0.727,0.76,8,-5.114,1,0.0297,0.13,0.0,0.0584,0.54,104.941,4,1,0,0,0,0,0,1,0,0,0,0,2014
+Maroon 5,Maps,V,album,2014-09-02,artist,189960,False,1,0.742,0.713,1,-5.522,0,0.0303,0.0205,0.0,0.059,0.879,120.032,4,1,0,0,1,0,0,0,0,0,0,0,2014
+Nick Jonas,Jealous,Jealous,single,2014-09-08,artist,222226,False,1,0.699,0.708,11,-3.835,0,0.108,0.00906,0.0,0.487,0.366,93.023,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Vance Joy,Riptide,Dream Your Life Away (Special Edition),album,2014-09-09,artist,204280,False,4,0.484,0.731,1,-6.694,1,0.0379,0.431,0.0,0.151,0.51,101.654,4,1,0,0,1,0,0,0,0,0,0,1,2014
+Tove Lo,Habits (Stay High),Queen Of The Clouds,album,2014-09-24,artist,209160,False,13,0.733,0.65,5,-3.539,1,0.0315,0.0703,6.59e-05,0.0829,0.348,110.003,4,1,1,0,0,1,1,0,0,0,0,0,2014
+Flo Rida,GDFR (feat. Sage the Gemini & Lookas),GDFR (feat. Sage The Gemini & Lookas),single,2014-09-29,artist,190185,False,1,0.657,0.827,5,-4.036,1,0.0734,0.000704,0.00534,0.065,0.69,145.889,4,1,1,0,0,1,0,0,0,0,0,0,2014
+Alex & Sierra,Little Do You Know,It's About Us,album,2014-10-06,artist,185200,False,7,0.5,0.292,0,-8.554,1,0.0323,0.746,0.0,0.188,0.37,145.879,4,1,0,0,0,0,0,0,0,0,0,0,2014
+Hozier,Take Me to Church,Hozier,album,2014-10-07,artist,241693,False,1,0.575,0.664,4,-5.303,0,0.0481,0.637,0.0,0.116,0.437,129.07,4,1,0,0,1,0,0,0,0,0,0,0,2014
+Calvin Harris,Summer,Motion,album,2014-10-31,artist,222533,False,8,0.596,0.856,4,-3.556,0,0.0346,0.0211,0.0178,0.141,0.743,127.949,4,1,1,0,0,0,1,0,0,0,0,0,2014
+One Direction,Night Changes,FOUR (Deluxe),album,2014-11-17,artist,226600,False,7,0.672,0.52,8,-7.747,1,0.0353,0.859,0.0,0.115,0.37,120.001,4,1,0,0,0,0,0,0,0,0,0,0,2014
+Pitbull,Time of Our Lives,Globalization,album,2014-11-21,artist,229360,True,4,0.721,0.802,1,-5.797,1,0.0583,0.0921,0.0,0.694,0.724,124.022,4,1,1,0,0,1,0,0,0,0,1,0,2014
+Usher,I Don't Mind (feat. Juicy J),I Don't Mind (feat. Juicy J),single,2014-11-21,artist,251989,True,1,0.87,0.464,4,-8.337,1,0.178,0.205,0.0,0.0902,0.457,112.974,4,1,1,0,0,1,0,1,0,0,0,0,2014
+David Guetta,"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",Listen (Deluxe),album,2014-11-24,artist,192560,False,10,0.596,0.73,9,-4.091,1,0.151,0.24,0.0,0.325,0.525,85.979,4,1,1,0,0,0,1,0,0,0,0,0,2014
+Selena Gomez,The Heart Wants What It Wants,For You,compilation,2014-11-24,artist,227360,False,1,0.616,0.789,7,-4.874,0,0.0377,0.053,0.0,0.142,0.621,83.066,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Selena Gomez & The Scene,Who Says,For You,compilation,2014-11-24,artist,195266,False,5,0.676,0.923,4,-2.849,1,0.0508,0.0562,0.0,0.147,0.725,101.025,4,1,1,0,0,1,1,0,0,0,0,0,2014
+Demi Lovato,Heart Attack,Demi (Deluxe),album,2014-11-28,artist,210840,False,1,0.498,0.792,8,-4.723,1,0.104,0.0897,0.0,0.238,0.498,173.917,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Demi Lovato,Neon Lights,Demi (Deluxe),album,2014-11-28,artist,233173,False,4,0.628,0.838,9,-4.199,1,0.132,0.0833,1.38e-06,0.0998,0.709,125.937,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Demi Lovato,Really Don't Care,Demi (Deluxe),album,2014-11-28,artist,201600,False,8,0.702,0.74,7,-3.583,1,0.0842,0.122,0.0,0.126,0.818,121.009,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Demi Lovato,Made In The USA,Demi (Deluxe),album,2014-11-28,artist,196093,False,2,0.578,0.865,8,-3.903,1,0.0407,0.00109,0.0,0.32,0.583,87.525,4,1,1,0,0,0,0,0,0,0,0,0,2014
+Demi Lovato,Nightingale,Demi (Deluxe),album,2014-11-28,artist,216400,False,6,0.485,0.63,9,-5.547,1,0.0395,0.134,0.0,0.104,0.292,141.285,4,1,1,0,0,0,0,0,0,0,0,0,2014
+WALK THE MOON,Shut Up and Dance,TALKING IS HARD,album,2014-12-02,artist,199080,False,3,0.578,0.866,1,-3.804,1,0.0619,0.00701,0.0,0.257,0.619,128.038,4,1,1,0,1,0,0,0,0,0,0,0,2014
+The Weeknd,"Earned It (Fifty Shades Of Grey) - From The ""Fifty Shades Of Grey"" Soundtrack","Earned It (Fifty Shades Of Grey) [From The ""Fifty Shades Of Grey"" Soundtrack]",single,2014-12-23,artist,252226,False,1,0.659,0.381,2,-5.922,0,0.0304,0.385,0.0,0.0972,0.426,119.844,3,1,0,0,0,0,0,1,0,0,0,0,2014
+Demi Lovato,Stone Cold,Confident (Deluxe Edition),album,2015-01-01,artist,191307,False,5,0.41,0.462,8,-7.534,1,0.0515,0.5,0.0,0.0975,0.354,139.861,3,1,1,0,0,0,0,0,0,0,0,0,2015
+Meghan Trainor,Lips Are Movin,Title (Deluxe),album,2015-01-09,artist,182666,False,11,0.775,0.825,7,-5.402,1,0.0464,0.0506,1.03e-06,0.111,0.95,139.091,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Meghan Trainor,Dear Future Husband,Title (Deluxe),album,2015-01-09,artist,184226,False,3,0.655,0.782,1,-4.789,1,0.185,0.375,0.0,0.317,0.832,79.427,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Meghan Trainor,Like I'm Gonna Lose You (feat. John Legend),Title (Deluxe),album,2015-01-09,artist,225053,False,6,0.63,0.53,0,-7.259,1,0.0434,0.4,0.0,0.177,0.417,108.038,3,1,1,0,0,0,0,0,0,0,0,0,2015
+Fall Out Boy,Centuries,American Beauty/American Psycho,album,2015-01-20,artist,228360,False,3,0.393,0.858,4,-2.868,0,0.0729,0.00359,0.0,0.102,0.56,176.042,4,1,0,0,1,0,0,0,0,1,0,0,2015
+Fall Out Boy,Uma Thurman,American Beauty/American Psycho,album,2015-01-20,artist,211573,False,5,0.623,0.962,4,-2.616,0,0.0895,0.103,0.000174,0.264,0.676,149.963,4,1,0,0,1,0,0,0,0,1,0,0,2015
+George Ezra,Budapest,Wanted on Voyage,album,2015-01-20,artist,200733,False,2,0.717,0.455,5,-8.303,1,0.0276,0.0846,0.0,0.11,0.389,127.812,4,1,0,0,1,0,0,0,0,0,0,1,2015
+Rihanna,FourFiveSeconds,FourFiveSeconds,single,2015-01-24,artist,188238,False,1,0.582,0.272,2,-5.662,1,0.0501,0.875,0.0,0.13,0.354,205.846,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Brave Honest Beautiful (feat. Meghan Trainor),Reflection (Deluxe),album,2015-01-30,artist,208293,False,14,0.511,0.872,6,-3.588,1,0.145,0.147,0.0,0.357,0.704,99.314,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Top Down,Reflection (Deluxe),album,2015-01-30,artist,220320,False,1,0.831,0.677,1,-4.363,1,0.0429,0.244,1.34e-06,0.0443,0.759,101.025,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,BO$$,Reflection (Deluxe),album,2015-01-30,artist,171413,False,2,0.813,0.872,9,-5.224,1,0.107,0.00621,0.0,0.0498,0.736,103.016,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Sledgehammer,Reflection (Deluxe),album,2015-01-30,artist,230906,False,3,0.671,0.777,2,-4.322,1,0.046,0.0057,0.0011,0.0783,0.289,99.98,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Worth It (feat. Kid Ink),Reflection (Deluxe),album,2015-01-30,artist,224573,False,4,0.884,0.765,8,-3.865,1,0.0882,0.063,7.04e-06,0.118,0.594,99.987,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,This is How We Roll,Reflection (Deluxe),album,2015-01-30,artist,272160,False,5,0.711,0.537,11,-5.806,0,0.0571,0.0726,0.0,0.286,0.409,127.924,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Everlasting Love,Reflection (Deluxe),album,2015-01-30,artist,184506,False,6,0.574,0.653,9,-4.678,0,0.129,0.126,4.49e-06,0.0607,0.726,94.886,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Them Girls Be Like,Reflection (Deluxe),album,2015-01-30,artist,162626,False,8,0.804,0.742,6,-3.894,1,0.0284,0.317,0.0,0.341,0.916,95.019,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Reflection,Reflection (Deluxe),album,2015-01-30,artist,188560,False,9,0.722,0.614,1,-4.519,1,0.191,0.5,0.0,0.0422,0.753,150.288,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Suga Mama,Reflection (Deluxe),album,2015-01-30,artist,219133,False,10,0.728,0.855,0,-6.806,1,0.379,0.0768,0.0,0.07,0.723,160.037,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Going Nowhere,Reflection (Deluxe),album,2015-01-30,artist,214173,False,12,0.615,0.861,10,-2.203,1,0.106,0.127,6.74e-05,0.602,0.682,165.914,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Body Rock,Reflection (Deluxe),album,2015-01-30,artist,243600,False,13,0.676,0.75,11,-5.205,0,0.0808,0.016,0.0,0.0988,0.407,128.037,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,Like Mariah (feat. Tyga),Reflection (Deluxe),album,2015-01-30,artist,208186,False,7,0.735,0.77,4,-4.851,1,0.143,0.112,0.0,0.129,0.492,97.981,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,We Know,Reflection (Deluxe),album,2015-01-30,artist,177173,False,11,0.425,0.336,10,-7.606,1,0.0542,0.586,0.0,0.0729,0.294,83.926,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Hayley Kiyoko,Girls Like Girls,This Side of Paradise - EP,single,2015-02-03,artist,229655,False,4,0.611,0.701,6,-5.235,1,0.0248,0.0109,9.83e-06,0.0994,0.604,142.027,4,1,1,0,0,0,1,0,0,0,0,0,2015
+Ellie Goulding,"Love Me Like You Do - From ""Fifty Shades Of Grey""",Fifty Shades Of Grey (Original Motion Picture Soundtrack),compilation,2015-02-10,artist,250266,False,5,0.258,0.659,5,-5.903,0,0.0596,0.253,0.0,0.111,0.272,189.558,4,1,1,0,0,0,1,0,0,0,0,0,2015
+Elle King,Ex's & Oh's,Love Stuff,album,2015-02-13,artist,202173,False,2,0.612,0.921,7,-2.882,1,0.085,0.0183,0.0,0.0576,0.446,139.988,4,0,0,0,1,0,0,0,0,0,0,0,2015
+Jack Ü,Where Are Ü Now (with Justin Bieber),Skrillex and Diplo present Jack Ü,album,2015-02-24,artist,250285,False,9,0.432,0.781,4,-4.038,0,0.0567,0.041,4.21e-06,0.0789,0.197,139.432,4,1,1,0,0,0,1,0,0,0,0,0,2015
+Kelly Clarkson,Heartbeat Song,Piece By Piece (Deluxe Version),album,2015-02-27,artist,198733,False,1,0.49,0.798,6,-3.66,1,0.0489,0.0137,0.0,0.0627,0.479,149.109,4,1,1,0,1,0,0,0,0,0,0,0,2015
+Wiz Khalifa,See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),single,2015-03-10,artist,229525,False,1,0.689,0.481,10,-7.503,1,0.0815,0.369,1.03e-06,0.0649,0.283,80.025,4,1,1,0,0,1,0,0,0,0,0,0,2015
+Nicky Jam,El Perdón (with Enrique Iglesias),El Perdón (with Enrique Iglesias),single,2015-04-08,artist,207013,False,1,0.622,0.701,8,-5.452,1,0.0559,0.423,0.0,0.0955,0.645,179.998,4,0,0,0,0,1,0,0,0,0,1,0,2015
+Shawn Mendes,Stitches,Handwritten (Deluxe),album,2015-04-13,artist,206880,False,2,0.746,0.754,1,-6.681,1,0.067,0.0152,0.0,0.0486,0.764,149.882,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Rixton,Me And My Broken Heart,Let The Road,album,2015-05-04,artist,193733,False,5,0.541,0.785,5,-4.199,0,0.0364,0.00631,0.0,0.135,0.503,174.088,4,1,0,0,1,0,0,0,0,0,0,0,2015
+Rachel Platten,Fight Song,Fight Song - EP,single,2015-05-12,artist,204066,False,1,0.639,0.707,7,-5.062,1,0.0739,0.0881,0.0,0.176,0.352,87.944,4,1,1,0,1,0,0,0,0,0,0,0,2015
+Twenty One Pilots,Ride,Blurryface,album,2015-05-15,artist,214506,False,3,0.645,0.713,6,-5.355,1,0.0393,0.00835,0.0,0.113,0.566,74.989,4,0,0,0,1,0,0,0,0,0,0,0,2015
+Little Mix,Black Magic,Black Magic,single,2015-05-21,artist,211786,False,1,0.777,0.898,4,-4.461,1,0.0581,0.0322,0.0,0.313,0.866,111.996,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Jason Derulo,Want to Want Me,Everything Is 4,album,2015-05-29,artist,207719,False,1,0.775,0.68,0,-5.508,0,0.0629,0.00906,0.0,0.109,0.656,114.025,4,1,1,0,0,1,0,0,0,0,0,0,2015
+Major Lazer,Lean On (feat. MØ & DJ Snake),Peace Is The Mission,album,2015-06-01,artist,176561,False,4,0.723,0.809,7,-3.081,0,0.0625,0.00346,0.00123,0.565,0.274,98.007,4,1,1,0,0,1,1,0,0,0,0,0,2015
+OMI,Cheerleader (feat. Kid Ink) - Felix Jaehn vs Salaam Remi Remix,Cheerleader (feat. Kid Ink) [Felix Jaehn vs Salaam Remi Remix],single,2015-07-17,artist,182333,True,1,0.794,0.741,4,-4.472,1,0.0456,0.0649,0.0,0.171,0.661,117.944,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Calvin Harris,How Deep Is Your Love,How Deep Is Your Love,single,2015-07-17,artist,212640,False,1,0.738,0.868,11,-4.373,0,0.0731,0.0392,0.00169,0.388,0.336,122.003,4,1,1,0,0,0,1,0,0,0,0,0,2015
+One Direction,Drag Me Down,Drag Me Down,single,2015-07-31,artist,192106,False,1,0.723,0.711,0,-5.576,0,0.0378,0.0997,0.0,0.0528,0.606,138.098,4,1,0,0,0,0,0,0,0,0,0,0,2015
+Drake,Hotline Bling,Hotline Bling,single,2015-07-31,artist,267023,False,1,0.896,0.623,2,-8.008,1,0.0571,0.00257,0.000258,0.039,0.585,134.962,4,1,0,0,0,1,0,0,0,0,0,0,2015
+Selena Gomez,Good For You,Good For You,single,2015-08-07,artist,221560,True,1,0.605,0.678,5,-6.48,0,0.0511,0.179,0.0,0.0878,0.212,88.967,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Fifth Harmony,I'm In Love With a Monster,I'm In Love With a Monster,single,2015-08-14,artist,211932,False,1,0.666,0.812,6,-4.07,0,0.0647,0.0597,0.0,0.0603,0.868,145.059,4,1,1,0,0,0,0,0,0,0,0,0,2015
+The Weeknd,Can't Feel My Face,Beauty Behind The Madness,album,2015-08-28,artist,213520,False,7,0.702,0.77,9,-5.416,0,0.0482,0.124,0.0,0.103,0.593,107.951,4,1,0,0,0,0,0,1,0,0,0,0,2015
+The Weeknd,The Hills,Beauty Behind The Madness,album,2015-08-28,artist,242253,True,5,0.356,0.567,0,-7.011,0,0.0798,0.0861,0.0,0.137,0.109,135.553,5,1,0,0,0,0,0,1,0,0,0,0,2015
+Tove Lo,Talking Body,Queen Of The Clouds (Blueprint Edition),album,2015-10-02,artist,238426,True,4,0.736,0.761,4,-5.449,0,0.0338,0.0966,0.0,0.0823,0.114,119.999,4,1,1,0,0,1,1,0,0,0,0,0,2015
+R. City,Locked Away (feat. Adam Levine),What Dreams Are Made Of,album,2015-10-09,artist,227480,False,2,0.509,0.671,1,-5.709,1,0.0678,0.304,0.0,0.0452,0.55,118.413,5,0,0,0,0,0,0,0,0,0,0,0,2015
+Demi Lovato,Stone Cold,Confident,album,2015-10-16,artist,191307,False,5,0.481,0.462,8,-7.563,1,0.0527,0.477,0.0,0.0966,0.344,139.532,3,1,1,0,0,0,0,0,0,0,0,0,2015
+Demi Lovato,Cool for the Summer,Confident (Deluxe Edition),album,2015-10-16,artist,214739,True,2,0.583,0.61,5,-5.639,0,0.0382,0.00425,0.000105,0.14,0.336,114.06,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Demi Lovato,Cool for the Summer,Confident,album,2015-10-16,artist,214739,True,2,0.585,0.623,5,-5.567,0,0.037,0.00467,0.000124,0.075,0.252,114.098,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Demi Lovato,Confident,Confident,album,2015-10-16,artist,205745,True,1,0.594,0.749,3,-6.23,1,0.0757,0.00205,9.29e-05,0.137,0.33,129.969,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Adele,Hello,Hello,single,2015-10-23,artist,295493,False,1,0.481,0.451,5,-6.095,0,0.0347,0.336,0.0,0.0872,0.289,157.966,4,1,0,0,0,0,0,1,0,0,0,0,2015
+Ellie Goulding,On My Mind,Delirium (Deluxe),album,2015-11-06,artist,213445,False,5,0.702,0.705,0,-6.666,1,0.0543,0.258,5.93e-06,0.0879,0.743,154.911,4,1,1,0,0,0,1,0,0,0,0,0,2015
+Little Mix,Secret Love Song (feat. Jason Derulo),Get Weird (Deluxe),album,2015-11-06,artist,249813,False,4,0.539,0.643,9,-3.982,1,0.0479,0.256,0.0,0.29,0.136,92.962,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Little Mix,Love Me Like You,Get Weird (Deluxe),album,2015-11-06,artist,197786,False,2,0.785,0.674,7,-3.936,1,0.043,0.208,0.0,0.284,0.848,106.058,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Little Mix,"Secret Love Song, Pt. II",Get Weird (Deluxe),album,2015-11-06,artist,266920,False,14,0.384,0.385,9,-7.252,1,0.0383,0.75,0.0,0.08,0.155,94.415,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Justin Bieber,Love Yourself,Purpose (Deluxe),album,2015-11-13,artist,233720,False,5,0.609,0.378,4,-9.828,1,0.438,0.835,0.0,0.28,0.515,100.418,4,1,0,0,0,0,0,0,0,0,0,0,2015
+Justin Bieber,What Do You Mean?,Purpose (Deluxe),album,2015-11-13,artist,205680,False,3,0.845,0.567,5,-8.118,0,0.0956,0.59,0.00142,0.0811,0.793,125.02,4,1,0,0,0,0,0,0,0,0,0,0,2015
+Justin Bieber,Sorry,Purpose (Deluxe),album,2015-11-13,artist,200786,False,4,0.654,0.76,0,-3.669,0,0.045,0.0797,0.0,0.299,0.41,99.945,4,1,0,0,0,0,0,0,0,0,0,0,2015
+Nick Jonas,Chains,Nick Jonas X2,album,2015-11-20,artist,203106,False,1,0.589,0.611,0,-5.881,0,0.0459,0.0151,0.0,0.0757,0.121,76.006,4,1,1,0,0,0,0,0,0,0,0,0,2015
+Shawn Mendes,I Know What You Did Last Summer,Handwritten (Revisited),album,2015-11-20,artist,223826,False,13,0.657,0.769,9,-4.591,0,0.115,0.123,0.0,0.245,0.712,113.966,4,1,1,0,0,0,0,0,0,0,0,0,2015
+G-Eazy,"Me, Myself & I",When It's Dark Out,album,2015-12-04,artist,251466,True,3,0.756,0.674,0,-6.518,0,0.0959,0.0184,0.0,0.158,0.389,111.995,4,1,0,0,0,1,0,0,0,0,0,0,2015
+Nathan Sykes,Over And Over Again,Over And Over Again,single,2016-01-15,artist,246895,False,1,0.575,0.27,8,-8.379,1,0.0367,0.96,0.0,0.107,0.404,129.816,4,1,0,0,0,0,0,0,0,0,0,0,2016
+Rihanna,Work,ANTI (Deluxe),album,2016-01-28,artist,219320,True,4,0.725,0.534,11,-6.238,1,0.0946,0.0752,0.0,0.0919,0.558,91.974,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Rihanna,Love On The Brain,ANTI (Deluxe),album,2016-01-28,artist,224000,True,11,0.509,0.637,4,-4.83,0,0.0471,0.0717,1.08e-05,0.0789,0.378,172.006,3,1,1,0,0,0,0,0,0,0,0,0,2016
+Rihanna,Needed Me,ANTI,album,2016-01-28,artist,191600,True,7,0.671,0.314,5,-8.091,0,0.244,0.11,0.0,0.0825,0.296,110.898,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Charlie Puth,Dangerously,Nine Track Mind,album,2016-01-29,artist,199133,False,2,0.696,0.517,2,-8.379,0,0.0366,0.364,0.0,0.197,0.23,112.291,3,1,1,0,0,0,0,0,0,0,0,0,2016
+Sia,Cheap Thrills,This Is Acting,album,2016-01-29,artist,211666,False,6,0.628,0.698,6,-5.608,0,0.105,0.0472,0.00143,0.0907,0.732,89.976,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Charlie Puth,We Don't Talk Anymore (feat. Selena Gomez),Nine Track Mind,album,2016-01-29,artist,217706,False,5,0.728,0.563,1,-8.053,0,0.134,0.621,0.0,0.179,0.352,100.017,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Charlie Puth,One Call Away,Nine Track Mind,album,2016-01-29,artist,194453,False,1,0.667,0.613,1,-5.353,1,0.0344,0.403,0.0,0.115,0.47,91.024,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Charlie Puth,Marvin Gaye (feat. Meghan Trainor),Nine Track Mind,album,2016-01-29,artist,190453,False,3,0.795,0.616,1,-5.281,0,0.06,0.417,0.0,0.349,0.815,110.015,4,1,1,0,0,0,0,0,0,0,0,0,2016
+The Chainsmokers,Don't Let Me Down,Don't Let Me Down,single,2016-02-05,artist,208373,False,1,0.532,0.869,11,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,4,1,1,0,0,0,1,0,0,0,0,0,2016
+Alessia Cara,Scars To Your Beautiful,Know-It-All (Deluxe),album,2016-03-11,artist,230226,False,10,0.319,0.739,0,-5.74,1,0.272,0.0285,0.0,0.111,0.449,194.169,4,1,1,0,0,0,1,1,0,0,0,0,2016
+ZAYN,PILLOWTALK,Mind Of Mine (Deluxe Edition),album,2016-03-25,artist,202746,True,2,0.584,0.7,11,-4.275,1,0.0456,0.117,0.0,0.0939,0.438,124.944,4,1,1,0,0,0,0,0,0,0,0,0,2016
+The Vamps,I Found A Girl - Acoustic,I Found A Girl (Acoustic),single,2016-04-01,artist,184248,False,1,0.705,0.641,11,-3.432,1,0.0459,0.493,0.0,0.321,0.65,176.036,4,1,1,0,0,0,0,0,0,0,0,0,2016
+The Vamps,I Found A Girl,I Found A Girl,single,2016-04-01,artist,178989,False,1,0.72,0.827,4,-5.176,1,0.0475,0.00578,0.0,0.312,0.54,89.997,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Lukas Graham,7 Years,Lukas Graham,album,2016-04-01,artist,237300,False,1,0.765,0.473,10,-5.829,1,0.0514,0.287,0.0,0.391,0.34,119.992,4,1,0,0,0,0,0,0,0,0,0,0,2016
+Calvin Harris,This Is What You Came For (feat. Rihanna),This Is What You Came For (feat. Rihanna),single,2016-04-29,artist,222160,False,1,0.631,0.927,9,-2.787,0,0.0332,0.199,0.119,0.148,0.465,123.962,4,1,1,0,0,0,1,0,0,0,0,0,2016
+Meghan Trainor,NO,Thank You (Deluxe),album,2016-05-13,artist,213506,False,3,0.471,0.802,1,-3.599,0,0.27,0.0125,1.45e-06,0.702,0.653,88.615,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Let Me Love You,Dangerous Woman,album,2016-05-20,artist,223853,False,6,0.529,0.445,2,-8.291,1,0.137,0.0274,0.0,0.265,0.0767,138.95,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Greedy,Dangerous Woman,album,2016-05-20,artist,214906,False,7,0.631,0.707,1,-5.273,1,0.0893,0.0392,0.0,0.104,0.876,109.983,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Leave Me Lonely,Dangerous Woman,album,2016-05-20,artist,229680,False,8,0.498,0.45,8,-7.452,0,0.0318,0.611,2.18e-05,0.344,0.4,90.569,3,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Sometimes,Dangerous Woman,album,2016-05-20,artist,226666,False,10,0.359,0.66,1,-5.396,0,0.289,0.09,0.0,0.343,0.554,79.196,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Side To Side,Dangerous Woman,album,2016-05-20,artist,226160,True,5,0.648,0.738,6,-5.883,0,0.247,0.0408,0.0,0.292,0.603,159.145,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,I Don't Care,Dangerous Woman,album,2016-05-20,artist,178026,True,11,0.581,0.408,5,-8.225,1,0.0479,0.737,3.54e-06,0.163,0.225,111.83,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Bad Decisions,Dangerous Woman,album,2016-05-20,artist,226426,True,12,0.699,0.649,4,-5.351,0,0.0433,0.0144,0.0,0.266,0.747,131.957,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Touch It,Dangerous Woman,album,2016-05-20,artist,260000,False,13,0.287,0.7,7,-4.326,0,0.0499,0.0338,0.0,0.18,0.33,202.317,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Knew Better / Forever Boy,Dangerous Woman,album,2016-05-20,artist,299213,False,14,0.478,0.4,6,-6.669,1,0.0698,0.213,2.83e-06,0.098,0.372,106.517,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Everyday,Dangerous Woman,album,2016-05-20,artist,194840,True,9,0.635,0.738,7,-4.424,0,0.0519,0.0192,0.0,0.15,0.428,130.971,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Into You,Dangerous Woman,album,2016-05-20,artist,244453,False,4,0.636,0.727,9,-5.852,1,0.106,0.0161,1.12e-06,0.151,0.358,107.988,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Thinking Bout You,Dangerous Woman,album,2016-05-20,artist,200400,True,15,0.51,0.69,11,-5.991,1,0.0711,0.0144,0.000276,0.108,0.426,103.025,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Be Alright,Dangerous Woman,album,2016-05-20,artist,179293,False,3,0.813,0.468,1,-7.79,0,0.0739,0.198,0.0,0.128,0.641,108.768,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Dangerous Woman,Dangerous Woman,album,2016-05-20,artist,235946,False,2,0.677,0.604,7,-5.32,1,0.0385,0.0612,0.0,0.353,0.297,134.052,3,1,1,0,0,0,0,0,0,0,0,0,2016
+Ariana Grande,Moonlight,Dangerous Woman,album,2016-05-20,artist,202360,False,1,0.368,0.402,9,-7.474,1,0.0398,0.416,2.66e-06,0.0498,0.194,204.045,3,1,1,0,0,0,0,0,0,0,0,0,2016
+Bea Miller,yes girl,yes girl,single,2016-05-20,artist,231390,False,1,0.554,0.726,5,-5.021,0,0.0315,0.0565,0.0,0.197,0.286,98.994,4,1,1,0,1,1,1,0,0,0,0,0,2016
+Fifth Harmony,All In My Head (Flex) (feat. Fetty Wap),7/27 (Deluxe),album,2016-05-27,artist,210573,False,6,0.689,0.791,0,-5.194,0,0.053,0.023,0.0,0.0526,0.755,95.04,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,That's My Girl,7/27 (Deluxe),album,2016-05-27,artist,204013,False,1,0.596,0.851,5,-4.245,0,0.121,0.0358,3.19e-05,0.365,0.612,202.049,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,Dope,7/27 (Deluxe),album,2016-05-27,artist,212626,True,11,0.719,0.519,0,-6.545,1,0.0494,0.13,0.0,0.0833,0.122,90.995,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,The Life,7/27 (Deluxe),album,2016-05-27,artist,200893,False,3,0.739,0.762,0,-5.633,1,0.0486,0.171,0.0,0.107,0.744,104.0,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,Work from Home (feat. Ty Dolla $ign),7/27 (Deluxe),album,2016-05-27,artist,214480,False,2,0.803,0.585,8,-5.861,1,0.0432,0.103,3.94e-06,0.0644,0.593,105.017,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,Squeeze,7/27 (Deluxe),album,2016-05-27,artist,213093,False,7,0.642,0.577,0,-7.692,1,0.0366,0.424,2.71e-06,0.0779,0.314,99.977,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,Gonna Get Better,7/27 (Deluxe),album,2016-05-27,artist,216880,False,8,0.702,0.663,3,-5.533,1,0.109,0.181,0.0,0.154,0.468,91.989,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,Scared of Happy,7/27 (Deluxe),album,2016-05-27,artist,203533,False,9,0.714,0.837,6,-3.252,1,0.0398,0.177,2.09e-05,0.114,0.479,112.009,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,Not That Kinda Girl (feat. Missy Elliott),7/27 (Deluxe),album,2016-05-27,artist,191133,True,10,0.795,0.908,1,-3.126,1,0.165,0.0175,1.01e-05,0.0418,0.63,115.034,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,No Way,7/27 (Deluxe),album,2016-05-27,artist,177266,False,12,0.544,0.872,6,-6.119,1,0.314,0.184,0.000121,0.109,0.482,89.543,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,Write On Me,7/27 (Deluxe),album,2016-05-27,artist,219560,False,4,0.441,0.692,7,-5.427,0,0.128,0.359,1.94e-06,0.161,0.475,189.879,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Fifth Harmony,I Lied,7/27 (Deluxe),album,2016-05-27,artist,203586,False,5,0.674,0.778,8,-4.961,0,0.179,0.0774,0.0,0.308,0.492,118.039,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Nick Jonas,Close,Last Year Was Complicated,album,2016-06-10,artist,234213,False,3,0.653,0.623,6,-5.273,0,0.082,0.253,0.0,0.144,0.401,123.999,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Twenty One Pilots,Heathens,Heathens,single,2016-06-16,artist,195920,False,1,0.732,0.396,4,-9.348,0,0.0286,0.0841,3.58e-05,0.105,0.548,90.024,4,0,0,0,1,0,0,0,0,0,0,0,2016
+Adele,When We Were Young,25,album,2016-06-24,artist,290906,False,4,0.381,0.594,3,-5.97,1,0.0486,0.348,0.0,0.0925,0.273,143.86,4,1,0,0,0,0,0,1,0,0,0,0,2016
+Adele,Send My Love (To Your New Lover),25,album,2016-06-24,artist,223080,False,2,0.69,0.524,6,-8.39,0,0.103,0.0415,3.16e-06,0.17,0.562,164.023,4,1,0,0,0,0,0,1,0,0,0,0,2016
+Demi Lovato,Body Say,Body Say,single,2016-07-01,artist,193893,False,1,0.63,0.735,5,-4.787,0,0.037,0.00516,1.96e-06,0.261,0.217,86.993,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Hailee Steinfeld,Starving,Starving,single,2016-07-22,artist,181880,False,1,0.724,0.628,4,-4.219,1,0.0962,0.409,0.0,0.105,0.524,99.898,4,1,1,0,0,0,0,0,0,0,0,0,2016
+The Chainsmokers,Closer,Closer,single,2016-07-29,artist,244960,False,1,0.748,0.524,8,-5.599,1,0.0338,0.414,0.0,0.111,0.661,95.01,4,1,1,0,0,0,1,0,0,0,0,0,2016
+Martin Garrix,In the Name of Love,In the Name of Love,single,2016-07-29,artist,195706,False,1,0.501,0.519,4,-5.88,0,0.0409,0.109,0.0,0.454,0.168,133.99,4,1,1,0,0,0,1,0,0,0,0,0,2016
+DJ Snake,Let Me Love You,Encore,album,2016-08-05,artist,205946,False,13,0.476,0.718,8,-5.309,1,0.0576,0.0784,1.02e-05,0.122,0.142,199.864,4,1,1,0,0,1,1,0,0,0,0,0,2016
+CNCO,Reggaetón Lento (Bailemos),Primera Cita,album,2016-08-26,artist,222560,False,3,0.761,0.838,4,-3.073,0,0.0502,0.4,0.0,0.176,0.71,93.974,4,1,0,0,0,0,0,0,0,0,1,0,2016
+James Arthur,Say You Won't Let Go,Say You Won't Let Go,single,2016-09-09,artist,211240,False,1,0.4,0.564,10,-7.444,1,0.0523,0.693,0.0,0.0863,0.483,99.269,4,1,0,0,0,0,0,0,0,0,0,0,2016
+Shawn Mendes,Treat You Better,Illuminate (Deluxe),album,2016-09-23,artist,187973,False,3,0.683,0.797,10,-4.085,0,0.246,0.107,0.0,0.114,0.758,82.916,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Niall Horan,This Town,This Town,single,2016-09-29,artist,232600,False,1,0.687,0.409,9,-7.751,1,0.0311,0.71,0.0,0.126,0.16,111.861,4,1,1,0,0,0,0,0,0,0,0,0,2016
+The Vamps,All Night,All Night,single,2016-10-14,artist,197793,False,1,0.563,0.775,8,-6.433,1,0.0366,0.00251,0.0,0.326,0.458,144.945,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Machine Gun Kelly,Bad Things - With Camila Cabello,Bad Things,single,2016-10-14,artist,239280,False,1,0.689,0.692,2,-4.756,1,0.133,0.229,0.0,0.184,0.285,137.832,4,1,0,0,0,1,0,0,0,0,0,0,2016
+Clean Bandit,Rockabye (feat. Sean Paul & Anne-Marie),Rockabye (feat. Sean Paul & Anne-Marie),single,2016-10-21,artist,251088,False,1,0.72,0.763,9,-4.068,0,0.0523,0.406,0.0,0.18,0.742,101.965,4,1,1,0,0,0,1,0,0,0,0,0,2016
+Bebe Rexha,I Got You,I Got You,single,2016-10-28,artist,191811,False,1,0.609,0.887,9,-4.749,0,0.0507,0.0504,4.76e-06,0.09,0.316,97.99,4,1,1,0,0,0,1,0,0,0,0,0,2016
+Little Mix,Shout Out to My Ex - Acoustic,Shout Out to My Ex (Acoustic),single,2016-11-11,artist,245866,False,1,0.595,0.487,5,-4.916,1,0.0363,0.424,0.0,0.0683,0.481,125.66,4,1,1,0,0,0,0,0,0,0,0,0,2016
+The Vamps,All Night - Acoustic,All Night (Acoustic),single,2016-11-11,artist,183963,False,1,0.545,0.621,5,-5.235,1,0.0411,0.0466,0.0,0.149,0.387,152.066,4,1,1,0,0,0,0,0,0,0,0,0,2016
+DNCE,Cake By The Ocean,DNCE,album,2016-11-18,artist,219146,True,3,0.774,0.764,4,-5.445,0,0.0518,0.156,0.0,0.0383,0.912,118.997,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Sean Paul,No Lie,No Lie,single,2016-11-18,artist,221176,False,1,0.741,0.891,7,-2.824,1,0.119,0.0437,0.0,0.256,0.449,102.002,4,1,1,0,0,1,0,0,0,0,0,0,2016
+Little Mix,Touch,Glory Days (Deluxe),album,2016-11-18,artist,213306,False,2,0.607,0.718,4,-4.095,1,0.0978,0.032,0.0,0.403,0.551,101.821,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Little Mix,Touch - Acoustic,Glory Days (Deluxe),album,2016-11-18,artist,223693,False,15,0.354,0.33,4,-8.242,1,0.0374,0.401,0.0,0.148,0.547,82.122,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Little Mix,Shout Out to My Ex,Glory Days (Deluxe),album,2016-11-18,artist,246240,False,1,0.774,0.739,0,-4.022,1,0.0952,0.0316,5.95e-06,0.119,0.823,126.002,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Little Mix,Oops,Glory Days (Deluxe),album,2016-11-18,artist,204760,False,4,0.611,0.653,11,-4.183,0,0.17,0.42,0.0,0.165,0.92,210.002,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Little Mix,Power,Glory Days (Deluxe),album,2016-11-18,artist,247840,False,7,0.566,0.855,7,-4.016,1,0.211,0.0367,0.000162,0.181,0.513,172.977,4,1,1,0,0,0,0,0,0,0,0,0,2016
+DNCE,Body Moves,DNCE,album,2016-11-18,artist,236453,False,2,0.655,0.699,5,-5.142,0,0.0385,0.00165,0.0,0.0378,0.856,102.033,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Little Mix,No More Sad Songs,Glory Days (Deluxe),album,2016-11-18,artist,206373,False,10,0.689,0.788,7,-4.347,0,0.0511,0.0634,2.16e-05,0.248,0.767,102.064,4,1,1,0,0,0,0,0,0,0,0,0,2016
+The Weeknd,Starboy,Starboy,album,2016-11-25,artist,230453,True,1,0.681,0.594,7,-7.028,1,0.282,0.165,3.49e-06,0.134,0.535,186.054,4,1,0,0,0,0,0,1,0,0,0,0,2016
+Marian Hill,Back To Me,Back To Me,single,2016-12-09,artist,172506,False,1,0.873,0.384,0,-6.626,1,0.0723,0.609,0.000408,0.0661,0.575,84.992,4,1,0,0,0,0,1,0,0,0,0,0,2016
+ZAYN,"I Don’t Wanna Live Forever (Fifty Shades Darker) - From ""Fifty Shades Darker (Original Motion Picture Soundtrack)""",I Don’t Wanna Live Forever (Fifty Shades Darker),single,2016-12-09,artist,245200,False,1,0.735,0.451,0,-8.374,1,0.0585,0.0631,1.3e-05,0.325,0.0862,117.973,4,1,1,0,0,0,0,0,0,0,0,0,2016
+Steve Aoki,Just Hold On,Just Hold On,single,2016-12-10,artist,198774,False,1,0.647,0.932,11,-3.515,1,0.0824,0.00383,1.5e-06,0.0574,0.374,114.991,4,1,1,0,0,0,1,0,0,0,0,0,2016
+Ed Sheeran,Castle on the Hill,Castle on the Hill,single,2017-01-06,artist,261153,False,1,0.461,0.834,2,-4.868,1,0.0989,0.0232,1.14e-05,0.14,0.471,135.007,4,1,0,0,0,0,0,0,0,0,0,0,2017
+Ed Sheeran,Shape of You,Shape of You,single,2017-01-06,artist,233712,False,1,0.825,0.652,1,-3.183,0,0.0802,0.581,0.0,0.0931,0.931,95.977,4,1,0,0,0,0,0,0,0,0,0,0,2017
+Julia Michaels,Issues,Issues,single,2017-01-13,artist,176346,False,1,0.683,0.427,8,-6.827,1,0.0777,0.368,0.0,0.0604,0.426,113.634,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Martin Garrix,Scared to Be Lonely,Scared to Be Lonely,single,2017-01-27,artist,220883,False,1,0.584,0.54,1,-7.786,0,0.0576,0.0895,0.0,0.261,0.195,137.972,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Bebe Rexha,Bad Bitch (feat. Ty Dolla $ign),All Your Fault: Pt. 1,single,2017-02-16,artist,197253,True,6,0.656,0.615,5,-6.252,1,0.0539,0.0283,0.0,0.234,0.366,139.91,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Kygo,It Ain't Me (with Selena Gomez),It Ain't Me (with Selena Gomez),single,2017-02-16,artist,220780,False,1,0.64,0.533,0,-6.596,1,0.0706,0.119,0.0,0.0864,0.515,99.968,4,1,1,0,0,0,1,0,0,0,0,0,2017
+KARD,Don't Recall - Hidden Ver.,"K.A.R.D Project, Vol. 2 - Don't Recall",single,2017-02-16,artist,209032,False,2,0.693,0.712,1,-2.716,1,0.0721,0.0246,5.8e-06,0.128,0.585,92.979,4,1,0,0,0,0,0,0,0,0,0,1,2017
+Zedd,Stay (with Alessia Cara),Stay,single,2017-02-23,artist,210090,False,1,0.679,0.634,5,-5.024,0,0.0654,0.232,0.0,0.115,0.498,102.013,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Maggie Lindemann,Pretty Girl - Cheat Codes X CADE Remix,Pretty Girl (Cheat Codes X CADE Remix),single,2017-03-03,artist,193613,True,1,0.703,0.868,7,-4.661,0,0.0291,0.15,0.132,0.104,0.733,121.03,4,1,0,0,0,0,0,0,0,0,0,0,2017
+Ed Sheeran,Perfect,÷ (Deluxe),album,2017-03-03,artist,263400,False,5,0.599,0.448,8,-6.312,1,0.0232,0.163,0.0,0.106,0.168,95.05,3,1,0,0,0,0,0,0,0,0,0,0,2017
+Pitbull,Hey Ma (with Pitbull & J Balvin feat. Camila Cabello),Hey Ma (with Pitbull & J Balvin feat. Camila Cabello),single,2017-03-10,artist,194880,False,1,0.694,0.957,9,-3.115,0,0.171,0.0243,3.4e-06,0.108,0.505,106.002,4,1,1,0,0,1,0,0,0,0,1,0,2017
+Ariana Grande,Beauty and the Beast,Beauty and the Beast (Original Motion Picture Soundtrack/Deluxe Edition),compilation,2017-03-10,artist,227928,False,2,0.489,0.54,6,-7.046,1,0.0288,0.126,0.0,0.103,0.27,81.4,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Clean Bandit,Symphony (feat. Zara Larsson),Symphony (feat. Zara Larsson),single,2017-03-16,artist,212459,False,1,0.707,0.629,0,-4.581,0,0.0563,0.259,1.6e-05,0.138,0.457,122.863,4,1,1,0,0,0,1,0,0,0,0,0,2017
+ZAYN,Still Got Time (feat. PARTYNEXTDOOR),Still Got Time (feat. PARTYNEXTDOOR),single,2017-03-23,artist,188490,False,1,0.748,0.627,7,-6.029,1,0.0639,0.131,0.0,0.0852,0.524,120.963,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Cheat Codes,No Promises (feat. Demi Lovato),No Promises (feat. Demi Lovato),single,2017-03-31,artist,222786,False,1,0.739,0.619,10,-6.669,1,0.162,0.0572,0.0,0.105,0.58,112.961,4,1,1,0,0,0,1,0,0,0,0,0,2017
+DNCE,Kissing Strangers,Kissing Strangers,single,2017-04-14,artist,202480,True,1,0.772,0.744,7,-5.803,1,0.0398,0.0547,0.0,0.0852,0.86,120.067,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Luis Fonsi,Despacito - Remix,Despacito Feat. Justin Bieber (Remix),single,2017-04-17,artist,228826,False,1,0.694,0.815,2,-4.328,1,0.12,0.229,0.0,0.0924,0.813,88.931,4,1,0,0,0,0,0,0,0,0,1,0,2017
+Charlie Puth,Attention,Attention,single,2017-04-20,artist,211475,False,1,0.774,0.626,3,-4.432,0,0.0432,0.0969,3.12e-05,0.0848,0.777,100.041,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Shawn Mendes,There's Nothing Holdin' Me Back,Illuminate (Deluxe),album,2017-04-20,artist,199440,False,1,0.857,0.8,2,-4.035,1,0.0583,0.381,0.0,0.0913,0.966,121.996,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Shawn Mendes,Mercy,Illuminate (Deluxe),album,2017-04-20,artist,208733,False,3,0.561,0.674,4,-4.882,0,0.0818,0.118,0.0,0.111,0.383,148.127,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Shawn Mendes,Mercy - Acoustic,Illuminate (Deluxe),album,2017-04-20,artist,219160,False,16,0.448,0.348,11,-6.647,0,0.0383,0.727,0.0,0.11,0.441,147.569,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Dua Lipa,Lost In Your Light (feat. Miguel),Lost in Your Light (feat. Miguel),single,2017-04-21,artist,203769,False,1,0.646,0.772,2,-3.826,1,0.0564,0.000402,0.0,0.102,0.414,117.097,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Khalid,Young Dumb & Broke,American Teen,album,2017-04-27,artist,202546,False,2,0.799,0.539,1,-6.351,1,0.0421,0.199,1.66e-05,0.165,0.394,136.948,4,1,0,0,0,0,0,0,0,0,0,0,2017
+Cashmere Cat,Quit (feat. Ariana Grande),9,album,2017-04-28,artist,258188,True,5,0.365,0.413,0,-7.369,0,0.0507,0.103,3.13e-05,0.103,0.125,84.746,3,1,0,0,0,0,0,0,0,0,0,0,2017
+Little Mix,No More Sad Songs - Acoustic Version,No More Sad Songs (Acoustic Version),single,2017-04-28,artist,192620,False,1,0.419,0.398,7,-6.339,0,0.0609,0.619,0.0,0.088,0.628,199.227,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Cashmere Cat,Love Incredible (feat. Camila Cabello),9,album,2017-04-28,artist,179608,False,9,0.339,0.508,10,-8.859,0,0.162,0.0531,0.0,0.203,0.191,166.681,4,1,0,0,0,0,0,0,0,0,0,0,2017
+Niall Horan,Slow Hands,Slow Hands,single,2017-05-04,artist,188174,False,1,0.728,0.426,0,-6.69,1,0.0509,0.0142,0.0,0.0546,0.844,85.908,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Logic,1-800-273-8255,Everybody,album,2017-05-05,artist,250173,True,10,0.627,0.572,5,-7.738,0,0.0373,0.568,1.52e-06,0.198,0.361,100.041,4,1,0,0,0,1,0,0,0,0,0,0,2017
+Harry Styles,Sign of the Times,Harry Styles,album,2017-05-12,artist,340706,False,2,0.516,0.595,5,-4.63,1,0.0313,0.0275,0.0,0.109,0.222,119.972,4,1,0,0,0,0,0,0,0,0,0,0,2017
+Enrique Iglesias,SUBEME LA RADIO REMIX (feat. CNCO),SUBEME LA RADIO REMIX (feat. CNCO),single,2017-05-12,artist,206933,False,1,0.702,0.8,0,-3.769,1,0.0717,0.0647,0.0,0.212,0.655,91.032,4,1,1,0,0,0,0,0,0,0,1,0,2017
+Paramore,Hard Times,After Laughter,album,2017-05-12,artist,182693,False,1,0.695,0.818,5,-5.379,0,0.0334,0.00647,4.87e-06,0.0219,0.916,119.965,4,1,0,0,1,0,0,0,0,1,0,0,2017
+Liam Payne,Strip That Down,Strip That Down,single,2017-05-18,artist,204502,False,1,0.874,0.497,6,-5.484,1,0.0562,0.22,0.0,0.0761,0.542,106.023,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Katy Perry,Swish Swish,Swish Swish,single,2017-05-18,artist,242173,True,1,0.835,0.719,5,-5.167,0,0.0559,0.0182,1.9e-05,0.127,0.532,119.946,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Camila Cabello,Crying in the Club,Crying in the Club,single,2017-05-18,artist,216391,False,1,0.334,0.617,6,-5.834,0,0.383,0.334,0.0,0.163,0.603,85.227,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Camila Cabello,I Have Questions,I Have Questions,single,2017-05-21,artist,221881,False,1,0.393,0.555,10,-6.096,0,0.276,0.405,0.0,0.105,0.22,167.999,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Little Mix,Power (feat. Stormzy),Power (feat. Stormzy),single,2017-05-26,artist,242282,False,1,0.568,0.863,7,-4.093,1,0.304,0.0405,5.97e-06,0.211,0.438,173.007,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Halsey,Strangers,Strangers,single,2017-05-26,artist,221205,False,1,0.69,0.784,11,-4.724,1,0.056,0.01,4.08e-05,0.22,0.284,109.969,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Major Lazer,"Know No Better (feat. Travis Scott, Camila Cabello & Quavo)",Know No Better (feat. Quavo),single,2017-06-01,artist,225849,False,1,0.738,0.814,7,-4.414,0,0.0999,0.132,9.64e-06,0.126,0.483,119.041,4,1,1,0,0,1,1,0,0,0,0,0,2017
+Fifth Harmony,Down,Down,single,2017-06-01,artist,164985,False,1,0.53,0.512,8,-7.094,1,0.133,0.0162,7.04e-05,0.128,0.401,196.121,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Bea Miller,like that,chapter two: red,single,2017-06-02,artist,185440,False,1,0.426,0.445,6,-5.776,0,0.169,0.183,0.0,0.661,0.347,56.966,4,1,1,0,1,1,1,0,0,0,0,0,2017
+Dua Lipa,New Rules,Dua Lipa (Deluxe),album,2017-06-02,artist,209320,False,10,0.762,0.7,9,-6.021,0,0.0694,0.00261,1.56e-05,0.153,0.608,116.073,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Dua Lipa,IDGAF,Dua Lipa (Deluxe),album,2017-06-02,artist,217946,True,5,0.836,0.544,7,-5.975,1,0.0943,0.0403,0.0,0.0824,0.51,97.028,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Halsey,Now Or Never,hopeless fountain kingdom (Deluxe),album,2017-06-02,artist,214801,False,6,0.663,0.575,6,-4.907,0,0.0458,0.1,3.16e-06,0.133,0.458,110.04,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Zedd,Stay - Acoustic,Stay (Acoustic),single,2017-06-09,artist,195051,False,1,0.625,0.574,5,-7.383,0,0.028,0.094,0.0,0.298,0.294,100.06,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Lost Kings,Look At Us Now,Look At Us Now,single,2017-06-09,artist,225686,False,1,0.637,0.851,11,-3.501,1,0.0434,0.00211,0.0012,0.161,0.39,132.923,4,1,1,0,0,1,1,0,0,0,0,0,2017
+Katy Perry,Chained To The Rhythm,Witness,album,2017-06-09,artist,237734,False,9,0.448,0.801,0,-5.363,1,0.165,0.0733,0.0,0.146,0.462,189.798,4,1,1,0,0,0,0,0,0,0,0,0,2017
+DJ Khaled,"I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",Grateful,album,2017-06-22,artist,288600,True,4,0.609,0.668,7,-4.284,1,0.0367,0.0552,0.0,0.167,0.811,80.924,4,1,0,0,0,1,0,0,0,0,0,0,2017
+DJ Khaled,Wild Thoughts (feat. Rihanna & Bryson Tiller),Grateful,album,2017-06-22,artist,204173,True,3,0.671,0.672,0,-3.094,0,0.0688,0.0329,0.0,0.118,0.632,97.979,4,1,0,0,0,1,0,0,0,0,0,0,2017
+Imagine Dragons,Believer,Evolve,album,2017-06-23,artist,204346,False,3,0.779,0.787,10,-4.305,0,0.108,0.0524,0.0,0.14,0.708,124.982,4,1,0,0,1,0,0,0,0,0,0,0,2017
+Imagine Dragons,Thunder,Evolve,album,2017-06-23,artist,187146,False,9,0.6,0.81,0,-4.749,1,0.0479,0.00683,0.21,0.155,0.298,167.88,4,1,0,0,1,0,0,0,0,0,0,0,2017
+Calvin Harris,"Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",Funk Wav Bounces Vol.1,album,2017-06-30,artist,223413,True,8,0.893,0.745,11,-3.105,0,0.0571,0.0642,0.0,0.0943,0.872,101.018,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Demi Lovato,Sorry Not Sorry,Sorry Not Sorry,single,2017-07-11,artist,203760,True,1,0.701,0.638,11,-6.889,0,0.238,0.0252,0.0,0.256,0.868,144.084,4,1,1,0,0,0,0,0,0,0,0,0,2017
+The Vamps,Middle Of The Night,Night & Day (Night Edition),album,2017-07-14,artist,174600,False,1,0.607,0.724,11,-4.313,0,0.0517,0.00392,0.0,0.0712,0.414,130.008,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Louis Tomlinson,Back to You (feat. Bebe Rexha & Digital Farm Animals),Back to You (feat. Bebe Rexha & Digital Farm Animals),single,2017-07-21,artist,190427,True,1,0.683,0.53,5,-4.918,0,0.142,0.207,0.0,0.394,0.645,75.016,4,1,0,0,0,0,0,0,0,0,0,0,2017
+Camila Cabello,OMG (feat. Quavo),OMG (feat. Quavo),single,2017-08-03,artist,228893,False,1,0.655,0.576,5,-6.735,0,0.0536,0.0295,0.115,0.132,0.167,139.953,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Camila Cabello,Havana,Havana,single,2017-08-03,artist,216896,False,1,0.768,0.517,7,-4.323,0,0.0312,0.186,3.8e-05,0.104,0.418,104.992,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Fifth Harmony,Angel,Angel,single,2017-08-10,artist,189440,True,1,0.738,0.525,1,-6.298,0,0.0371,0.00339,0.0,0.351,0.13,124.008,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Kesha,Praying,Rainbow,album,2017-08-11,artist,230266,False,5,0.543,0.39,10,-7.202,1,0.0322,0.489,0.0,0.111,0.303,73.415,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Bebe Rexha,Meant to Be (feat. Florida Georgia Line),All Your Fault: Pt. 2,single,2017-08-11,artist,163870,False,6,0.643,0.783,10,-6.458,1,0.0856,0.047,0.0,0.083,0.579,154.084,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Demi Lovato,Tell Me You Love Me,Tell Me You Love Me,single,2017-08-24,artist,236986,False,1,0.419,0.585,6,-5.435,1,0.0741,0.0258,0.0,0.143,0.256,72.635,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Lonely Night,Fifth Harmony,album,2017-08-25,artist,205306,True,6,0.569,0.452,4,-6.392,0,0.0703,0.049,0.0,0.142,0.222,125.083,5,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Bridges,Fifth Harmony,album,2017-08-25,artist,243266,False,10,0.681,0.705,11,-4.087,0,0.026,0.0828,0.0,0.325,0.43,109.969,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Messy,Fifth Harmony,album,2017-08-25,artist,194226,False,9,0.579,0.675,0,-4.978,1,0.0503,0.627,0.0,0.14,0.349,92.974,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Down,Fifth Harmony,album,2017-08-25,artist,165200,False,1,0.53,0.512,8,-7.094,1,0.133,0.0162,7.04e-05,0.128,0.401,196.121,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Deliver,Fifth Harmony,album,2017-08-25,artist,206520,False,5,0.721,0.746,4,-4.146,1,0.174,0.137,0.0,0.253,0.837,143.965,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Make You Mad,Fifth Harmony,album,2017-08-25,artist,174506,False,4,0.785,0.701,7,-4.587,1,0.0935,0.163,0.0,0.0835,0.601,100.947,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Sauced Up,Fifth Harmony,album,2017-08-25,artist,197786,False,3,0.777,0.572,1,-4.663,1,0.0408,0.0568,0.0,0.114,0.326,100.0,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,He Like That,Fifth Harmony,album,2017-08-25,artist,217106,False,2,0.592,0.681,0,-5.597,1,0.141,0.362,0.0,0.142,0.491,147.016,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Don't Say You Love Me,Fifth Harmony,album,2017-08-25,artist,193066,False,7,0.585,0.633,9,-4.944,1,0.1,0.497,0.0,0.145,0.378,101.707,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Angel,Fifth Harmony,album,2017-08-25,artist,189440,True,8,0.738,0.525,1,-6.298,0,0.0371,0.00339,0.0,0.351,0.13,124.008,4,1,1,0,0,0,0,0,0,0,0,0,2017
+ZAYN,Dusk Till Dawn - Radio Edit,Dusk Till Dawn (Radio Edit),single,2017-09-07,artist,239000,False,1,0.258,0.437,11,-6.593,0,0.039,0.101,1.27e-06,0.106,0.0967,180.043,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Demi Lovato,You Don't Do It For Me Anymore,You Don't Do It For Me Anymore,single,2017-09-08,artist,197733,False,1,0.373,0.418,1,-6.316,1,0.0533,0.0901,0.0,0.0918,0.117,95.557,3,1,1,0,0,0,0,0,0,0,0,0,2017
+J Balvin,Mi Gente (feat. Beyoncé),Mi Gente (feat. Beyoncé),single,2017-09-28,artist,209733,False,1,0.705,0.714,11,-6.39,0,0.0792,0.0249,0.0,0.253,0.434,104.996,4,0,0,0,0,1,0,0,0,0,1,0,2017
+Charlie Puth,How Long,How Long,single,2017-10-05,artist,198237,False,1,0.849,0.581,1,-5.243,0,0.0767,0.189,3.61e-06,0.0805,0.779,110.008,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Selena Gomez,Wolves,Wolves,single,2017-10-25,artist,197993,False,1,0.715,0.802,11,-4.647,0,0.0394,0.139,0.0,0.177,0.327,124.989,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Ty Dolla $ign,In Your Phone (with Lauren Jauregui),Beach House 3,album,2017-10-27,artist,150440,True,14,0.725,0.727,1,-4.493,1,0.0443,0.0846,0.0,0.157,0.436,141.944,4,1,0,0,0,1,0,1,0,0,0,0,2017
+Pitbull,Por Favor,Por Favor,single,2017-10-27,artist,199066,False,1,0.752,0.761,2,-4.63,1,0.0926,0.209,2.64e-06,0.0625,0.697,98.025,4,1,1,0,0,1,0,0,0,0,1,0,2017
+Fifth Harmony,Por Favor - Spanglish Version,Por Favor (Spanglish Version),single,2017-10-27,artist,198911,False,1,0.759,0.76,2,-5.427,1,0.0706,0.188,2.1e-06,0.0607,0.733,98.029,4,1,1,0,0,0,0,0,0,0,0,0,2017
+RedOne,Boom Boom,Boom Boom,single,2017-10-27,artist,248363,False,1,0.749,0.759,7,-8.065,0,0.0451,0.00453,0.0,0.202,0.584,110.004,4,1,0,0,0,0,0,0,0,0,0,0,2017
+Sam Smith,No Peace,The Thrill Of It All (Special Edition),album,2017-11-03,artist,283294,False,8,0.66,0.542,4,-8.11,0,0.077,0.343,3.89e-06,0.122,0.152,135.828,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Maroon 5,What Lovers Do (feat. SZA),Red Pill Blues (Deluxe),album,2017-11-03,artist,199849,False,2,0.795,0.615,5,-5.211,0,0.0671,0.0786,2.98e-06,0.0855,0.393,110.009,4,1,0,0,1,0,0,0,0,0,0,0,2017
+Sam Smith,Too Good At Goodbyes,The Thrill Of It All (Special Edition),album,2017-11-03,artist,201000,False,1,0.681,0.372,5,-8.237,1,0.0432,0.64,0.0,0.169,0.476,91.873,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Steve Aoki,All Night,All Night,single,2017-11-17,artist,205333,False,1,0.545,0.865,6,-2.601,0,0.0522,0.0724,4.79e-06,0.919,0.332,89.992,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Luis Fonsi,Échame La Culpa,Échame La Culpa,single,2017-11-17,artist,173720,False,1,0.724,0.895,7,-3.617,1,0.0411,0.0322,0.0,0.097,0.64,96.022,4,1,0,0,0,0,0,0,0,0,1,0,2017
+Ed Sheeran,Perfect Duet (Ed Sheeran & Beyoncé),Perfect Duet (Ed Sheeran & Beyoncé),single,2017-11-30,artist,259550,False,1,0.587,0.299,8,-7.365,1,0.0263,0.779,0.0,0.123,0.356,94.992,3,1,0,0,0,0,0,0,0,0,0,0,2017
+Andy Grammer,Fresh Eyes,The Good Parts,album,2017-12-01,artist,198001,False,5,0.828,0.56,0,-6.685,1,0.0327,0.548,3.66e-05,0.15,0.872,122.054,4,1,1,0,1,0,0,0,0,0,0,0,2017
+Fifth Harmony,He Like That - Recorded at Spotify Studios NYC,Spotify Singles,single,2017-12-06,artist,217570,False,1,0.562,0.542,0,-8.23,1,0.0566,0.00334,0.0,0.0959,0.59,147.067,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Fifth Harmony,Feels - Recorded at Spotify Studios NYC,Spotify Singles,single,2017-12-06,artist,95628,False,2,0.545,0.292,11,-10.594,0,0.0331,0.86,0.0,0.2,0.756,99.855,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Camila Cabello,Real Friends,Real Friends,single,2017-12-06,artist,213932,False,1,0.74,0.303,3,-8.612,1,0.117,0.835,0.0,0.0782,0.819,91.958,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Loren Allred,Never Enough,The Greatest Showman (Original Motion Picture Soundtrack),album,2017-12-08,artist,207786,False,6,0.277,0.394,8,-8.903,1,0.0336,0.423,0.0,0.0952,0.227,86.777,3,0,0,0,0,0,0,0,0,0,0,0,2017
+Zac Efron,Rewrite The Stars,The Greatest Showman (Original Motion Picture Soundtrack),album,2017-12-08,artist,217440,False,8,0.684,0.619,10,-7.005,1,0.0386,0.0716,0.0,0.122,0.284,125.046,4,1,1,0,0,0,0,0,0,0,0,0,2017
+Keala Settle,This Is Me,The Greatest Showman (Original Motion Picture Soundtrack),album,2017-12-08,artist,234706,False,7,0.284,0.704,2,-7.276,1,0.186,0.00583,0.000115,0.0424,0.1,191.702,4,0,0,0,0,0,0,0,0,0,0,0,2017
+Camila Cabello,Crown (with Camila Cabello & Grey),Crown (with Camila Cabello & Grey) [From Bright: The Album],single,2017-12-15,artist,201520,False,1,0.498,0.608,7,-5.435,0,0.0733,0.221,0.0,0.121,0.123,169.936,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Camila Cabello,Never Be the Same,Never Be the Same,single,2017-12-17,artist,227087,False,1,0.643,0.709,0,-4.343,1,0.0733,0.145,0.000449,0.115,0.264,129.961,4,1,1,0,0,0,1,0,0,0,0,0,2017
+Camila Cabello,In the Dark,Camila,album,2018-01-12,artist,219826,False,9,0.425,0.548,7,-6.762,1,0.114,0.21,0.0,0.115,0.282,175.756,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Camila Cabello,Something's Gotta Give,Camila,album,2018-01-12,artist,236360,False,8,0.545,0.458,5,-4.6,0,0.0279,0.367,0.0,0.118,0.164,79.943,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Camila Cabello,Consequences,Camila,album,2018-01-12,artist,178466,False,6,0.455,0.292,0,-6.792,1,0.0563,0.889,0.0,0.106,0.43,84.339,5,1,1,0,0,0,1,0,0,0,0,0,2018
+Camila Cabello,She Loves Control,Camila,album,2018-01-12,artist,177160,False,3,0.65,0.758,2,-4.02,1,0.116,0.166,0.0,0.0889,0.663,94.9,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Camila Cabello,Inside Out,Camila,album,2018-01-12,artist,182560,False,5,0.737,0.697,8,-5.31,1,0.0895,0.43,0.000382,0.0821,0.655,94.101,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Camila Cabello,All These Years,Camila,album,2018-01-12,artist,164373,False,2,0.732,0.436,1,-7.409,0,0.117,0.609,0.0,0.108,0.475,94.852,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Camila Cabello,Into It,Camila,album,2018-01-12,artist,175653,False,10,0.569,0.649,11,-8.175,1,0.482,0.451,0.0,0.128,0.441,108.77,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Zedd,The Middle,The Middle,single,2018-01-23,artist,184732,False,1,0.748,0.652,7,-3.02,1,0.058,0.208,0.0,0.128,0.431,106.914,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Topic,Perfect,Perfect,single,2018-01-26,artist,205120,False,1,0.657,0.66,1,-5.129,0,0.0983,0.0877,0.0,0.133,0.421,155.926,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Marshmello,FRIENDS,FRIENDS,single,2018-02-09,artist,202620,True,1,0.626,0.88,9,-2.384,0,0.0504,0.205,0.0,0.128,0.534,95.079,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Kendrick Lamar,All The Stars (with SZA),Black Panther The Album Music From And Inspired By,album,2018-02-09,artist,232186,True,2,0.532,0.642,5,-4.891,0,0.111,0.0548,0.000246,0.0991,0.536,193.016,4,0,0,0,0,1,0,0,0,0,0,0,2018
+Khalid,Love Lies (with Normani),Love Lies (with Normani),single,2018-02-14,artist,201707,False,1,0.708,0.648,6,-5.626,1,0.0449,0.0956,0.0,0.134,0.338,143.955,4,1,0,0,0,0,0,0,0,0,0,0,2018
+Post Malone,Psycho (feat. Ty Dolla $ign),Psycho (feat. Ty Dolla $ign),single,2018-02-23,artist,220880,True,1,0.74,0.558,8,-8.115,1,0.102,0.566,0.0,0.112,0.421,140.057,4,0,0,0,0,1,0,0,0,0,0,0,2018
+King Princess,1950,1950,single,2018-02-23,artist,225133,True,1,0.6,0.535,4,-7.043,1,0.107,0.648,4.7e-06,0.162,0.269,71.912,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Calum Scott,You Are The Reason,Only Human (Deluxe),album,2018-03-09,artist,204326,False,4,0.329,0.235,10,-7.699,1,0.0303,0.918,0.0,0.137,0.22,171.006,3,1,0,0,0,0,0,0,0,0,0,0,2018
+Sabrina Carpenter,Alien,Alien,single,2018-03-16,artist,174840,False,1,0.72,0.659,10,-4.727,0,0.0403,0.0588,0.0,0.0662,0.567,105.955,4,1,1,0,0,0,1,0,0,0,0,0,2018
+NOTD,I Wanna Know (feat. Bea Miller),I Wanna Know (feat. Bea Miller),single,2018-03-16,artist,197938,False,1,0.661,0.725,6,-4.859,1,0.0563,0.0253,0.0,0.123,0.605,119.927,4,1,1,0,0,0,1,0,0,0,0,0,2018
+David Guetta,Flames,Flames,single,2018-03-22,artist,195000,False,1,0.609,0.726,5,-4.346,0,0.0414,0.0723,8.45e-06,0.0895,0.362,93.958,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Hayley Kiyoko,Feelings,Expectations,album,2018-03-30,artist,216546,False,2,0.699,0.888,10,-4.002,0,0.079,0.186,4.15e-06,0.114,0.449,110.965,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Hayley Kiyoko,Curious,Expectations,album,2018-03-30,artist,183280,False,7,0.788,0.703,1,-5.986,0,0.127,0.0753,6.13e-05,0.333,0.442,104.049,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Calvin Harris,One Kiss (with Dua Lipa),One Kiss (with Dua Lipa),single,2018-04-06,artist,214846,False,1,0.791,0.862,9,-3.24,0,0.11,0.037,2.19e-05,0.0814,0.592,123.994,4,1,1,0,0,0,1,0,0,0,0,0,2018
+ELI,Change Your Mind,Change Your Mind,single,2018-04-09,artist,173675,False,1,0.826,0.499,6,-9.075,1,0.0735,0.402,0.0,0.405,0.582,114.993,4,1,0,0,0,0,0,0,0,0,0,0,2018
+Toploader,Dancing in the Moonlight,Happiness Forever,compilation,2018-04-10,artist,230120,False,66,0.633,0.805,10,-5.032,1,0.0356,0.0563,0.0,0.341,0.846,119.405,4,0,0,0,1,0,0,0,0,0,0,0,2018
+ZAYN,Let Me,Let Me,single,2018-04-12,artist,185702,False,1,0.46,0.567,9,-5.637,1,0.0515,0.239,6.04e-06,0.0934,0.189,168.419,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Ariana Grande,no tears left to cry,no tears left to cry,single,2018-04-20,artist,205946,False,1,0.703,0.696,0,-5.482,1,0.0529,0.0375,5.65e-06,0.274,0.366,121.969,4,1,1,0,0,0,0,0,0,0,0,0,2018
+HEDEGAARD,Need You Right Now,Need You Right Now,single,2018-04-20,artist,205914,True,1,0.754,0.724,4,-4.105,0,0.0272,0.1,0.0,0.063,0.677,110.016,4,1,0,0,0,0,1,0,0,0,0,0,2018
+Anne-Marie,2002,Speak Your Mind (Deluxe),album,2018-04-27,artist,186986,False,10,0.697,0.683,1,-2.881,0,0.117,0.0372,0.0,0.137,0.603,96.133,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Charlie Puth,How Long,Voicenotes,album,2018-05-11,artist,200853,False,4,0.845,0.561,1,-5.253,0,0.0778,0.211,3.49e-06,0.0383,0.811,109.974,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Charlie Puth,Done for Me (feat. Kehlani),Voicenotes,album,2018-05-11,artist,180493,False,5,0.856,0.632,6,-3.692,0,0.074,0.193,0.0,0.0688,0.697,112.009,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Tyga,Taste (feat. Offset),Taste (feat. Offset),single,2018-05-16,artist,232959,True,1,0.884,0.559,0,-7.442,1,0.12,0.0236,0.0,0.101,0.342,97.994,4,1,1,0,0,1,0,0,0,0,0,0,2018
+Clean Bandit,Solo (feat. Demi Lovato),Solo (feat. Demi Lovato),single,2018-05-17,artist,222653,False,1,0.737,0.636,11,-4.546,0,0.0437,0.0441,6.66e-05,0.35,0.565,105.005,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Tiësto,Jackie Chan,Jackie Chan,single,2018-05-18,artist,215759,True,1,0.747,0.834,3,-2.867,0,0.045,0.374,0.0,0.0586,0.687,128.005,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Jonas Blue,Rise,Rise,single,2018-05-25,artist,194407,False,1,0.69,0.784,1,-4.653,1,0.032,0.323,0.0,0.203,0.669,106.066,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Alec Benjamin,Let Me Down Slowly,Let Me Down Slowly,single,2018-05-25,artist,169180,False,1,0.649,0.548,1,-5.692,0,0.0318,0.733,0.0,0.136,0.506,150.036,4,1,0,0,0,0,1,0,0,0,0,0,2018
+Maroon 5,Girls Like You (feat. Cardi B),Girls Like You (feat. Cardi B),single,2018-05-30,artist,235545,True,1,0.851,0.541,0,-6.825,1,0.0505,0.568,0.0,0.13,0.448,124.959,4,1,0,0,1,0,0,0,0,0,0,0,2018
+Lauv,I Like Me Better,I met you when I was 18. (the playlist),album,2018-05-31,artist,197436,False,1,0.752,0.505,9,-7.621,1,0.253,0.535,2.55e-06,0.104,0.419,91.97,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Lauv,Paranoid,I met you when I was 18. (the playlist),album,2018-05-31,artist,192529,False,4,0.701,0.241,2,-8.388,0,0.0515,0.644,0.000171,0.149,0.132,107.969,3,1,1,0,0,0,1,0,0,0,0,0,2018
+Lauv,Paris in the Rain,I met you when I was 18. (the playlist),album,2018-05-31,artist,204712,False,2,0.426,0.408,3,-9.419,1,0.0524,0.771,7.88e-06,0.394,0.528,76.309,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Lauv,Enemies,I met you when I was 18. (the playlist),album,2018-05-31,artist,194754,False,8,0.696,0.693,3,-4.64,1,0.044,0.175,0.0,0.122,0.601,126.025,4,1,1,0,0,0,1,0,0,0,0,0,2018
+NOTD,I Wanna Know - Acoustic,I Wanna Know (Acoustic),single,2018-06-01,artist,200620,False,1,0.668,0.403,6,-5.321,1,0.0362,0.758,0.0,0.184,0.394,120.057,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Dynoro,In My Mind,In My Mind,single,2018-06-08,artist,184560,False,1,0.694,0.77,6,-5.335,1,0.149,0.176,1.1e-05,0.118,0.163,125.905,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Nicki Minaj,Bed (feat. Ariana Grande),Bed (feat. Ariana Grande),single,2018-06-14,artist,189360,True,1,0.589,0.714,7,-6.308,1,0.258,0.0551,0.00013,0.131,0.42,118.611,5,1,1,0,0,1,0,0,0,0,0,0,2018
+Martin Garrix,Ocean (feat. Khalid),Ocean (feat. Khalid),single,2018-06-15,artist,216419,False,1,0.506,0.693,0,-7.265,0,0.0412,0.584,9.58e-05,0.0891,0.221,139.912,4,1,1,0,0,0,1,0,0,0,0,0,2018
+5 Seconds of Summer,Lie To Me,Youngblood (Deluxe),album,2018-06-15,artist,150467,False,3,0.633,0.478,0,-5.571,1,0.0359,0.0115,0.0,0.103,0.692,159.951,4,1,1,0,0,0,1,0,0,0,0,0,2018
+The Carters,APESHIT,EVERYTHING IS LOVE,album,2018-06-18,artist,264853,True,2,0.706,0.785,2,-6.475,1,0.271,0.0131,0.0,0.164,0.377,160.033,4,1,1,0,0,1,0,1,0,0,0,0,2018
+Cheat Codes,Only You (with Little Mix),Only You (with Little Mix),single,2018-06-22,artist,189401,False,1,0.607,0.74,4,-4.793,0,0.172,0.0829,0.0,0.105,0.219,108.05,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Panic! At The Disco,High Hopes,Pray for the Wicked,album,2018-06-22,artist,190946,False,4,0.579,0.904,5,-2.729,1,0.0618,0.193,0.0,0.064,0.681,82.014,4,0,0,0,1,0,0,0,0,0,0,0,2018
+New Hope Club,Medicine,Medicine,single,2018-06-22,artist,205520,False,1,0.723,0.74,0,-4.536,0,0.0295,0.045,0.0,0.203,0.58,106.993,4,1,0,0,0,0,0,0,0,0,0,0,2018
+Dean Lewis,Be Alright,Be Alright,single,2018-06-29,artist,196373,True,1,0.553,0.586,11,-6.319,1,0.0362,0.697,0.0,0.0813,0.443,126.684,4,1,0,0,1,0,0,0,0,0,0,0,2018
+Drake,In My Feelings,Scorpion,album,2018-06-29,artist,217933,True,9,0.735,0.482,8,-9.445,1,0.139,0.00623,0.0144,0.448,0.315,181.995,4,1,0,0,0,1,0,0,0,0,0,0,2018
+Why Don't We,Talk,Talk,single,2018-07-06,artist,190346,False,1,0.795,0.7,6,-5.221,0,0.107,0.0588,0.0,0.0977,0.798,120.002,4,1,1,0,0,0,0,0,0,0,0,0,2018
+benny blanco,Eastside (with Halsey & Khalid),Eastside (with Halsey & Khalid),single,2018-07-12,artist,173799,False,1,0.56,0.68,6,-7.648,0,0.321,0.555,0.0,0.116,0.319,89.391,4,1,0,0,0,1,1,0,0,0,0,0,2018
+Ariana Grande,God is a woman,God is a woman,single,2018-07-13,artist,197573,True,1,0.604,0.673,1,-5.979,1,0.0545,0.0268,3.32e-05,0.187,0.287,144.971,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Zedd,Happy Now,Happy Now,single,2018-07-18,artist,207029,False,1,0.503,0.741,4,-5.128,1,0.047,0.579,1.49e-06,0.0712,0.458,88.335,3,1,1,0,0,0,1,0,0,0,0,0,2018
+AJ Mitchell,I Don't Want You Back,Hopeful,single,2018-07-20,artist,224144,False,4,0.613,0.347,5,-6.486,1,0.034,0.591,0.0,0.0959,0.25,109.764,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Bazzi,Beautiful (feat. Camila Cabello),Beautiful (feat. Camila Cabello),single,2018-08-02,artist,180000,False,1,0.638,0.717,2,-4.722,1,0.0337,0.346,0.0,0.105,0.249,100.027,4,1,1,0,0,1,1,0,0,0,0,0,2018
+Red Velvet,"Bad Boy - English Version, Bonus Track",Summer Magic - Summer Mini Album,album,2018-08-06,artist,208666,False,7,0.723,0.726,2,-4.512,1,0.043,0.21,0.0,0.061,0.839,150.011,4,1,0,0,0,0,0,0,0,0,0,1,2018
+Ariana Grande,breathin,Sweetener,album,2018-08-17,artist,198160,True,9,0.568,0.656,8,-5.413,1,0.0433,0.0211,1.37e-05,0.213,0.364,100.049,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Ava Max,Sweet but Psycho,Sweet but Psycho,single,2018-08-17,artist,187436,False,1,0.719,0.704,1,-4.724,1,0.0476,0.0691,0.0,0.166,0.628,133.002,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Marshmello,Happier,Happier,single,2018-08-17,artist,214289,False,1,0.687,0.792,5,-2.749,1,0.0452,0.191,0.0,0.167,0.671,100.015,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Eminem,Venom - Music From The Motion Picture,Kamikaze,album,2018-08-31,artist,269554,True,13,0.749,0.794,0,-5.063,1,0.064,0.0193,0.0,0.543,0.46,135.959,4,0,0,0,0,1,0,0,0,0,0,0,2018
+Eminem,Lucky You (feat. Joyner Lucas),Kamikaze,album,2018-08-31,artist,244679,True,3,0.876,0.786,10,-4.884,0,0.306,0.0627,0.0,0.127,0.575,153.068,4,0,0,0,0,1,0,0,0,0,0,0,2018
+Charlie Puth,The Way I Am - Acoustic,The Way I Am (Acoustic),single,2018-09-07,artist,188021,False,1,0.571,0.263,1,-9.965,1,0.0554,0.802,0.0,0.119,0.775,113.574,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Machine Gun Kelly,RAP DEVIL,RAP DEVIL,single,2018-09-08,artist,286117,True,1,0.895,0.839,0,-4.512,1,0.227,0.217,3e-06,0.239,0.756,149.951,4,1,0,0,0,1,0,0,0,0,0,0,2018
+Eminem,Killshot,Killshot,single,2018-09-19,artist,253579,True,1,0.893,0.651,0,-8.647,0,0.367,0.0995,0.0,0.371,0.6,105.835,4,0,0,0,0,1,0,0,0,0,0,0,2018
+Dinah Jane,Bottled Up,Bottled Up,single,2018-09-21,artist,199300,True,1,0.843,0.58,2,-4.271,1,0.0591,0.107,1.84e-05,0.0645,0.638,98.023,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Camila Cabello,Havana - Live,Havana (Live),single,2018-09-21,artist,248572,False,1,0.641,0.776,0,-5.176,0,0.0359,0.114,0.000134,0.362,0.419,104.956,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Shawn Mendes,Lost In Japan - Remix,Lost In Japan (Remix),single,2018-09-27,artist,201253,False,1,0.706,0.855,10,-5.377,1,0.215,0.0911,0.0,0.347,0.293,107.184,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Lauv,There's No Way (feat. Julia Michaels),There's No Way (feat. Julia Michaels),single,2018-09-27,artist,174860,False,1,0.755,0.625,2,-7.114,1,0.0896,0.49,0.0,0.157,0.374,147.02,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Halsey,Without Me,Without Me,single,2018-10-04,artist,201660,True,1,0.752,0.488,6,-7.05,1,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Jonas Blue,Polaroid,Polaroid,single,2018-10-05,artist,193377,False,1,0.652,0.897,7,-4.481,0,0.036,0.293,0.0,0.0722,0.475,114.033,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Camila Cabello,Consequences - orchestra,Consequences (orchestra),single,2018-10-09,artist,181913,False,1,0.547,0.289,0,-8.131,1,0.0348,0.645,0.0,0.148,0.213,104.851,3,1,1,0,0,0,1,0,0,0,0,0,2018
+Little Mix,Woman Like Me (feat. Nicki Minaj),Woman Like Me (feat. Nicki Minaj),single,2018-10-12,artist,228206,True,1,0.757,0.849,5,-3.424,0,0.0536,0.173,0.0,0.0878,0.826,150.036,4,1,1,0,0,0,0,0,0,0,0,0,2018
+ZAYN,Fingers,Fingers,single,2018-10-18,artist,173867,True,1,0.666,0.426,7,-9.228,0,0.147,0.383,1.56e-05,0.109,0.587,159.963,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Dua Lipa,Kiss and Make Up,Dua Lipa (Complete Edition),album,2018-10-19,artist,189173,False,20,0.678,0.729,8,-4.188,1,0.137,0.0658,0.0,0.303,0.643,99.895,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Normani,Checklist (with Calvin Harris) (feat. WizKid),Normani x Calvin Harris,single,2018-10-22,artist,169813,False,1,0.89,0.624,1,-3.966,1,0.103,0.0937,5.44e-06,0.0903,0.762,116.056,4,1,1,0,0,1,0,1,0,0,0,0,2018
+Normani,Slow Down (with Calvin Harris),Normani x Calvin Harris,single,2018-10-22,artist,205986,True,2,0.853,0.691,0,-4.342,1,0.0526,0.0877,7.54e-05,0.11,0.561,124.043,4,1,1,0,0,1,0,1,0,0,0,0,2018
+Lauren Jauregui,Expectations,Expectations,single,2018-10-24,artist,204066,True,1,0.576,0.443,4,-7.477,0,0.0754,0.00923,1.88e-06,0.124,0.452,180.08,3,1,1,0,0,0,0,1,0,0,0,0,2018
+Ariana Grande,"thank u, next","thank u, next",single,2018-11-03,artist,207333,True,1,0.724,0.647,1,-5.642,1,0.0658,0.28,0.0,0.102,0.435,106.96,4,1,1,0,0,0,0,0,0,0,0,0,2018
+CNCO,Hey DJ - Remix,Hey DJ (Remix),single,2018-11-09,artist,189363,False,1,0.564,0.89,5,-4.286,1,0.107,0.0918,0.0,0.0819,0.636,180.112,4,1,0,0,0,0,0,0,0,0,1,0,2018
+Shawn Mendes,Use Somebody - Recorded at Spotify Studios NYC,Spotify Singles,single,2018-11-14,artist,176586,False,2,0.366,0.519,5,-6.066,1,0.0331,0.35,0.0,0.145,0.308,124.632,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Shawn Mendes,Lost In Japan - Recorded at Spotify Studios NYC,Spotify Singles,single,2018-11-14,artist,214586,False,1,0.438,0.508,7,-7.485,0,0.0649,0.716,0.0,0.057,0.541,101.698,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Normani,Waves (feat. 6LACK),Waves (feat. 6LACK),single,2018-11-15,artist,215670,True,1,0.578,0.588,0,-4.92,0,0.255,0.415,0.0,0.114,0.3,79.174,5,1,1,0,0,1,0,1,0,0,0,0,2018
+Little Mix,Think About Us,LM5 (Deluxe),album,2018-11-16,artist,235146,False,3,0.477,0.791,8,-3.331,1,0.12,0.0709,0.0,0.112,0.603,175.869,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Little Mix,Woman Like Me (feat. Nicki Minaj),LM5 (Deluxe),album,2018-11-16,artist,229720,True,2,0.754,0.854,5,-3.449,0,0.0608,0.177,0.0,0.0808,0.8,75.002,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Little Mix,Monster In Me,LM5 (Deluxe),album,2018-11-16,artist,225053,False,5,0.529,0.646,9,-4.371,1,0.0822,0.645,0.0,0.134,0.405,145.568,4,1,1,0,0,0,0,0,0,0,0,0,2018
+Clean Bandit,Out at Night (feat. KYLE & Big Boi),Out at Night (feat. KYLE & Big Boi),single,2018-11-26,artist,234546,False,1,0.736,0.71,5,-7.138,0,0.0429,0.0906,6.1e-05,0.216,0.334,105.005,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Clean Bandit,I Miss You (feat. Julia Michaels),What Is Love? (Deluxe Edition),album,2018-11-30,artist,205986,False,11,0.693,0.624,0,-7.482,0,0.0448,0.299,7.64e-06,0.0955,0.369,105.002,4,1,1,0,0,0,1,0,0,0,0,0,2018
+Red Velvet,RBB (Really Bad Boy) - English Version,RBB - The 5th Mini Album,single,2018-11-30,artist,188471,False,6,0.717,0.867,2,-3.26,1,0.0319,0.0117,5.46e-05,0.118,0.376,150.109,4,1,0,0,0,0,0,0,0,0,0,1,2018
+Lauren Jauregui,More Than That,More Than That,single,2019-01-11,artist,158733,False,1,0.595,0.442,4,-12.899,0,0.282,0.0709,0.0,0.139,0.297,48.702,4,1,1,0,0,0,0,1,0,0,0,0,2019
+Sam Smith,Dancing With A Stranger (with Normani),Dancing With A Stranger (with Normani),single,2019-01-11,artist,171029,False,1,0.741,0.52,8,-7.513,1,0.0656,0.45,1.97e-06,0.222,0.347,102.998,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Julia Michaels,What A Time (feat. Niall Horan),Inner Monologue Part 1,single,2019-01-24,artist,173306,False,6,0.516,0.467,0,-6.184,1,0.0302,0.662,0.0,0.0853,0.386,132.861,4,1,1,0,0,0,1,0,0,0,0,0,2019
+Tiffany Young,Born Again,Born Again,single,2019-01-25,artist,192982,False,1,0.428,0.665,6,-5.153,0,0.0508,0.00744,1.91e-06,0.237,0.259,173.781,4,1,0,0,0,0,0,1,0,0,0,1,2019
+Ally Brooke,Low Key (feat. Tyga),Low Key (feat. Tyga),single,2019-01-31,artist,201385,False,1,0.79,0.546,6,-5.553,0,0.0383,0.369,2.55e-06,0.128,0.748,109.014,4,1,0,0,0,0,0,0,0,0,0,0,2019
+New Hope Club,Permission,Permission,single,2019-02-01,artist,194240,False,1,0.758,0.792,11,-6.127,1,0.0795,0.0675,0.0,0.112,0.782,105.019,4,1,0,0,0,0,0,0,0,0,0,0,2019
+Ariana Grande,"break up with your girlfriend, i'm bored","thank u, next",album,2019-02-08,artist,190440,True,12,0.726,0.554,5,-5.29,0,0.0917,0.0421,0.0,0.106,0.335,169.999,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Tiffany Young,Lips On Lips,Lips On Lips,single,2019-02-14,artist,224253,False,1,0.586,0.641,5,-5.763,1,0.0483,0.0822,0.0,0.122,0.376,127.166,4,1,0,0,0,0,0,1,0,0,0,1,2019
+Tiffany Young,Runaway,Lips On Lips,single,2019-02-22,artist,226926,False,5,0.728,0.558,5,-6.399,1,0.0336,0.176,0.0,0.145,0.376,129.998,4,1,0,0,0,0,0,1,0,0,0,1,2019
+AJ Mitchell,All My Friends,All My Friends,single,2019-03-01,artist,172787,False,1,0.62,0.64,4,-5.285,1,0.0334,0.0488,0.0,0.0647,0.445,90.032,4,1,1,0,0,0,1,0,0,0,0,0,2019
+Jonas Brothers,Sucker,Sucker,single,2019-03-01,artist,181040,False,1,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Ava Max,So Am I,So Am I,single,2019-03-07,artist,183026,False,1,0.682,0.656,6,-4.67,1,0.0435,0.0737,0.0,0.353,0.607,130.089,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Bazzi,Paradise,Paradise,single,2019-04-04,artist,169038,True,1,0.844,0.644,11,-6.273,0,0.0479,0.0828,0.0,0.113,0.591,122.061,4,1,1,0,0,1,1,0,0,0,0,0,2019
+Jonas Brothers,Cool,Cool,single,2019-04-05,artist,167120,False,1,0.681,0.603,0,-5.533,1,0.0458,0.0105,0.0,0.159,0.643,79.007,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Dinah Jane,Heard It All Before,Dinah Jane 1,single,2019-04-19,artist,201331,False,1,0.733,0.819,10,-1.845,0,0.0657,0.199,1.88e-06,0.14,0.53,96.525,4,1,1,0,0,0,0,0,0,0,0,0,2019
+NIKI,lowkey,lowkey,single,2019-04-24,artist,171355,True,1,0.752,0.494,0,-8.18,1,0.0559,0.432,0.0,0.0869,0.227,117.901,4,1,0,0,0,0,0,1,0,0,0,0,2019
+New Hope Club,Love Again,Love Again,single,2019-05-03,artist,203506,False,1,0.542,0.751,11,-3.932,0,0.0426,0.132,0.0,0.129,0.197,87.982,4,1,0,0,0,0,0,0,0,0,0,0,2019
+ZAYN,"A Whole New World (End Title) - From ""Aladdin""","A Whole New World (End Title) [From ""Aladdin""]",single,2019-05-09,artist,242956,False,1,0.302,0.414,2,-8.16,1,0.0319,0.0575,0.0,0.0861,0.105,110.508,4,1,1,0,0,0,0,0,0,0,0,0,2019
+James Arthur,Falling Like The Stars,Falling Like The Stars,single,2019-05-10,artist,212720,False,1,0.296,0.351,6,-9.538,1,0.0352,0.823,1.45e-06,0.11,0.19,177.06,3,1,0,0,0,0,0,0,0,0,0,0,2019
+Lewis Capaldi,Bruises,Divinely Uninspired To A Hellish Extent,album,2019-05-17,artist,220492,False,2,0.736,0.308,4,-7.83,1,0.0677,0.946,0.0,0.186,0.361,111.202,4,1,0,0,0,0,0,0,0,0,0,0,2019
+Lewis Capaldi,Someone You Loved,Divinely Uninspired To A Hellish Extent,album,2019-05-17,artist,182160,False,4,0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,4,1,0,0,0,0,0,0,0,0,0,0,2019
+Naomi Scott,Speechless (Full),Aladdin (Original Motion Picture Soundtrack),album,2019-05-22,artist,208800,False,12,0.474,0.489,6,-7.625,0,0.0342,0.467,0.0,0.119,0.23,124.844,4,1,0,0,0,0,0,0,0,0,0,0,2019
+5 Seconds of Summer,Easier,Easier,single,2019-05-23,artist,157492,False,1,0.505,0.428,5,-5.604,1,0.221,0.489,0.0,0.0977,0.618,175.813,4,1,1,0,0,0,1,0,0,0,0,0,2019
+Ally Brooke,Lips Don't Lie (feat. A Boogie Wit da Hoodie),Lips Don't Lie (feat. A Boogie Wit da Hoodie),single,2019-05-24,artist,166762,False,1,0.644,0.59,6,-6.358,0,0.168,0.0221,0.0,0.18,0.669,87.915,4,1,0,0,0,0,0,0,0,0,0,0,2019
+Mark Ronson,Find U Again (feat. Camila Cabello),Find U Again (feat. Camila Cabello),single,2019-05-30,artist,176416,False,1,0.605,0.664,8,-7.162,1,0.0316,0.00548,3e-06,0.204,0.164,103.997,4,1,1,0,0,0,0,1,0,0,0,0,2019
+Katy Perry,Never Really Over,Never Really Over,single,2019-05-31,artist,223523,False,1,0.77,0.882,8,-4.792,1,0.0602,0.194,0.0,0.316,0.385,99.991,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Jonas Brothers,Only Human,Happiness Begins,album,2019-06-07,artist,183000,False,3,0.795,0.496,0,-5.883,1,0.0722,0.108,0.0,0.0645,0.874,94.01,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Jonas Brothers,Cool,Happiness Begins,album,2019-06-07,artist,167106,False,2,0.683,0.598,0,-5.487,1,0.0423,0.00873,0.0,0.156,0.62,78.969,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Jonas Brothers,Sucker,Happiness Begins,album,2019-06-07,artist,181026,False,1,0.842,0.734,1,-5.065,0,0.0588,0.0427,0.0,0.106,0.952,137.958,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Shawn Mendes,Señorita,Señorita,single,2019-06-21,artist,190960,False,1,0.759,0.54,9,-6.039,0,0.0287,0.037,0.0,0.0945,0.75,116.947,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Sam Smith,How Do You Sleep?,How Do You Sleep?,single,2019-07-19,artist,202204,False,1,0.477,0.682,1,-4.931,0,0.0925,0.153,0.0,0.0763,0.345,110.567,5,1,1,0,0,0,0,0,0,0,0,0,2019
+Dinah Jane,SZNS (feat. A Boogie Wit Da Hoodie),SZNS (feat. A Boogie Wit Da Hoodie),single,2019-07-26,artist,222574,True,1,0.557,0.565,8,-6.448,1,0.0962,0.025,0.0,0.347,0.409,178.242,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Bruno Martini,Somebody That You Loved,Somebody That You Loved,single,2019-08-02,artist,215998,False,1,0.707,0.721,7,-7.0,0,0.039,0.329,0.000309,0.0819,0.444,109.977,4,1,1,0,0,0,1,0,0,0,0,0,2019
+AJ Mitchell,Slow Dance,Slow Dance,single,2019-08-09,artist,178799,False,1,0.692,0.443,1,-5.671,1,0.0386,0.214,0.0,0.06,0.363,127.899,4,1,1,0,0,0,1,0,0,0,0,0,2019
+Normani,Motivation,Motivation,single,2019-08-16,artist,193837,False,1,0.599,0.887,4,-3.967,1,0.0984,0.0192,1.21e-06,0.3,0.881,170.918,4,1,1,0,0,1,0,1,0,0,0,0,2019
+Why Don't We,What Am I,What Am I,single,2019-08-23,artist,184665,False,1,0.614,0.647,0,-4.681,0,0.0524,0.0687,0.0,0.104,0.368,163.862,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Camila Cabello,Shameless,Shameless,single,2019-09-05,artist,219742,False,1,0.377,0.651,4,-5.437,0,0.0588,0.0197,5.31e-05,0.174,0.0851,129.698,4,1,1,0,0,0,1,0,0,0,0,0,2019
+OneRepublic,Wanted,Wanted,single,2019-09-06,artist,136247,False,1,0.668,0.534,1,-6.586,1,0.0677,0.164,0.0,0.1,0.711,145.816,4,1,1,0,1,0,0,0,0,0,0,0,2019
+Lauv,Feelings,Feelings,single,2019-09-19,artist,189613,False,1,0.694,0.466,9,-6.758,1,0.0384,0.0934,0.0,0.098,0.246,103.018,4,1,1,0,0,0,1,0,0,0,0,0,2019
+Zedd,Good Thing (with Kehlani),Good Thing (with Kehlani),single,2019-09-27,artist,210901,True,1,0.693,0.564,1,-3.857,0,0.0378,0.399,0.0,0.0409,0.574,185.913,3,1,1,0,0,0,1,0,0,0,0,0,2019
+New Hope Club,Know Me Too Well,Know Me Too Well,single,2019-10-04,artist,200013,False,1,0.75,0.698,1,-4.371,0,0.0388,0.427,0.0,0.0654,0.834,122.954,4,1,0,0,0,0,0,0,0,0,0,0,2019
+JP Saxe,If the World Was Ending - feat. Julia Michaels,If the World Was Ending (feat. Julia Michaels),single,2019-10-17,artist,208687,False,1,0.464,0.473,1,-10.086,1,0.129,0.866,0.0,0.109,0.604,75.801,4,1,0,0,1,0,0,1,0,0,0,0,2019
+AJ Mitchell,Like Strangers Do,Like Strangers Do,single,2019-10-18,artist,160790,False,1,0.633,0.242,3,-8.523,0,0.0761,0.515,0.0,0.0839,0.694,98.219,4,1,1,0,0,0,1,0,0,0,0,0,2019
+Dua Lipa,Don't Start Now,Don't Start Now,single,2019-10-31,artist,183290,False,1,0.794,0.793,11,-4.521,0,0.0842,0.0125,0.0,0.0952,0.677,123.941,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Doja Cat,Say So,Hot Pink,album,2019-11-07,artist,237893,True,5,0.787,0.673,11,-4.583,0,0.159,0.264,3.35e-06,0.0904,0.779,110.962,4,1,1,0,0,0,0,0,0,0,0,0,2019
+Lewis Capaldi,Before You Go,Divinely Uninspired To A Hellish Extent (Extended Edition),album,2019-11-22,artist,215106,False,13,0.459,0.575,3,-4.858,1,0.0573,0.604,0.0,0.0885,0.183,111.881,4,1,0,0,0,0,0,0,0,0,0,0,2019
+Camila Cabello,My Oh My (feat. DaBaby),Romance,album,2019-12-06,artist,170746,False,4,0.724,0.491,8,-6.024,1,0.0296,0.018,1.29e-05,0.0887,0.383,105.046,4,1,1,0,0,0,1,0,0,0,0,0,2019
+Camila Cabello,Feel It Twice,Romance,album,2019-12-06,artist,188939,False,9,0.516,0.436,0,-5.568,0,0.0283,0.842,0.0,0.0901,0.376,132.07,4,1,1,0,0,0,1,0,0,0,0,0,2019
+Camila Cabello,Easy,Romance,album,2019-12-06,artist,194686,False,8,0.574,0.593,4,-5.731,0,0.0463,0.411,1.55e-06,0.0966,0.355,128.073,4,1,1,0,0,0,1,0,0,0,0,0,2019
+SHAED,Trampoline,Melt (Deluxe),album,2019-12-27,artist,184280,False,15,0.619,0.459,7,-5.782,0,0.0334,0.56,0.0,0.137,0.498,126.803,4,1,0,0,0,0,1,0,0,0,0,0,2019
+New Hope Club,Let Me Down Slow,Let Me Down Slow,single,2020-01-31,artist,162973,False,1,0.563,0.573,4,-5.625,1,0.0326,0.345,0.0,0.079,0.316,60.471,4,1,0,0,0,0,0,0,0,0,0,0,2020
+Lauren Jauregui,Invisible Chains,Invisible Chains,single,2020-02-07,artist,200105,True,1,0.426,0.553,2,-7.72,1,0.0469,0.000745,0.00263,0.368,0.167,179.859,4,1,1,0,0,0,0,1,0,0,0,0,2020
+Niall Horan,No Judgement,No Judgement,single,2020-02-07,artist,176283,False,1,0.723,0.726,1,-3.835,0,0.0472,0.0564,0.000126,0.057,0.962,100.051,4,1,1,0,0,0,0,0,0,0,0,0,2020
+Lauv,Modern Loneliness,~how i'm feeling~,album,2020-02-20,artist,252337,True,1,0.702,0.508,8,-7.105,1,0.035,0.144,0.0,0.108,0.143,82.008,4,1,1,0,0,0,1,0,0,0,0,0,2020
+Tainy,NADA (with Lauren Jauregui & C. Tangana),NADA (with Lauren Jauregui & C. Tangana),single,2020-02-21,artist,188690,False,1,0.826,0.504,8,-7.355,1,0.14,0.152,4.89e-05,0.369,0.509,91.999,4,1,0,0,0,1,0,0,0,0,1,0,2020
+Lauv,i'm so tired...,~how i'm feeling~,album,2020-03-06,artist,162586,False,14,0.599,0.733,11,-7.058,1,0.203,0.176,0.0,0.242,0.534,102.211,4,1,1,0,0,0,1,0,0,0,0,0,2020
+The Weeknd,Blinding Lights,After Hours,album,2020-03-20,artist,200040,False,9,0.514,0.73,1,-5.934,1,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,4,1,0,0,0,0,0,1,0,0,0,0,2020
+Lauren Jauregui,Lento,Lento,single,2020-03-20,artist,173548,True,1,0.82,0.453,9,-8.56,0,0.105,0.0199,0.000152,0.0868,0.575,91.015,4,1,1,0,0,0,0,1,0,0,0,0,2020
+Dua Lipa,Levitating,Future Nostalgia,album,2020-03-27,artist,203807,False,5,0.695,0.884,6,-2.278,0,0.0753,0.0561,0.0,0.213,0.914,103.014,4,1,1,0,0,0,0,0,0,0,0,0,2020
+Dua Lipa,Break My Heart,Future Nostalgia,album,2020-03-27,artist,221820,False,9,0.73,0.729,4,-3.434,0,0.0884,0.167,1.39e-06,0.349,0.467,113.011,4,1,1,0,0,0,0,0,0,0,0,0,2020
+Dua Lipa,Physical,Future Nostalgia,album,2020-03-27,artist,193829,False,4,0.647,0.844,0,-3.756,1,0.0457,0.0137,0.000658,0.102,0.746,146.967,4,1,1,0,0,0,0,0,0,0,0,0,2020
+Lauren Jauregui,50ft.,50ft.,single,2020-04-17,artist,185910,True,1,0.559,0.501,0,-7.049,1,0.315,0.78,4.1e-05,0.107,0.341,191.54,4,1,1,0,0,0,0,1,0,0,0,0,2020
+Marshmello,Be Kind (with Halsey),Be Kind (with Halsey),single,2020-05-01,artist,172761,False,1,0.63,0.633,4,-7.088,1,0.0457,0.00776,0.0,0.0541,0.452,93.995,4,1,1,0,0,0,1,0,0,0,0,0,2020
+Ariana Grande,Stuck with U (with Justin Bieber),Stuck with U,single,2020-05-08,artist,228482,False,1,0.597,0.45,8,-6.658,1,0.0418,0.223,0.0,0.382,0.537,178.765,3,1,1,0,0,0,0,0,0,0,0,0,2020
+Jonas Brothers,X (with KAROL G),XV,single,2020-05-15,artist,185277,False,1,0.715,0.827,4,-5.09,0,0.0617,0.0485,3.61e-05,0.321,0.75,117.977,4,1,1,0,0,0,0,0,0,0,0,0,2020
+New Hope Club,Worse,Worse (Acoustic),single,2020-05-22,artist,194744,False,2,0.605,0.653,11,-6.658,0,0.059,0.0607,7.91e-06,0.177,0.752,94.992,4,1,0,0,0,0,0,0,0,0,0,0,2020
+Lady Gaga,Rain On Me (with Ariana Grande),Chromatica,album,2020-05-29,artist,182200,False,4,0.672,0.855,9,-3.764,1,0.0397,0.021,0.0,0.323,0.646,123.056,4,1,1,0,0,0,0,0,0,0,0,0,2020
+Ava Max,"Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)","Kings & Queens, Pt. 2 (feat. Lauv & Saweetie)",single,2020-08-06,artist,175992,False,1,0.661,0.779,1,-3.995,0,0.0678,0.00604,0.0,0.218,0.67,129.911,4,1,1,0,0,0,0,0,0,0,0,0,2020
+Why Don't We,Fallin’ (Adrenaline),Fallin’ (Adrenaline),single,2020-09-29,artist,216504,False,1,0.606,0.9,0,-4.504,1,0.119,0.0101,0.0,0.075,0.233,133.963,4,1,1,0,0,0,0,0,0,0,0,0,2020
+Julia Michaels,Lie Like This,Lie Like This,single,2020-10-01,artist,218382,True,1,0.735,0.694,1,-5.721,1,0.0538,0.136,1.72e-06,0.0675,0.849,120.983,4,1,1,0,0,0,1,0,0,0,0,0,2020
+Ariana Grande,positions,Positions,album,2020-10-30,artist,172324,True,12,0.737,0.802,0,-4.771,1,0.0878,0.468,0.0,0.0931,0.682,144.015,4,1,1,0,0,0,0,0,0,0,0,0,2020
+Ariana Grande,34+35,Positions,album,2020-10-30,artist,173710,True,2,0.83,0.585,0,-6.476,1,0.094,0.237,0.0,0.248,0.485,109.978,4,1,1,0,0,0,0,0,0,0,0,0,2020
+HRVY,"Baby, I Love Your Way","Baby, I Love Your Way",single,2020-12-04,artist,182986,False,1,0.587,0.544,4,-5.642,1,0.0481,0.553,0.0,0.133,0.336,73.746,4,1,1,0,0,0,0,0,0,0,0,0,2020
+Taylor Swift,willow,evermore (deluxe version),album,2021-01-07,artist,214706,False,1,0.392,0.574,7,-9.195,1,0.17,0.833,0.00179,0.145,0.529,81.112,4,1,0,0,0,0,0,0,0,0,0,0,2021
+Dua Lipa,We're Good,Future Nostalgia (The Moonlight Edition),album,2021-02-11,artist,165506,False,13,0.722,0.588,6,-5.932,1,0.0544,0.0319,0.0,0.183,0.59,134.01,4,1,1,0,0,0,0,0,0,0,0,0,2021
+Doja Cat,Kiss Me More (feat. SZA),Kiss Me More (feat. SZA),single,2021-04-09,artist,208866,True,1,0.762,0.701,8,-3.541,1,0.0286,0.235,0.000158,0.123,0.742,110.968,4,1,1,0,0,0,0,0,0,0,0,0,2021
+Regard,You,You,single,2021-04-16,artist,233386,True,1,0.691,0.695,0,-5.6,1,0.0367,0.0592,0.0,0.0647,0.514,106.064,4,1,1,0,0,0,1,0,0,0,0,0,2021
+The Weeknd,Save Your Tears (with Ariana Grande) (Remix),Save Your Tears (Remix),single,2021-04-23,artist,191013,False,1,0.65,0.825,0,-4.645,1,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,4,1,0,0,0,0,0,1,0,0,0,0,2021
+Olivia Rodrigo,good 4 u,SOUR,album,2021-05-21,artist,178146,True,6,0.563,0.664,9,-5.044,1,0.154,0.335,0.0,0.0849,0.688,166.928,4,1,0,0,0,0,0,0,0,0,0,0,2021
+Olivia Rodrigo,deja vu,SOUR,album,2021-05-21,artist,215506,True,5,0.442,0.612,2,-7.222,1,0.112,0.584,5.7e-06,0.37,0.178,180.917,4,1,0,0,0,0,0,0,0,0,0,0,2021
+Olivia Rodrigo,drivers license,SOUR,album,2021-05-21,artist,242013,True,3,0.561,0.431,10,-8.81,1,0.0578,0.768,1.42e-05,0.106,0.137,143.875,4,1,0,0,0,0,0,0,0,0,0,0,2021
+Julia Michaels,Heaven,Broad Stories,compilation,2021-06-04,artist,191813,False,3,0.554,0.371,7,-9.104,0,0.0361,0.855,0.0,0.0838,0.245,199.828,3,1,1,0,0,0,1,0,0,0,0,0,2021
+Calum Scott,Biblical,Biblical,single,2021-06-10,artist,229673,False,1,0.565,0.272,4,-4.747,1,0.032,0.802,0.0,0.111,0.331,135.812,4,1,0,0,0,0,0,0,0,0,0,0,2021
